@@ -1,0 +1,52 @@
+# Checks and error log
+
+## Clean-room rerun (November 20, 2026)
+
+I copied the repo to a new folder, deleted every file in results/ except the discount panel output (that one needs CEF Connect downloads), and ran all the scripts from a different working directory. Every results file came out byte-for-byte the same as the one shipped.
+
+## Numbers checked a second, independent way
+
+- Welltower at June 30, 2026: 183,335 shares, $41,611,545, 13.155% of net assets. Checked with a plain regex over the raw N-PORT XML instead of the XML parser, and against the semi-annual report's top-ten table ($41,611,545, 13.1%).
+- Welltower's price contribution, 10.81 points: holdings_attribution.py and nport_engine.py, which are written separately, agree.
+- Brinson active return, 5.58 points: brinson.py sums sector effects plus a residual, and welltower_share_of_edge.py computes sleeve minus index directly. Same answer.
+- Discount panel: the browser run and discount_panel.py give identical coefficients and comparables on RFI, RQI and RNP (-1.5603 / -0.3347 / -0.3442; 128 weeks; median -8.46%).
+- Discount signal: discount_signal.py reproduces the browser ranking for RFI, RQI and RNP to the hundredth.
+- Prices on November 18: RFI, RQI and RNP price and NAV from Nasdaq (RFI/XRFIX, RQI/XRQIX, RNP/XRNPX) match CEF Connect.
+- RFI shares outstanding: semi-annual report and CEF Connect (26,761,638).
+- Welltower 11.08% of All Equity REITs: 169,086.8 / 1,525,999.2 from Nareit's October 30 file, whose sector totals add up to the printed total.
+- Nareit dividend yield 3.77%: Nareit's monthly index file and Nareit's October market commentary.
+- NIC occupancy 90.4%: NIC's release and Senior Housing News.
+
+## Error log (all caught before publication)
+
+1. First draft said the $0.08 "hasn't moved since 1993" and that the board had never cut it. Wrong: it went to $0.11 in 2005, quarterly in 2009, was cut in March 2009, and came back to $0.08 monthly in 2016.
+2. First target used overlapping weekly windows as if they were separate events. Replaced with separate episodes, then with the 36-fund panel.
+3. A "same position" claim that matched RFI's and the firm's Welltower prices proved nothing, since every holder marks at the same close. Deleted.
+4. VNQ's Welltower weight left out the part VNQ holds through Vanguard Real Estate II. Corrected with a look-through (8.51% became 9.97%).
+5. RFI's own 8 discount episodes (median -1.37% a year later) were far more generous than the 36-fund panel (-7.22%). The target was cut from $11.17 to $10.82, then rebuilt.
+6. A draft said the non-health-care sectors added "about 1 point". The sector effects sum to 5.08 points, not 5.58, so the right figure was about half a point. Fixed before it went out.
+7. The payout script labelled January 2008 (10.62%) as the high "with no cut following". A cut followed 14 months later, so the label was changed.
+8. The three-case target treated the market, the discount and the manager as moving independently. Replaced with the joint simulation, which draws them from the same historical windows.
+9. RFI's 3-year average discount is 0.60% when the latest week is excluded (the model's convention) and 0.40% when it is included (the signal table). Both are labelled.
+10. The discount model was only judged on the data it was fitted to. Fitted on pre-2016 data and tested after 2016, it ranked funds correctly but its predicted changes came true at only about a third of their size (out-of-sample R-squared -0.11). The simulation now uses the post-2016 fit (RFI forecast -6.3% instead of -4.6%), and the expected price fell from $10.58 to $10.46.
+11. The first signal backtest (+18.5 points a year) was mostly last week's noise reversing. Skipping a month before trading cut it to +7.3 (one-month holds) and +1.8 to +3.6 points a year on annual holds, positive in 8 of 10 years but not statistically significant (t 0.7 to 1.8).
+12. Rebuilt in real time since 2005, the simulation's median forecast was too high (+15% against +6% realized) because it assumed REITs would repeat their past, and its 5th percentile was breached 8% of the time instead of 5%.
+13. A draft line said Welltower buys assets "in its own currency" without a number behind it. The 10-Q shows $7.5bn of new common stock in the first nine months of 2026 against $13.3bn of investments, so the line stays, with the figure.
+
+## More checks (November 20, 2026)
+
+- Welltower's 2026 stock issuance: cash-flow statement ($7.51bn, nine months) against the equity statement's three quarters ($7.56bn), both SEC XBRL.
+- Section 19 notices: my parse of the 2026 January-June notices matches the figures typed earlier from the same exhibit and the October press release.
+- Fair-value levels: the N-CSRS hierarchy table adds up to total investments ($315,725,535).
+- Options P&L: realized plus unrealized on written options, read line by line from each statement of operations.
+14. Claimed that a valuation-aware REIT input "replaces" the assumption that made the real-time simulation too optimistic. Tested: it doesn't. With a valuation-aware input chosen from data available at the time, the median was still about 9 points too high (+15.6% against +6.2%). The article now says so and calls the 9.3% generous.
+15. A chart title for the macro piece first said REITs had yielded less than the 10-year "only in 2006 and 2007" since 1990. Wrong: the gap was negative in many quarters (1990s, 2009, 2011, 2023-26). The true statement is that it reached -1 point only in 2006-07 before this year. Title fixed before publishing.
+
+16. Buy level restated as a discount (-10.1% or wider) instead of a price, since NAV moves. Rounding the line from -10.07% to -10.1% drops one episode (December 21, 2018, at about -10.07%): 7 of 7 beat REITs, median +14.8%, instead of 8 of 8 and +16.8%. The post now quotes the -10.1% figures. buy_rule_backtest.py prints both.
+17. Bad data in the discount panel. CEF Connect's NAV for SRV wasn't adjusted for its 2015 reverse split until September 18, 2015, so the panel had SRV at about -83% for 2007-2015, and TYG had four weeks in June 2008 at +250% to +334% for the same reason. Found while checking the panel against dead funds. Dropped those weeks (discount_panel.py, BAD). The post-2016 fit moved from (0.4165, -0.0179, -0.1903) to (0.4413, -0.0005, -0.2570) and RFI's forecast from -6.32% to -5.83%; the full-sample forecast from -4.61% to -5.48%; out-of-sample calibration slope 0.35 to 0.39. Every simulation number in the post was rerun: base case $10.46/9.3% became $10.52/9.8%.
+18. Buy-rule "episodes" overlapped. Episodes 60 days apart share most of their 12-month windows (October and December 2008; February 2015, November 2015 and January 2016). With episodes a year apart there are four at -10.1% (all beat REITs, median edge +21 pts), not seven. None started with REITs yielding less than the 10-year by more than 0.12 pts; the closest match to today (mid-2006, gap -0.75 to -0.94, discount -8% to -9%) trailed REITs in three of four weeks. buy_rule_independence.py.
+19. Simulation optimism, located. Splitting the real-time misses: the REIT market came in 5.9 pts a year below the valuation-aware input on average, while RFI's edge over REITs was unbiased (median miss +0.2 pts). The post now corrects the REIT input by that amount: price target $9.94, HOLD range -7% to +15% (was -2% to +20% on the uncorrected run; restated before publication). simulation_calibration.py, price_target.py.
+20. Survivorship. 35 dead CEFs found on EDGAR in the panel's four categories; 27 have readable points (291 fund-dates, every overlapping date between two reports agrees to 0.3 pts) 26 of them form year-apart pairs, and 20 have a priced ending (5 at NAV, 15 into another listed CEF). RFI's half-year-basis forecast: -5.96% without them, -5.96% with them (post-2016 fit: -6.38% vs -6.39%). The caveat that the panel "flatters reversion" was not supported, and is gone from the post. Tortoise's four funds (delisted December 2024) were left out of the endings because their combined reports don't label which table is whose. dead_fund_points.py, survivorship_check.py.
+21. Welltower's 38x had no peer context. Checked two ways: company guidance against the November 18 close (Ventas 22.7x, American Healthcare REIT 26.1x) and Nareit's REITWatch at September 30 (Welltower 35.9x, median equity REIT 12.5x, health care 15.4x). welltower_peer_multiples.py.
+22. Does the -5.9 pt correction double-count? Tested three ways (bias_correction_check.py). Miss on the assumption: slope -0.78, t -0.85 (ex 2006-08: t -0.27); today's 5.68% is below the sample's 8.1% minimum, so no extrapolation. Miss on the yield gap: slope +4.92, t 1.80 (ex 2006-08: t 1.53), i.e. bigger misses when REITs were expensive, the opposite of a double count. Negative-gap months: -5.83 (ex 2006-08: +1.62). Average miss -5.92, 95% interval -13.0 to +1.2 (Newey-West). Verdict: no double count found, but the correction is imprecise. Target range $9.25 to $10.63; absolute rating flips to BUY below a 5.12 pt correction; the edge over REITs stays +4.1 to +5.2 across the range. Post now carries an absolute HOLD (marginal) and a relative OVERWEIGHT.
+23. The relative call was described as robust to "however I set the inputs". Only the REIT input had been varied. Holding the discount at today's -8.65% (or the post-2016 median -8.74%) cuts the edge over REITs from +4.6 to +1.8 pts, below the +2 pt OVERWEIGHT line. About 2.8 pts of the edge is discount narrowing. Post now states the overweight is conditional on narrowing. relative_call.py.
