@@ -1,0 +1,3601 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/nport" xmlns:com="http://www.sec.gov/edgar/common" xmlns:ncom="http://www.sec.gov/edgar/nportcommon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sec.gov/edgar/nport eis_NPORT_Filer.xsd">
+  <headerData>
+    <submissionType>NPORT-P</submissionType>
+    <isConfidential>false</isConfidential>
+    <filerInfo>
+
+      <filer>
+        <issuerCredentials>
+          <cik>0001557523</cik>
+          <ccc>XXXXXXXX</ccc>
+        </issuerCredentials>
+      </filer>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <genInfo>
+      <regName>PRINCIPAL REAL ESTATE INCOME FUND</regName>
+      <regFileNumber>811-22742</regFileNumber>
+      <regCik>0001557523</regCik>
+      <regLei>549300HK3LIJEGLGMK36</regLei>
+      <regStreet1>1290 BROADWAY SUITE 1000</regStreet1>
+      <regCity>DENVER</regCity>
+      <regStateConditional regCountry="US" regState="US-CO"/>
+      <regZipOrPostalCode>80203</regZipOrPostalCode>
+      <regPhone>3036232577</regPhone>
+      <seriesName>Principal Real Estate Income Fund</seriesName>
+      <seriesLei>549300HK3LIJEGLGMK36</seriesLei>
+      <repPdEnd>2026-10-31</repPdEnd>
+      <repPdDate>2026-07-31</repPdDate>
+      <isFinalFiling>N</isFinalFiling>
+    </genInfo>
+    <fundInfo>
+      <totAssets>106452854.75</totAssets>
+      <totLiabs>32391364.60</totLiabs>
+      <netAssets>74061490.15</netAssets>
+      <assetsAttrMiscSec>0.00000000</assetsAttrMiscSec>
+      <assetsInvested>0.00000000</assetsInvested>
+      <amtPayOneYrBanksBorr>32000000.00000000</amtPayOneYrBanksBorr>
+      <amtPayOneYrCtrldComp>0.00000000</amtPayOneYrCtrldComp>
+      <amtPayOneYrOthAffil>0.00000000</amtPayOneYrOthAffil>
+      <amtPayOneYrOther>0.00000000</amtPayOneYrOther>
+      <amtPayAftOneYrBanksBorr>0.00000000</amtPayAftOneYrBanksBorr>
+      <amtPayAftOneYrCtrldComp>0.00000000</amtPayAftOneYrCtrldComp>
+      <amtPayAftOneYrOthAffil>0.00000000</amtPayAftOneYrOthAffil>
+      <amtPayAftOneYrOther>0.00000000</amtPayAftOneYrOther>
+      <delayDeliv>0.00000000</delayDeliv>
+      <standByCommit>0.00000000</standByCommit>
+      <liquidPref>0.00000000</liquidPref>
+      <cshNotRptdInCorD>169.20000000</cshNotRptdInCorD>
+      <curMetrics>
+        <curMetric>
+          <curCd>USD</curCd>
+          <intrstRtRiskdv01 period10Yr="3310.85799900" period1Yr="3853.49897900" period30Yr="0.00000000" period3Mon="53.23495900" period5Yr="12455.55296500"/>
+          <intrstRtRiskdv100 period10Yr="335439.71796700" period1Yr="391397.58151600" period30Yr="0.00000000" period3Mon="5939.67451500" period5Yr="1262254.85344100"/>
+        </curMetric>
+      </curMetrics>
+      <creditSprdRiskInvstGrade period10Yr="1680.69316200" period1Yr="2937.44845500" period30Yr="0.00000000" period3Mon="22.14891100" period5Yr="8624.73417400"/>
+      <creditSprdRiskNonInvstGrade period10Yr="1654.73952100" period1Yr="666.10429300" period30Yr="0.00000000" period3Mon="9.24445500" period5Yr="3772.44487400"/>
+      <isNonCashCollateral>N</isNonCashCollateral>
+      <returnInfo>
+        <monthlyTotReturns>
+          <monthlyTotReturn rtn1="-2.31000000" rtn2="5.74000000" rtn3="0.34000000"/>
+        </monthlyTotReturns>
+        <monthlyReturnCats>
+          <equityContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+          </equityContracts>
+        </monthlyReturnCats>
+        <othMon1 netRealizedGain="79142.70000000" netUnrealizedAppr="-590391.01000000"/>
+        <othMon2 netRealizedGain="22714.73000000" netUnrealizedAppr="-192381.00000000"/>
+        <othMon3 netRealizedGain="99984.81000000" netUnrealizedAppr="119788.37000000"/>
+      </returnInfo>
+      <mon1Flow redemption="0.00000000" reinvestment="0.00000000" sales="0.00000000"/>
+      <mon2Flow redemption="0.00000000" reinvestment="0.00000000" sales="0.00000000"/>
+      <mon3Flow redemption="0.00000000" reinvestment="0.00000000" sales="0.00000000"/>
+    </fundInfo>
+    <invstOrSecs>
+      <invstOrSec>
+        <name>Sabra Health Care Reit Inc</name>
+        <lei>549300E3BC7GU7TAZ621</lei>
+        <title>Sabra Health Care REIT, Inc.</title>
+        <cusip>78573L106</cusip>
+        <identifiers>
+          <isin value="US78573L1061"/>
+        </identifiers>
+        <balance>92141.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>1950624.97000000</valUSD>
+        <pctVal>2.633791145775</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Unibail-rodamco-westfield</name>
+        <lei>969500SHQITWXSIS7N89</lei>
+        <title>Unibail-Rodamco-Westfield</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="FR0013326246"/>
+        </identifiers>
+        <balance>8373.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.86719000"/>
+        <valUSD>1016705.57000000</valUSD>
+        <pctVal>1.372785732424</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>FR</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Morgan Stanley Capital I Trust</name>
+        <lei>N/A</lei>
+        <title>Morgan Stanley Capital I Trust</title>
+        <cusip>61767FAC5</cusip>
+        <identifiers>
+          <isin value="US61767FAC59"/>
+        </identifiers>
+        <balance>13495500.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>134.96000000</valUSD>
+        <pctVal>0.000182226957</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2026-08-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bmo Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>BMO 2025-5C12 Mortgage Trust</title>
+        <cusip>09663VAL4</cusip>
+        <identifiers>
+          <isin value="US09663VAL45"/>
+        </identifiers>
+        <balance>13236000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1003057.17000000</valUSD>
+        <pctVal>1.354357261740</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2058-10-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.06400000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Benchmark Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Benchmark 2020-B19 Mortgage Trust</title>
+        <cusip>08162WBH8</cusip>
+        <identifiers>
+          <isin value="US08162WBH88"/>
+        </identifiers>
+        <balance>2000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1518195.80000000</valUSD>
+        <pctVal>2.049912575246</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-09-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.21100000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Equity Residential</name>
+        <lei>5493008RACSH5EP3PI59</lei>
+        <title>Equity Residential</title>
+        <cusip>29476L107</cusip>
+        <identifiers>
+          <isin value="US29476L1070"/>
+        </identifiers>
+        <balance>9794.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>650811.30000000</valUSD>
+        <pctVal>0.878744538736</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Barclays Commercial Mortgage Securities Llc</name>
+        <lei>N/A</lei>
+        <title>BBCMS Mortgage Trust 2024-C24</title>
+        <cusip>07336VAC5</cusip>
+        <identifiers>
+          <isin value="US07336VAC54"/>
+        </identifiers>
+        <balance>2900000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>449832.92000000</valUSD>
+        <pctVal>0.607377625117</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2034-02-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.93400000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Blackstone Digital Infrastructure Trust Inc</name>
+        <lei>N/A</lei>
+        <title>Blackstone Digital Infrastructure Trust, Inc.</title>
+        <cusip>09264B107</cusip>
+        <identifiers>
+          <isin value="US09264B1070"/>
+        </identifiers>
+        <balance>11455.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>238378.55000000</valUSD>
+        <pctVal>0.321865722006</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Mitsubishi Estate Logistics Reit Investment Corp</name>
+        <lei>353800YYSGZU31ICQK38</lei>
+        <title>Mitsubishi Estate Logistics REIT Investment Corp.</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3048480002"/>
+        </identifiers>
+        <balance>252.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="159.10500000"/>
+        <valUSD>197190.53000000</valUSD>
+        <pctVal>0.266252447257</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>JP</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank</name>
+        <lei>N/A</lei>
+        <title>BANK 2019-BNK21</title>
+        <cusip>06540BAJ8</cusip>
+        <identifiers>
+          <isin value="US06540BAJ89"/>
+        </identifiers>
+        <balance>2500000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1857971.50000000</valUSD>
+        <pctVal>2.508687708331</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2052-10-17</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank</name>
+        <lei>N/A</lei>
+        <title>BANK 2020-BNK27</title>
+        <cusip>06539YAA0</cusip>
+        <identifiers>
+          <isin value="US06539YAA01"/>
+        </identifiers>
+        <balance>1949000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1504574.01000000</valUSD>
+        <pctVal>2.031520034167</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Wells Fargo Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Wells Fargo Commercial Mortgage Trust 2026-5C8</title>
+        <cusip>95005BAQ3</cusip>
+        <identifiers>
+          <isin value="US95005BAQ32"/>
+        </identifiers>
+        <balance>1777000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>124014.16000000</valUSD>
+        <pctVal>0.167447562490</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2059-03-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.79200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank5</name>
+        <lei>N/A</lei>
+        <title>BANK5 2024-5YR12</title>
+        <cusip>06644XBN5</cusip>
+        <identifiers>
+          <isin value="US06644XBN57"/>
+        </identifiers>
+        <balance>158121000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>645766.16000000</valUSD>
+        <pctVal>0.871932442477</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2057-12-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>0.09900000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Sl Green Realty Corp</name>
+        <lei>549300VQZPJU97H3GT17</lei>
+        <title>SL Green Realty Corp.</title>
+        <cusip>78440X887</cusip>
+        <identifiers>
+          <isin value="US78440X8873"/>
+        </identifiers>
+        <balance>3961.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>209655.73000000</valUSD>
+        <pctVal>0.283083326537</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bx Trust</name>
+        <lei>N/A</lei>
+        <title>BX Commercial Mortgage Trust 2024-BIO2</title>
+        <cusip>05613GAG7</cusip>
+        <identifiers>
+          <isin value="US05613GAG73"/>
+        </identifiers>
+        <balance>1420000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1336342.26000000</valUSD>
+        <pctVal>1.804368582502</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-08-13</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>7.71300000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Cousins Properties Inc</name>
+        <lei>5493007XPYD5EJABN062</lei>
+        <title>Cousins Properties, Inc.</title>
+        <cusip>222795502</cusip>
+        <identifiers>
+          <isin value="US2227955026"/>
+        </identifiers>
+        <balance>13560.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>427818.00000000</valUSD>
+        <pctVal>0.577652433313</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Stockland</name>
+        <lei>549300Y8E5TMSOLM7P64</lei>
+        <title>Stockland</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000SGP0"/>
+        </identifiers>
+        <balance>153466.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.42116000"/>
+        <valUSD>461102.07000000</valUSD>
+        <pctVal>0.622593562546</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>AU</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bmo Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>BMO 2025-5C12 Mortgage Trust</title>
+        <cusip>09663VAS9</cusip>
+        <identifiers>
+          <isin value="US09663VAS97"/>
+        </identifiers>
+        <balance>2800000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1971430.16000000</valUSD>
+        <pctVal>2.661882924590</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2058-10-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>4.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Barclays Commercial Mortgage Securities Llc</name>
+        <lei>N/A</lei>
+        <title>BBCMS Mortgage Trust 2026-5C40</title>
+        <cusip>05557AAM5</cusip>
+        <identifiers>
+          <isin value="US05557AAM53"/>
+        </identifiers>
+        <balance>1500000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>123679.35000000</valUSD>
+        <pctVal>0.166995492191</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2059-02-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.12600000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>American Healthcare Reit Inc</name>
+        <lei>2549004GGE2APGNT6O92</lei>
+        <title>American Healthcare REIT, Inc.</title>
+        <cusip>398182303</cusip>
+        <identifiers>
+          <isin value="US3981823038"/>
+        </identifiers>
+        <balance>7054.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>392202.40000000</valUSD>
+        <pctVal>0.529563203772</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Wells Fargo Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Wells Fargo Commercial Mortgage Trust 2026-5C8</title>
+        <cusip>95005BAL4</cusip>
+        <identifiers>
+          <isin value="US95005BAL45"/>
+        </identifiers>
+        <balance>1777000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1232681.98000000</valUSD>
+        <pctVal>1.664403426805</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2031-02-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>4.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Mitsubishi Estate Co Ltd</name>
+        <lei>353800KOFMRGOXSJ5Z65</lei>
+        <title>Mitsubishi Estate Co., Ltd.</title>
+        <cusip>J43916113</cusip>
+        <identifiers>
+          <isin value="JP3899600005"/>
+        </identifiers>
+        <balance>23300.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="159.10500000"/>
+        <valUSD>570107.16000000</valUSD>
+        <pctVal>0.769775437741</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>JP</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Invitation Homes Inc</name>
+        <lei>984500FE452E665C9F85</lei>
+        <title>Invitation Homes, Inc.</title>
+        <cusip>46187W107</cusip>
+        <identifiers>
+          <isin value="US46187W1071"/>
+        </identifiers>
+        <balance>25026.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>743772.72000000</valUSD>
+        <pctVal>1.004263779318</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bmo Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>BMO 2024-5C4 Mortgage Trust</title>
+        <cusip>09660SAC4</cusip>
+        <identifiers>
+          <isin value="US09660SAC44"/>
+        </identifiers>
+        <balance>6804500.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>429133.96000000</valUSD>
+        <pctVal>0.579429281170</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-05-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.76700000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Crown Castle Inc</name>
+        <lei>54930012H97VSM0I2R19</lei>
+        <title>Crown Castle, Inc.</title>
+        <cusip>22822V101</cusip>
+        <identifiers>
+          <isin value="US22822V1017"/>
+        </identifiers>
+        <balance>4827.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>368300.10000000</valUSD>
+        <pctVal>0.497289616039</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Comm Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Commercial Mortgage Trust</title>
+        <cusip>200474BH6</cusip>
+        <identifiers>
+          <isin value="US200474BH60"/>
+        </identifiers>
+        <balance>689420.52000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>672645.54000000</valUSD>
+        <pctVal>0.908225771095</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2048-02-10</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>4.42100000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Ventas Inc</name>
+        <lei>ORQTRC074CWLT3DKHT41</lei>
+        <title>Ventas, Inc.</title>
+        <cusip>92276F100</cusip>
+        <identifiers>
+          <isin value="US92276F1003"/>
+        </identifiers>
+        <balance>12635.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>1181498.85000000</valUSD>
+        <pctVal>1.595294460869</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Mercialys Sa</name>
+        <lei>969500081CGAXB7YS433</lei>
+        <title>Mercialys SA</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="FR0010241638"/>
+        </identifiers>
+        <balance>125603.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.86719000"/>
+        <valUSD>1738068.94000000</valUSD>
+        <pctVal>2.346791748964</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>FR</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Vornado Realty Trust</name>
+        <lei>N/A</lei>
+        <title>Vornado Realty Trust</title>
+        <cusip>929042109</cusip>
+        <identifiers>
+          <isin value="US9290421091"/>
+        </identifiers>
+        <balance>6991.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>275375.49000000</valUSD>
+        <pctVal>0.371820077400</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Cantor Commercial Real Estate Lending</name>
+        <lei>N/A</lei>
+        <title>Cantor Commercial Real Estate Lending 2019-CF2</title>
+        <cusip>12528YAL7</cusip>
+        <identifiers>
+          <isin value="US12528YAL74"/>
+        </identifiers>
+        <balance>1750000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1549037.88000000</valUSD>
+        <pctVal>2.091556457833</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-10-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>3.57900000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Benchmark Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Benchmark 2023-B40 Mortgage Trust</title>
+        <cusip>08163WAM7</cusip>
+        <identifiers>
+          <isin value="US08163WAM73"/>
+        </identifiers>
+        <balance>1290000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>891819.83000000</valUSD>
+        <pctVal>1.204161337010</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2033-12-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>4.00000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Jp Morgan Chase Commercial Mortgage Sec Trust</name>
+        <lei>N/A</lei>
+        <title>JPMorgan Chase Commercial Mortgage Securities Trust</title>
+        <cusip>46634SAM7</cusip>
+        <identifiers>
+          <isin value="US46634SAM70"/>
+        </identifiers>
+        <balance>280745.44000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>277981.92000000</valUSD>
+        <pctVal>0.375339355766</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2045-05-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>4.97300000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Citigroup Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Citigroup Commercial Mortgage Trust 2019-GC43</title>
+        <cusip>17328HBJ9</cusip>
+        <identifiers>
+          <isin value="US17328HBJ95"/>
+        </identifiers>
+        <balance>2000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1620742.60000000</valUSD>
+        <pctVal>2.188374277532</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-11-10</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>3.61000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Citigroup Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Citigroup Commercial Mortgage Trust 2019-GC43</title>
+        <cusip>17328HAJ0</cusip>
+        <identifiers>
+          <isin value="US17328HAJ05"/>
+        </identifiers>
+        <balance>4074000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2360095.90000000</valUSD>
+        <pctVal>3.186670826120</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-11-10</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.00000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Ck Asset Holdings Ltd</name>
+        <lei>5299006GJZSGP78B8S35</lei>
+        <title>CK Asset Holdings, Ltd.</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KYG2177B1014"/>
+        </identifiers>
+        <balance>18000.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.84240000"/>
+        <valUSD>109803.12000000</valUSD>
+        <pctVal>0.148259398747</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>KY</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Gaming And Leisure Properties Inc</name>
+        <lei>5493006GWRDBCZYWTM57</lei>
+        <title>Gaming and Leisure Properties, Inc.</title>
+        <cusip>36467J108</cusip>
+        <identifiers>
+          <isin value="US36467J1088"/>
+        </identifiers>
+        <balance>28299.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>1267512.21000000</valUSD>
+        <pctVal>1.711432226698</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Comm Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Commercial Mortgage Trust</title>
+        <cusip>20048EAE1</cusip>
+        <identifiers>
+          <isin value="US20048EAE14"/>
+        </identifiers>
+        <balance>45804.24000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>44521.81000000</valUSD>
+        <pctVal>0.060114655956</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2046-01-10</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>3.73600000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bmo Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>BMO 2023-C4 Mortgage Trust</title>
+        <cusip>05610CAP9</cusip>
+        <identifiers>
+          <isin value="US05610CAP95"/>
+        </identifiers>
+        <balance>2125000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1883413.85000000</valUSD>
+        <pctVal>2.543040716822</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2033-01-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>5.86200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>British Land Co Plc/the</name>
+        <lei>RV5B68J2GV3QGMRPW209</lei>
+        <title>British Land Co. PLC</title>
+        <cusip>G15540118</cusip>
+        <identifiers>
+          <isin value="GB0001367019"/>
+        </identifiers>
+        <balance>61054.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="GBP" exchangeRt="0.74198000"/>
+        <valUSD>363700.75000000</valUSD>
+        <pctVal>0.491079438535</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>GB</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Legends Outlets (kansas City, Ks) Mortgage Secured Pass-through Trust</name>
+        <lei>N/A</lei>
+        <title>MES01 G</title>
+        <cusip>524947AF5</cusip>
+        <identifiers>
+          <isin value="US524947AF57"/>
+        </identifiers>
+        <balance>2320000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2291610.62000000</valUSD>
+        <pctVal>3.094199988899</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2027-11-05</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>10.03400000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Msrw Pass-through Trust</name>
+        <lei>N/A</lei>
+        <title>MSRW 2026-FAYM Pass-Through Trust</title>
+        <cusip>55361CAE0</cusip>
+        <identifiers>
+          <isin value="US55361CAE03"/>
+        </identifiers>
+        <balance>2000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1980830.60000000</valUSD>
+        <pctVal>2.674575674872</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2031-05-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>9.68200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Smartstop Self Storage Reit Inc</name>
+        <lei>549300EC266625K12S42</lei>
+        <title>Smartstop Self Storage REIT, Inc.</title>
+        <cusip>83192D402</cusip>
+        <identifiers>
+          <isin value="US83192D4025"/>
+        </identifiers>
+        <balance>19788.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>663689.52000000</valUSD>
+        <pctVal>0.896133089755</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Wells Fargo Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Wells Fargo Commercial Mortgage Trust 2025-5C3</title>
+        <cusip>95004JAJ3</cusip>
+        <identifiers>
+          <isin value="US95004JAJ34"/>
+        </identifiers>
+        <balance>32613000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2614848.38000000</valUSD>
+        <pctVal>3.530645109494</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2058-01-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.65400000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Wells Fargo Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Wells Fargo Commercial Mortgage Trust</title>
+        <cusip>95003MBU1</cusip>
+        <identifiers>
+          <isin value="US95003MBU18"/>
+        </identifiers>
+        <balance>45827000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>99265.86000000</valUSD>
+        <pctVal>0.134031680700</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2055-04-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>0.04700000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank</name>
+        <lei>N/A</lei>
+        <title>BANK 2020-BNK25</title>
+        <cusip>06539WAE6</cusip>
+        <identifiers>
+          <isin value="US06539WAE66"/>
+        </identifiers>
+        <balance>3000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1719282.90000000</valUSD>
+        <pctVal>2.321426285803</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-02-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.91100000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>National Health Investors Inc</name>
+        <lei>549300ZPKZIG6DKDEC02</lei>
+        <title>National Health Investors, Inc.</title>
+        <cusip>63633D104</cusip>
+        <identifiers>
+          <isin value="US63633D1046"/>
+        </identifiers>
+        <balance>5847.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>448172.55000000</valUSD>
+        <pctVal>0.605135744760</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Ctp Nv</name>
+        <lei>3157000YTVO4TN65UM14</lei>
+        <title>CTP NV</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="NL00150006R6"/>
+        </identifiers>
+        <balance>10200.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.86719000"/>
+        <valUSD>183253.96000000</valUSD>
+        <pctVal>0.247434880973</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>NL</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Barclays Commercial Mortgage Securities Llc</name>
+        <lei>N/A</lei>
+        <title>BBCMS Mortgage Trust 2024-C24</title>
+        <cusip>07336VAG6</cusip>
+        <identifiers>
+          <isin value="US07336VAG68"/>
+        </identifiers>
+        <balance>2125000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1511641.49000000</valUSD>
+        <pctVal>2.041062753312</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2034-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>4.25000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Merlin Properties Socimi Sa</name>
+        <lei>959800L8KD863DP30X04</lei>
+        <title>Merlin Properties Socimi SA</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="ES0105025003"/>
+        </identifiers>
+        <balance>18209.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.86719000"/>
+        <valUSD>316225.44000000</valUSD>
+        <pctVal>0.426976880102</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>ES</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Benchmark Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Benchmark 2022-B36 Mortgage Trust</title>
+        <cusip>08163QAA6</cusip>
+        <identifiers>
+          <isin value="US08163QAA67"/>
+        </identifiers>
+        <balance>15860000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2140319.69000000</valUSD>
+        <pctVal>2.889922530136</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2032-05-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.61800000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Digital Realty Trust Inc</name>
+        <lei>549300HKCZ31D08NEI41</lei>
+        <title>Digital Realty Trust, Inc.</title>
+        <cusip>253868103</cusip>
+        <identifiers>
+          <isin value="US2538681030"/>
+        </identifiers>
+        <balance>1322.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>249223.44000000</valUSD>
+        <pctVal>0.336508811117</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Sumitomo Realty &amp; Development Co Ltd</name>
+        <lei>353800SO2DCLOI3LNZ64</lei>
+        <title>Sumitomo Realty &amp; Development Co., Ltd.</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3409000001"/>
+        </identifiers>
+        <balance>16100.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="159.10500000"/>
+        <valUSD>364591.31000000</valUSD>
+        <pctVal>0.492281898813</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>JP</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Frontview Reit Inc</name>
+        <lei>N/A</lei>
+        <title>FrontView REIT, Inc.</title>
+        <cusip>35922N100</cusip>
+        <identifiers>
+          <isin value="US35922N1000"/>
+        </identifiers>
+        <balance>31330.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>637252.20000000</valUSD>
+        <pctVal>0.860436643536</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Prologis Inc</name>
+        <lei>529900DFH19P073LZ636</lei>
+        <title>Prologis, Inc.</title>
+        <cusip>74340W103</cusip>
+        <identifiers>
+          <isin value="US74340W1036"/>
+        </identifiers>
+        <balance>6087.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>880241.07000000</valUSD>
+        <pctVal>1.188527355062</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank</name>
+        <lei>N/A</lei>
+        <title>BANK 2020-BNK25</title>
+        <cusip>06539WAC0</cusip>
+        <identifiers>
+          <isin value="US06539WAC01"/>
+        </identifiers>
+        <balance>1250000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>883517.88000000</valUSD>
+        <pctVal>1.192951800200</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Americold Realty Trust Inc</name>
+        <lei>894500O3S3W62PQPO460</lei>
+        <title>Americold Realty Trust</title>
+        <cusip>03064D108</cusip>
+        <identifiers>
+          <isin value="US03064D1081"/>
+        </identifiers>
+        <balance>20000.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>281800.00000000</valUSD>
+        <pctVal>0.380494639561</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bx Trust</name>
+        <lei>N/A</lei>
+        <title>BX 2025-BIO3 Mortgage Trust</title>
+        <cusip>123911AC3</cusip>
+        <identifiers>
+          <isin value="US123911AC38"/>
+        </identifiers>
+        <balance>30000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>685002.00000000</valUSD>
+        <pctVal>0.924909826432</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-02-10</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>0.72900000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Iron Mountain Inc</name>
+        <lei>SQL3F6CKNNBM3SQGHX24</lei>
+        <title>Iron Mountain, Inc.</title>
+        <cusip>46284V101</cusip>
+        <identifiers>
+          <isin value="US46284V1017"/>
+        </identifiers>
+        <balance>8215.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>1004858.80000000</valUSD>
+        <pctVal>1.356789875500</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Barclays Commercial Mortgage Securities Llc</name>
+        <lei>N/A</lei>
+        <title>BBCMS Mortgage Trust 2026-5C40</title>
+        <cusip>05557AAR4</cusip>
+        <identifiers>
+          <isin value="US05557AAR41"/>
+        </identifiers>
+        <balance>1500000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1050697.35000000</valUSD>
+        <pctVal>1.418682432492</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2031-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>4.25000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Capitaland Investment Ltd/singapore</name>
+        <lei>254900AT4UQDU7SNXX49</lei>
+        <title>CapitaLand Investment, Ltd./Singapore</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="SGXE62145532"/>
+        </identifiers>
+        <balance>91600.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="SGD" exchangeRt="1.28245000"/>
+        <valUSD>189992.59000000</valUSD>
+        <pctVal>0.256533577187</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>SG</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Benchmark Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Benchmark 2019-B15 Mortgage Trust</title>
+        <cusip>08160KAK0</cusip>
+        <identifiers>
+          <isin value="US08160KAK07"/>
+        </identifiers>
+        <balance>1862000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1504156.37000000</valUSD>
+        <pctVal>2.030956124368</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-12-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>3.71200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Centuria Capital Group</name>
+        <lei>N/A</lei>
+        <title>Centuria Capital Group</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU0000475907"/>
+        </identifiers>
+        <balance>55202.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.42116000"/>
+        <valUSD>56904.87000000</valUSD>
+        <pctVal>0.076834627395</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Benchmark Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Benchmark 2023-B40 Mortgage Trust</title>
+        <cusip>08163WAX3</cusip>
+        <identifiers>
+          <isin value="US08163WAX39"/>
+        </identifiers>
+        <balance>4000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>760104.00000000</valUSD>
+        <pctVal>1.026314753403</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2033-08-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>3.65800000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Ui Boustead Reit</name>
+        <lei>N/A</lei>
+        <title>UI Boustead REIT</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="SGXC15458703"/>
+        </identifiers>
+        <balance>784100.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="SGD" exchangeRt="1.28245000"/>
+        <valUSD>489126.28000000</valUSD>
+        <pctVal>0.660432674267</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>SG</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Wells Fargo Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Wells Fargo Commercial Mortgage Trust 2025-5C5</title>
+        <cusip>95004MAJ6</cusip>
+        <identifiers>
+          <isin value="US95004MAJ62"/>
+        </identifiers>
+        <balance>21800000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1882807.14000000</valUSD>
+        <pctVal>2.542221519154</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2058-07-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.46700000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Hongkong Land Holdings Ltd</name>
+        <lei>213800XCHYNRPAYGXW28</lei>
+        <title>Hongkong Land Holdings, Ltd.</title>
+        <cusip>G4587L109</cusip>
+        <identifiers>
+          <isin value="BMG4587L1090"/>
+        </identifiers>
+        <balance>45800.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>371896.00000000</valUSD>
+        <pctVal>0.502144905870</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>BM</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Warehouses De Pauw Cva</name>
+        <lei>549300HWDYC5JXC85138</lei>
+        <title>Warehouses De Pauw CVA</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="BE0974349814"/>
+        </identifiers>
+        <balance>19640.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.86719000"/>
+        <valUSD>505500.29000000</valUSD>
+        <pctVal>0.682541343654</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>BE</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Eastgroup Properties Inc</name>
+        <lei>31TIGQQZC4P6JMHKSW85</lei>
+        <title>EastGroup Properties, Inc.</title>
+        <cusip>277276101</cusip>
+        <identifiers>
+          <isin value="US2772761019"/>
+        </identifiers>
+        <balance>2992.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>625357.92000000</valUSD>
+        <pctVal>0.844376637215</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Centuria Capital Group</name>
+        <lei>N/A</lei>
+        <title>Centuria Capital Group</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000CNI5"/>
+        </identifiers>
+        <balance>202313.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.42116000"/>
+        <valUSD>208553.96000000</valUSD>
+        <pctVal>0.281595684312</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>AU</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Kilroy Realty Corp</name>
+        <lei>549300CXXI18B214UN80</lei>
+        <title>Kilroy Realty Corp.</title>
+        <cusip>49427F108</cusip>
+        <identifiers>
+          <isin value="US49427F1084"/>
+        </identifiers>
+        <balance>10414.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>404271.48000000</valUSD>
+        <pctVal>0.545859230189</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Saul Centers Inc</name>
+        <lei>N/A</lei>
+        <title>Saul Centers, Inc.</title>
+        <cusip>804395101</cusip>
+        <identifiers>
+          <isin value="US8043951016"/>
+        </identifiers>
+        <balance>28300.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>964181.00000000</valUSD>
+        <pctVal>1.301865514786</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Welltower Inc</name>
+        <lei>254900F33BIAR82QTA19</lei>
+        <title>Welltower, Inc.</title>
+        <cusip>95040Q104</cusip>
+        <identifiers>
+          <isin value="US95040Q1040"/>
+        </identifiers>
+        <balance>7930.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>1859109.20000000</valUSD>
+        <pctVal>2.510223864297</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Comm Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>COMM 2025-167G Mortgage Trust</title>
+        <cusip>12674VAC5</cusip>
+        <identifiers>
+          <isin value="US12674VAC54"/>
+        </identifiers>
+        <balance>85000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1184900.00000000</valUSD>
+        <pctVal>1.599886793528</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-08-10</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>0.41500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Extra Space Storage Inc</name>
+        <lei>529900SDJHKRQWED6A16</lei>
+        <title>Extra Space Storage, Inc.</title>
+        <cusip>30225T102</cusip>
+        <identifiers>
+          <isin value="US30225T1025"/>
+        </identifiers>
+        <balance>5052.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>747898.08000000</valUSD>
+        <pctVal>1.009833961597</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Pro Real Estate Investment Trust</name>
+        <lei>N/A</lei>
+        <title>PRO Real Estate Investment Trust</title>
+        <cusip>742694300</cusip>
+        <identifiers>
+          <isin value="CA7426943006"/>
+        </identifiers>
+        <balance>31603.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.40185000"/>
+        <valUSD>160060.85000000</valUSD>
+        <pctVal>0.216118862415</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>CA</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Comm Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>COMM 2014-UBS5 Mortgage Trust</title>
+        <cusip>12592KAG9</cusip>
+        <identifiers>
+          <isin value="US12592KAG94"/>
+        </identifiers>
+        <balance>5004500.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>3325878.10000000</valUSD>
+        <pctVal>4.490698328191</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2047-09-10</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.49500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Japan Metropolitan Fund Invest</name>
+        <lei>353800QDHNIP60E1LQ93</lei>
+        <title>Japan Retail Fund Investment Corp.</title>
+        <cusip>651334906</cusip>
+        <identifiers>
+          <isin value="JP3039710003"/>
+        </identifiers>
+        <balance>319.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="159.10500000"/>
+        <valUSD>236385.41000000</valUSD>
+        <pctVal>0.319174525817</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>JP</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Morgan Stanley Capital I Trust</name>
+        <lei>N/A</lei>
+        <title>Morgan Stanley Capital I Trust 2020-L4</title>
+        <cusip>61770KBB0</cusip>
+        <identifiers>
+          <isin value="US61770KBB08"/>
+        </identifiers>
+        <balance>541000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>483625.92000000</valUSD>
+        <pctVal>0.653005926589</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-02-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.08200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Benchmark Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Benchmark 2021-B31 Mortgage Trust</title>
+        <cusip>08163MAY3</cusip>
+        <identifiers>
+          <isin value="US08163MAY30"/>
+        </identifiers>
+        <balance>1149000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>663054.58000000</valUSD>
+        <pctVal>0.895275775112</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2031-11-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.25000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Goodman Group</name>
+        <lei>N/A</lei>
+        <title>Goodman Group</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000GMG2"/>
+        </identifiers>
+        <balance>47514.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.42116000"/>
+        <valUSD>995307.90000000</valUSD>
+        <pctVal>1.343893969705</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>AU</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Ubs Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>UBS Commercial Mortgage Trust</title>
+        <cusip>90278MAG2</cusip>
+        <identifiers>
+          <isin value="US90278MAG24"/>
+        </identifiers>
+        <balance>1400000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1079455.16000000</valUSD>
+        <pctVal>1.457512072486</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-10-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Barclays Commercial Mortgage Securities Llc</name>
+        <lei>N/A</lei>
+        <title>BBCMS Mortgage Trust 2024-C26</title>
+        <cusip>05555AAL9</cusip>
+        <identifiers>
+          <isin value="US05555AAL98"/>
+        </identifiers>
+        <balance>4557500.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>654967.90000000</valUSD>
+        <pctVal>0.884356902181</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2034-05-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.34000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Safestore Holdings Plc</name>
+        <lei>213800WGA3YSJC1YOH73</lei>
+        <title>Safestore Holdings PLC</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="GB00B1N7Z094"/>
+        </identifiers>
+        <balance>23425.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="GBP" exchangeRt="0.74198000"/>
+        <valUSD>194319.09000000</valUSD>
+        <pctVal>0.262375344604</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>GB</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Healthpeak Properties Inc</name>
+        <lei>254900M6MTMZM0I22L81</lei>
+        <title>Healthpeak Properties, Inc.</title>
+        <cusip>42250P103</cusip>
+        <identifiers>
+          <isin value="US42250P1030"/>
+        </identifiers>
+        <balance>41661.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>909459.63000000</valUSD>
+        <pctVal>1.227979113244</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>American Homes 4 Rent</name>
+        <lei>549300ZJUO7A58PNUW40</lei>
+        <title>American Homes 4 Rent</title>
+        <cusip>02665T306</cusip>
+        <identifiers>
+          <isin value="US02665T3068"/>
+        </identifiers>
+        <balance>18696.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>624820.32000000</valUSD>
+        <pctVal>0.843650753899</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>State Street Institutional Treasury Plus Money Market Fund</name>
+        <lei>549300PNASLVKQG64331</lei>
+        <title>State Street Institutional Treasury Plus Money Market Fund</title>
+        <cusip>857492862</cusip>
+        <identifiers>
+          <isin value="US8574928623"/>
+        </identifiers>
+        <balance>488988.78000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>488988.78000000</valUSD>
+        <pctVal>0.660247017727</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>STIV</assetCat>
+        <issuerCat>RF</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CHARTWELL RETIREMENT RESIDENCES</name>
+        <lei>549300M7UBEIZBWP4069</lei>
+        <title>Chartwell Retirement Residence</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="CA16141A1030"/>
+        </identifiers>
+        <balance>13700.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.40185000"/>
+        <valUSD>220767.56000000</valUSD>
+        <pctVal>0.298086845880</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>CA</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Barclays Commercial Mortgage Securities Llc</name>
+        <lei>N/A</lei>
+        <title>BBCMS Mortgage Trust 2025-C32</title>
+        <cusip>07337AAX4</cusip>
+        <identifiers>
+          <isin value="US07337AAX46"/>
+        </identifiers>
+        <balance>3000000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1928441.10000000</valUSD>
+        <pctVal>2.603837832717</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2035-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>4.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Aims Apac Reit</name>
+        <lei>549300MGNQOBQ3KVN734</lei>
+        <title>AIMS AMP Capital Industrial REIT</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="SG2D63974620"/>
+        </identifiers>
+        <balance>172132.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="SGD" exchangeRt="1.28245000"/>
+        <valUSD>214753.95000000</valUSD>
+        <pctVal>0.289967092972</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>SG</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Centurion Accommodation Reit</name>
+        <lei>254900NE2W0T2HDOXF24</lei>
+        <title>Centurion Accommodation Reit</title>
+        <cusip>YK0847904</cusip>
+        <identifiers>
+          <ticker value="CAREITSP"/>
+        </identifiers>
+        <balance>487079.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="SGD" exchangeRt="1.28245000"/>
+        <valUSD>429177.96000000</valUSD>
+        <pctVal>0.579488691262</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>SG</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Jpmbb Commercial Mortgage Securities Trust</name>
+        <lei>549300UOGMFS1M8XVM16</lei>
+        <title>JPMorgan Chase Commercial Mortgage Securities Trust</title>
+        <cusip>46640NAM0</cusip>
+        <identifiers>
+          <isin value="US46640NAM02"/>
+        </identifiers>
+        <balance>8561708.82500000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>76734.32000000</valUSD>
+        <pctVal>0.103608933393</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2045-11-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.04200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Qualitas Real Estate Income Fund</name>
+        <lei>213800DV4JX1UQYXMC45</lei>
+        <title>Qualitas Real Estate Income Fund</title>
+        <cusip>Q61825107</cusip>
+        <identifiers>
+          <isin value="AU0000027310"/>
+        </identifiers>
+        <balance>364072.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.42116000"/>
+        <valUSD>398359.06000000</valUSD>
+        <pctVal>0.537876106993</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>AU</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bmo 2022-c1 Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>BMO 2022-C1 Mortgage Trust</title>
+        <cusip>05609MBJ3</cusip>
+        <identifiers>
+          <isin value="US05609MBJ36"/>
+        </identifiers>
+        <balance>5548000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>3828118.89000000</valUSD>
+        <pctVal>5.168838599178</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2032-02-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.00000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Morgan Stanley Baml Trust</name>
+        <lei>N/A</lei>
+        <title>Morgan Stanley Bank of America Merrill Lynch Trust</title>
+        <cusip>61764RAJ7</cusip>
+        <identifiers>
+          <isin value="US61764RAJ77"/>
+        </identifiers>
+        <balance>16967678.36300000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>326054.30000000</valUSD>
+        <pctVal>0.440248095656</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2048-02-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.59700000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Essex Property Trust Inc</name>
+        <lei>549300TR2H2VEFX0NC60</lei>
+        <title>Essex Property Trust, Inc.</title>
+        <cusip>297178105</cusip>
+        <identifiers>
+          <isin value="US2971781057"/>
+        </identifiers>
+        <balance>1511.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>429335.54000000</valUSD>
+        <pctVal>0.579701460408</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Sun Communities Inc</name>
+        <lei>549300H5GEOJYN41ZG57</lei>
+        <title>Sun Communities, Inc.</title>
+        <cusip>866674104</cusip>
+        <identifiers>
+          <isin value="US8666741041"/>
+        </identifiers>
+        <balance>3598.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>444281.04000000</valUSD>
+        <pctVal>0.599881313622</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bmo Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>BMO 2024-C9 Mortgage Trust</title>
+        <cusip>05593MAN3</cusip>
+        <identifiers>
+          <isin value="US05593MAN39"/>
+        </identifiers>
+        <balance>9145000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>969605.94000000</valUSD>
+        <pctVal>1.309190428164</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2034-07-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.87900000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank</name>
+        <lei>N/A</lei>
+        <title>BANK</title>
+        <cusip>06540CCC9</cusip>
+        <identifiers>
+          <isin value="US06540CCC91"/>
+        </identifiers>
+        <balance>3100000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>184956.23000000</valUSD>
+        <pctVal>0.249733335942</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2064-06-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Cre Logistics Reit Inc</name>
+        <lei>N/A</lei>
+        <title>CRE Logistics REIT, Inc.</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3048680007"/>
+        </identifiers>
+        <balance>192.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="159.10500000"/>
+        <valUSD>170151.79000000</valUSD>
+        <pctVal>0.229743946085</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>JP</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Equinix Inc</name>
+        <lei>549300EVUN2BTLJ3GT74</lei>
+        <title>Equinix, Inc.</title>
+        <cusip>29444U700</cusip>
+        <identifiers>
+          <isin value="US29444U7000"/>
+        </identifiers>
+        <balance>2577.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>2626684.56000000</valUSD>
+        <pctVal>3.546626667489</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Wells Fargo Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Wells Fargo Commercial Mortgage Trust 2024-5C2</title>
+        <cusip>95003UAK6</cusip>
+        <identifiers>
+          <isin value="US95003UAK60"/>
+        </identifiers>
+        <balance>9160000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>537568.34000000</valUSD>
+        <pctVal>0.725840566954</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2057-11-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>2.08200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Rexford Industrial Realty Inc</name>
+        <lei>549300MSLO0DF0EMX355</lei>
+        <title>Rexford Industrial Realty, Inc.</title>
+        <cusip>76169C100</cusip>
+        <identifiers>
+          <isin value="US76169C1009"/>
+        </identifiers>
+        <balance>15784.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>596161.68000000</valUSD>
+        <pctVal>0.804955016152</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Benchmark Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Benchmark 2018-B6 Mortgage Trust</title>
+        <cusip>08162CAL4</cusip>
+        <identifiers>
+          <isin value="US08162CAL46"/>
+        </identifiers>
+        <balance>1719500.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1303589.23000000</valUSD>
+        <pctVal>1.760144479080</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-09-10</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>3.08400000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Brandywine Realty Trust</name>
+        <lei>5UZ46ZCYUFYYAC0DS831</lei>
+        <title>Brandywine Realty Trust</title>
+        <cusip>105368203</cusip>
+        <identifiers>
+          <isin value="US1053682035"/>
+        </identifiers>
+        <balance>85727.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>260610.08000000</valUSD>
+        <pctVal>0.351883386996</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Nyc Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>NYC Commercial Mortgage Trust 2025-28L</title>
+        <cusip>67123JAL3</cusip>
+        <identifiers>
+          <isin value="US67123JAL35"/>
+        </identifiers>
+        <balance>1500000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1497403.35000000</valUSD>
+        <pctVal>2.021837998354</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-11-05</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>8.13000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Msrw Pass-through Trust</name>
+        <lei>N/A</lei>
+        <title>MSRW 2026-CHICOS Pass-Through Trust</title>
+        <cusip>553610AE6</cusip>
+        <identifiers>
+          <isin value="US553610AE61"/>
+        </identifiers>
+        <balance>2437568.24000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2368615.28000000</valUSD>
+        <pctVal>3.198173943304</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2046-02-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>9.23100000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Janus Living Inc</name>
+        <lei>2549003JCIOFKGHO7313</lei>
+        <title>Janus Living, Inc.</title>
+        <cusip>471024109</cusip>
+        <identifiers>
+          <isin value="US4710241096"/>
+        </identifiers>
+        <balance>11709.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>353728.89000000</valUSD>
+        <pctVal>0.477615140180</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Link Reit</name>
+        <lei>529900XUE70U36QX5M62</lei>
+        <title>Link REIT</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="HK0823032773"/>
+        </identifiers>
+        <balance>68400.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.84240000"/>
+        <valUSD>341197.59000000</valUSD>
+        <pctVal>0.460695010738</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>HK</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Nexus Industrial Reit</name>
+        <lei>549300VXQ93JIP08X629</lei>
+        <title>Nexus Industrial REIT</title>
+        <cusip>65344U101</cusip>
+        <identifiers>
+          <isin value="CA65344U1012"/>
+        </identifiers>
+        <balance>80800.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.40185000"/>
+        <valUSD>470903.45000000</valUSD>
+        <pctVal>0.635827673796</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>CA</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Dream Industrial Real Estate Investment Trust</name>
+        <lei>549300QOI0TM3CBYUH79</lei>
+        <title>Dream Industrial Real Estate Investment Trust</title>
+        <cusip>26153W109</cusip>
+        <identifiers>
+          <isin value="CA26153W1095"/>
+        </identifiers>
+        <balance>15300.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.40185000"/>
+        <valUSD>157054.61000000</valUSD>
+        <pctVal>0.212059748841</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>CA</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Barclays Commercial Mortgage Securities Llc</name>
+        <lei>N/A</lei>
+        <title>BBCMS Mortgage Trust 2024-C24</title>
+        <cusip>07336VAJ0</cusip>
+        <identifiers>
+          <isin value="US07336VAJ08"/>
+        </identifiers>
+        <balance>2900000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1669702.26000000</valUSD>
+        <pctVal>2.254481048947</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2034-02-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>4.25000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Morgan Stanley Capital I Trust</name>
+        <lei>N/A</lei>
+        <title>Morgan Stanley Capital I Trust 2019-H6</title>
+        <cusip>61769JAC5</cusip>
+        <identifiers>
+          <isin value="US61769JAC53"/>
+        </identifiers>
+        <balance>1750000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1459904.43000000</valUSD>
+        <pctVal>1.971205854814</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-06-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.00000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Unite Group Plc/the</name>
+        <lei>213800BBUUWVDH9YI827</lei>
+        <title>UNITE Group PLC</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="GB0006928617"/>
+        </identifiers>
+        <balance>22142.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="GBP" exchangeRt="0.74198000"/>
+        <valUSD>160548.75000000</valUSD>
+        <pctVal>0.216777639330</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>GB</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank</name>
+        <lei>N/A</lei>
+        <title>BANK 2021-BNK35</title>
+        <cusip>06540CAN7</cusip>
+        <identifiers>
+          <isin value="US06540CAN74"/>
+        </identifiers>
+        <balance>1500000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>716033.25000000</valUSD>
+        <pctVal>0.966809131911</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2031-08-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.66400000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Citigroup Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Citigroup Commercial Mortgage Trust 2019-GC41</title>
+        <cusip>17328FAA3</cusip>
+        <identifiers>
+          <isin value="US17328FAA30"/>
+        </identifiers>
+        <balance>1600000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1268600.16000000</valUSD>
+        <pctVal>1.712901208753</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-08-10</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.00000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Go Residential Real Estate Investment Trust</name>
+        <lei>254900BOSTNQM0TQXR30</lei>
+        <title>GO Residential Real Estate Investment Trust</title>
+        <cusip>36272H107</cusip>
+        <identifiers>
+          <isin value="CA36272H1073"/>
+        </identifiers>
+        <balance>47855.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>461800.75000000</valUSD>
+        <pctVal>0.623536940810</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Citigroup Commercial Mortgage Trust</name>
+        <lei>N/A</lei>
+        <title>Citigroup Commercial Mortgage Trust 2019-C7</title>
+        <cusip>17328CAH5</cusip>
+        <identifiers>
+          <isin value="US17328CAH51"/>
+        </identifiers>
+        <balance>2700000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2478163.41000000</valUSD>
+        <pctVal>3.346089047061</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-10-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>3.92200000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Hang Lung Properties Ltd</name>
+        <lei>529900CIVTNMXQT59E61</lei>
+        <title>Hang Lung Properties, Ltd.</title>
+        <cusip>Y30166105</cusip>
+        <identifiers>
+          <isin value="HK0101000591"/>
+        </identifiers>
+        <balance>288000.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.84240000"/>
+        <valUSD>267713.97000000</valUSD>
+        <pctVal>0.361475267993</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>HK</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Stoneweg Europe Stapled Trust</name>
+        <lei>21380093RFHTC319NL93</lei>
+        <title>Stoneweg Europe Stapled Trust</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="SGXC11267561"/>
+        </identifiers>
+        <balance>225760.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.86719000"/>
+        <valUSD>413932.82000000</valUSD>
+        <pctVal>0.558904255317</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>SG</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Bank</name>
+        <lei>N/A</lei>
+        <title>BANK 2021-BNK35</title>
+        <cusip>06540CAL1</cusip>
+        <identifiers>
+          <isin value="US06540CAL19"/>
+        </identifiers>
+        <balance>1700000.00000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>921974.26000000</valUSD>
+        <pctVal>1.244876734363</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>ABS-MBS</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>Y</isRestrictedSec>
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2031-08-15</maturityDt>
+          <couponKind>Variable</couponKind>
+          <annualizedRt>1.66400000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Qualitas Ltd</name>
+        <lei>2549005JQVQTPOP6VJ81</lei>
+        <title>Qualitas, Ltd.</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU0000195265"/>
+        </identifiers>
+        <balance>47681.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.42116000"/>
+        <valUSD>101658.81000000</valUSD>
+        <pctVal>0.137262712097</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>AU</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Sekisui House Reit Inc</name>
+        <lei>N/A</lei>
+        <title>Sekisui House Reit, Inc.</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3047820000"/>
+        </identifiers>
+        <balance>791.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="159.10500000"/>
+        <valUSD>376844.22000000</valUSD>
+        <pctVal>0.508826137898</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>JP</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+    </invstOrSecs>
+    <signature>
+      <ncom:dateSigned>2026-08-30</ncom:dateSigned>
+      <ncom:nameOfApplicant>PRINCIPAL REAL ESTATE INCOME FUND</ncom:nameOfApplicant>
+      <ncom:signature>Erich Rettinger</ncom:signature>
+      <ncom:signerName>Erich Rettinger</ncom:signerName>
+      <ncom:title>Treasurer</ncom:title>
+    </signature>
+  </formData>
+  <documents>XXXX</documents>
+</edgarSubmission>
