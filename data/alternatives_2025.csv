@@ -1,0 +1,3 @@
+fund,ticker,net_expense_ratio_pct,ret_1y,ret_5y,ret_10y,benchmark,bench_1y,bench_5y,bench_10y,source
+Cohen & Steers Realty Shares (Class L),CSRSX,0.88,2.82,5.72,6.32,Linked benchmark (FTSE Nareit Equity REITs to Mar 2019 then FTSE Nareit All Equity REITs),2.27,4.85,5.28,https://www.sec.gov/Archives/edgar/data/874505/000119312526192207/d100422d497k.htm
+Vanguard Real Estate ETF (NAV),VNQ,0.13,3.18,4.62,5.13,Real Estate Spliced Index,3.31,4.76,5.25,https://www.sec.gov/Archives/edgar/data/734383/000073438326000136/f45323d1.htm

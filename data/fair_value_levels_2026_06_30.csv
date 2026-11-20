@@ -1,0 +1,5 @@
+level,value_usd,note
+Level 1,276862971,quoted prices (common stock and exchange-traded preferreds)
+Level 2,36235599,OTC preferreds 27.0m; corporate bonds 5.8m; CMBS 0.5m; Hudson Pacific warrants 0.9m; short-term 2.0m
+Level 3,2626965,private real estate (Legacy Gateway JV); DCF at 7.25% terminal cap rate and 8.50% discount rate
+net_assets,316303651,N-CSRS 0001193125-26-383174

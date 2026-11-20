@@ -1,0 +1,6 @@
+ticker,metric,guide_low,guide_high,close_2026_11_18,source
+WELL,normalized FFO,6.47,6.53,247.25,https://www.sec.gov/Archives/edgar/data/766704/000076670426000043/a3q26pressreleaseprnnewswi.htm
+VTR,normalized FFO,3.87,3.90,88.20,https://www.sec.gov/Archives/edgar/data/740260/000074026026000026/q32026earningsrelease.htm
+AHR,normalized FFO,2.23,2.26,58.55,https://www.sec.gov/Archives/edgar/data/1632970/000119312526449893/ahr-ex99_1.htm
+DOC,FFO as adjusted,1.76,1.78,19.34,https://www.sec.gov/Archives/edgar/data/765880/000162828026068878/ex99109302026.htm
+OHI,adjusted FFO,3.28,3.30,47.09,https://www.sec.gov/Archives/edgar/data/888491/000088849126000028/ohi-ex99d1.htm

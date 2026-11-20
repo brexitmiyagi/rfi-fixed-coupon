@@ -1,0 +1,23 @@
+item,value,source
+net_assets_2026_06_30,316303651,N-CSRS 0001193125-26-383174 statement of assets and liabilities
+shares_outstanding_2026_06_30,26761638,N-CSRS 0001193125-26-383174
+nav_2026_06_30,11.82,N-CSRS 0001193125-26-383174
+tax_cost_investments,257578374,N-CSRS Note 6
+gross_unrealized_appreciation,72551986,N-CSRS Note 6
+gross_unrealized_depreciation,14401155,N-CSRS Note 6
+net_unrealized_appreciation,58150831,N-CSRS Note 6
+h1_total_investment_income,5671308,N-CSRS statement of operations
+h1_total_expenses,1442335,N-CSRS statement of operations
+h1_net_investment_income,4228973,N-CSRS statement of operations
+h1_net_realized_gain,2214082,N-CSRS statement of operations
+h1_change_unrealized,25870767,N-CSRS statement of operations
+h1_distributions_common,12843093,N-CSRS statement of changes in net assets
+nav_tr_1y_to_2026_06_30_pct,10.72,N-CSRS performance review
+price_tr_1y_to_2026_06_30_pct,2.08,N-CSRS performance review
+nav_tr_10y_to_2026_06_30_pct,6.23,N-CSRS performance review
+buyback_authorization_pct_2026,10,N-CSRS Note 8 (no repurchases in H1 2026 or 2025)
+welltower_pct_net_assets,13.1,N-CSRS top ten holdings
+common_stock_pct_net_assets,78.9,N-CSRS schedule of investments
+expense_ratio_2025_pct,0.94,N-CSR 0001193125-26-096898
+nii_per_share_2025,0.30,N-CSR 0001193125-26-096898
+tax_roc_per_share_2025,0.12,N-CSR 0001193125-26-096898

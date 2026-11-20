@@ -1,0 +1,10 @@
+item,value,source
+rfi_close,10.45,Nasdaq historical quotes RFI 11/18/2026; CEF Connect
+rfi_nav,11.44,Nasdaq XRFIX 11/18/2026; CEF Connect
+monthly_distribution,0.08,N-CSRS 2026 managed distribution policy; Section 19 notice Oct 2026
+ust_10y,5.07,US Treasury daily par yield curve 11/18/2026
+ust_30y,5.41,US Treasury daily par yield curve 11/18/2026
+nareit_all_equity_div_yield_2026_10_31,3.77,Nareit market commentary 9 Nov 2026
+ust_10y_2026_10_31,4.91,Nareit market commentary 9 Nov 2026
+rqi_close,11.45,Nasdaq RQI 11/18/2026
+rqi_nav,12.79,Nasdaq XRQIX 11/18/2026
