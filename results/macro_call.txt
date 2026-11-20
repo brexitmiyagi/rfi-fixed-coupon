@@ -1,0 +1,11 @@
+today's gap -1.30
+since 1972, within 1 pt of today's gap: 99 months; REITs below the starting 10-year yield 39%; median REIT return 12.5% vs median 10-year 8.24%
+since 1972, gap -1 or lower: 93 months; REITs below the starting 10-year yield 25%; median REIT return 20.3% vs median 10-year 11.55%
+since 1972, all months: 646 months; REITs below the starting 10-year yield 32%; median REIT return 13.5% vs median 10-year 5.71%
+since 1990, within 1 pt of today's gap: 39 months; REITs below the starting 10-year yield 49%; median REIT return 5.7% vs median 10-year 4.71%
+since 1990, gap -1 or lower: 3 months; REITs below the starting 10-year yield 100%; median REIT return -15.7% vs median 10-year 4.83%
+since 1990, all months: 430 months; REITs below the starting 10-year yield 30%; median REIT return 12.5% vs median 10-year 4.14%
+since 2000, within 1 pt of today's gap: 29 months; REITs below the starting 10-year yield 59%; median REIT return 2.3% vs median 10-year 4.59%
+since 2000, gap -1 or lower: 3 months; REITs below the starting 10-year yield 100%; median REIT return -15.7% vs median 10-year 4.83%
+since 2000, all months: 310 months; REITs below the starting 10-year yield 28%; median REIT return 11.9% vs median 10-year 3.41%
+post-1990 months at -1 or lower: 2006-12-29 gap -1.02: REITs -15.7% vs 10-year 4.71%, 2007-01-31 gap -1.43: REITs -23.0% vs 10-year 4.83%, 2007-05-31 gap -1.11: REITs -11.9% vs 10-year 4.90%

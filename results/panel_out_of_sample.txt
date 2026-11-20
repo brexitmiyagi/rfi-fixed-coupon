@@ -1,0 +1,7 @@
+train 12,262 fund-weeks (forward date before 2016), test 16,185 (start 2016 or later)
+pre-2016 fit: -0.0438 -0.1625 d -0.2273 dev; post-2016 fit: 0.4413 -0.0005 d -0.2570 dev
+out-of-sample R2 vs no change: -0.048; correlation 0.184; actual = 0.22 + 0.39 x predicted
+direction right when |predicted| > 1 pt: 67.8% of 10,178
+quintiles (predicted mean, actual mean): -4.35/-1.98; -0.74/-1.24; +0.33/+0.23; +1.46/+1.12; +3.64/+3.09
+RFI-like test cases: 388; model said -5.33% a year on, actual mean -8.52%, median -8.74%
+RFI now (-8.65%, -9.25 below its average): full-sample model -4.61%, post-2016 fit -5.83%, calibrated pre-2016 -7.08%

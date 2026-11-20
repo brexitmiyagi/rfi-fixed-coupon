@@ -1,0 +1,11 @@
+13F shares by quarter-end: 2025-12-31 5.42m, 2026-03-31 5.03m, 2026-06-30 5.13m, 2026-09-30 4.91m
+filers in both Dec 2025 and Sep 2026: 62, 5.01m -> 4.74m (-5.4%), 26 cut, 23 added
+five biggest cuts:
+cik
+INDEPENDENT FINANCIAL GROUP, LLC  (CIK 0000275484)                                                      -181406.0
+Cambridge Investment Research Advisors, Inc.  (CIK 0001419186)                                          -117097.0
+LPL Financial LLC  (CIK 0001403438)                                                                      -70002.0
+COMMONWEALTH EQUITY SERVICES, LLC  (CIK 0000312272)                                                      -55276.0
+MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)    -45531.0
+13F holders at Sep 30 own 18.3% of the 26.76m shares (June 30 count)
+known CEF arbitrage or activist names at Sep 30: Almitas Capital LLC 13,443

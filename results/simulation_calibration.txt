@@ -1,0 +1,11 @@
+REITs assumed to repeat their past average:
+  every month-end, January 2005 to October 2025 (overlapping years): 250 forecasts: below 5th pct 8% (should be 5), below 25th 44% (25), inside 25th-75th 38% (50), above 75th 18% (25), above 95th 6% (5); median forecast 15.3% vs median outcome 6.2%; mean absolute miss of the median 16.7 pts
+  January starts only (separate years): 21 forecasts: below 5th pct 10% (should be 5), below 25th 33% (25), inside 25th-75th 38% (50), above 75th 29% (25), above 95th 10% (5); median forecast 15.6% vs median outcome 5.7%; mean absolute miss of the median 16.4 pts
+REIT return set the valuation-aware way (post-1990 median at a similar yield gap, using only outcomes known at the time):
+  every month-end: 250 forecasts: below 5th pct 7% (should be 5), below 25th 47% (25), inside 25th-75th 35% (50), above 75th 18% (25), above 95th 4% (5); median forecast 15.6% vs median outcome 6.2%; mean absolute miss of the median 16.7 pts
+  January starts only: 21 forecasts: below 5th pct 10% (should be 5), below 25th 43% (25), inside 25th-75th 33% (50), above 75th 24% (25), above 95th 10% (5); median forecast 16.7% vs median outcome 5.7%; mean absolute miss of the median 16.8 pts
+Misses of the valuation-aware forecast (actual minus forecast; 10/25/50/75/90th percentiles, all 250 month-ends):
+  total return vs forecast median: -26.0/-18.1/-9.3/+3.1/+18.4; mean -7.2
+  REIT market vs the assumed REIT return: -25.9/-17.0/-6.5/+5.5/+17.8; mean -5.9
+  RFI's edge over REITs vs the forecast edge: -11.3/-6.5/+0.2/+5.8/+9.5; mean -0.2; forecast edge mean +0.4, actual edge mean +0.2, median -0.3
+  same, January starts only: total -33.5/-15.4/-3.9/+6.1/+18.7; edge miss median +0.6

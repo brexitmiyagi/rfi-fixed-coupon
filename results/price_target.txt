@@ -1,0 +1,18 @@
+mean miss of the REIT assumption in the real-time test: -5.92 pts a year
+RFI: NAV beta 0.90; discount -8.65% -> model -5.87%
+base, as published (REITs +5.68%): expected NAV $11.14, expected price $10.52 (median $10.37); total return mean +9.8%, 5/25/50/75/95th -21.7/-1.5/+8.4/+20.6/+44.5; loss 28%; vs the 10-year 5.07%: +4.7 pts; edge over REITs +4.2 pts, beats REITs 71%
+   price at which RFI's expected return equals REITs': $10.87, a discount of -5.0% to today's NAV
+   price at which RFI's expected edge over REITs is +2 pts (OVERWEIGHT/NEUTRAL line): $10.66, a discount of -6.8%
+   bought at -10.1% ($10.28): mean +11.6%, median +10.2%, 5th -20.5%, loss 25%, edge +6.0 pts, beats REITs 77%
+   bought at -13.1% ($9.94): mean +15.4%, median +14.0%, 5th -17.7%, loss 19%, edge +9.8 pts, beats REITs 90%
+bias-corrected (REITs -0.24%): expected NAV $10.53, expected price $9.94 (median $9.80); total return mean +4.3%, 5/25/50/75/95th -27.3/-6.8/+2.9/+15.0/+38.4; loss 45%; vs the 10-year 5.07%: -0.7 pts; edge over REITs +4.6 pts, beats REITs 73%
+   price at which RFI's expected return equals REITs': $10.94, a discount of -4.4% to today's NAV
+   price at which RFI's expected edge over REITs is +2 pts (OVERWEIGHT/NEUTRAL line): $10.72, a discount of -6.3%
+   bought at -10.1% ($10.28): mean +6.0%, median +4.6%, 5th -26.1%, loss 40%, edge +6.3 pts, beats REITs 80%
+   bought at -13.1% ($9.94): mean +9.7%, median +8.2%, 5th -23.6%, loss 30%, edge +10.0 pts, beats REITs 91%
+sensitivity to the correction:
+   none (+0.0): target $10.52, total return +9.8%, vs 10-year +4.7 pts, vs REITs +4.2 pts, beats REITs 71%
+   95% interval, small end (+1.2): target $10.63, total return +10.9%, vs 10-year +5.9 pts, vs REITs +4.1 pts, beats REITs 71%
+   average (used) (-5.9): target $9.94, total return +4.3%, vs 10-year -0.7 pts, vs REITs +4.6 pts, beats REITs 73%
+   95% interval, large end (-13.0): target $9.25, total return -2.3%, vs 10-year -7.3 pts, vs REITs +5.2 pts, beats REITs 76%
+   correction at which RFI's expected return equals the 10-year: -5.12 pts (REITs +0.56%)

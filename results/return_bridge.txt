@@ -1,0 +1,6 @@
+period  fund  benchmark  excess  reit_index  pref_index_implied  reit_stock_weight  pref_bond_weight  reit_stock_picking  stock_pref_mix  fees  everything_else  pref_bond_sleeve_price
+  2023 12.14      12.46   -0.32       11.36               16.86               77.8              20.3                2.23            0.12 -0.94            -1.73                    5.93
+  2024  5.44       3.77    1.67        4.92               -0.83               78.6              18.9                0.91           -0.08 -0.94             1.78                   -0.82
+  2025  3.59       1.90    1.69        2.27                0.42               79.5              18.4                2.09           -0.01 -0.94             0.55                    1.27
+2026H1 11.15      11.69   -0.54       14.90               -1.15               80.0              17.5               -0.13           -0.00 -0.47             0.06                   -3.24
+Jan 2023 to Jun 2026, simple sums: excess +2.50 = REIT-stock picking +5.10 + mix +0.03 + fees -3.29 + everything else +0.66

@@ -1,0 +1,9 @@
+common shares 26,761,638 (June 30, 2026); market cap at $10.45: $280 million; net assets at $11.44 NAV: $306 million
+volume, 3 months to 2026-11-18: median 97,188 shares a day ($1.04 million); 1 year median 99,189 ($1.11 million)
+a $1 million position is 1.0 days of median 3-month volume; 20% participation means 5 trading days
+weekly price returns, 156 weeks to 2026-11-18: RFI = -0.19% + 0.82 x VNQ + 0.10 x (WELL - VNQ), R2 0.63
+same for RFI's NAV (XRFIX): 0.79 x VNQ + 0.05 x (WELL - VNQ)
+VNQ alone: beta 0.79
+hedge per $100 of RFI: short $72 of VNQ and $10 of WELL
+carry of the hedged trade before borrow costs: 9.19% - 0.72 x 3.77% (All Equity REITs yield as a stand-in for VNQ's) - 0.10 x 1.38% = 6.33% a year
+weekly volatility annualized: RFI 15.3%, hedged 9.3%

@@ -1,0 +1,17 @@
+        start_date  start    end_date    end  change
+ticker                                              
+RNP     2025-11-20  -3.25  2026-11-18 -11.20   -7.95
+RFI     2025-11-20  -0.72  2026-11-18  -8.65   -7.93
+FOF     2025-11-20   1.67  2026-11-18  -5.45   -7.12
+NRO     2025-11-20  -6.03  2026-11-18 -13.01   -6.98
+JRS     2025-11-20  -6.46  2026-11-18 -12.78   -6.32
+RLTY    2025-11-20  -6.51  2026-11-18 -12.47   -5.96
+LDP     2025-11-20  -6.68  2026-11-18 -11.83   -5.15
+RQI     2025-11-20  -6.99  2026-11-18 -10.48   -3.49
+DNP     2025-11-20   7.58  2026-11-18   4.39   -3.19
+PSF     2025-11-20  -8.50  2026-11-18 -10.32   -1.82
+UTF     2025-11-20  -7.26  2026-11-18  -7.44   -0.18
+RFI minus RQI discount, 18 Nov 2026: +1.82 pts
+weekly since 2016: median +5.35 pts, share of weeks at or below today 18.6%
+weekly since 2021: median +6.66 pts, share of weeks at or below today 7.0%
+weeks RFI traded at a wider discount than RQI: 2020 to 2025 0, last before 2026 2019-12-13, in 2026 10 (2026-03-20 to 2026-06-12)

@@ -1,0 +1,1506 @@
+ticker,date,d,dev,fwd,kind,category
+BUI,2013-06-30,-8.07,-3.6900000000000004,-8.55,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2013-12-31,-13.97,-8.6675,-8.57,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2014-06-30,-8.55,-1.5140000000000011,-13.88,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2014-12-31,-8.57,-1.2816666666666663,-14.35,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2015-06-30,-13.88,-4.761666666666667,-1.97,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2015-12-31,-14.35,-3.9116666666666653,-5.2,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2016-06-30,-1.97,9.261666666666667,-0.77,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2016-12-31,-5.2,5.0150000000000015,2.37,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2017-06-30,-0.77,7.983333333333334,-1.23,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2017-12-31,2.37,9.826666666666668,2.14,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2018-06-30,-1.23,4.403333333333334,5.38,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2018-12-31,2.14,5.665,2.7,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2019-06-30,5.38,6.156666666666666,6.08,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2019-12-31,2.7,2.251666666666667,5.89,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2020-06-30,6.08,4.315,3.97,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2020-12-31,5.89,2.9833333333333334,2.98,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2021-06-30,3.97,0.47666666666666657,-3.2,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2021-12-31,2.98,-1.3799999999999994,-6.06,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2022-06-30,-3.2,-7.7,-4.05,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2022-12-31,-6.06,-9.129999999999999,-3.19,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2023-06-30,-4.05,-5.66,-1.24,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2023-12-31,-3.19,-3.111666666666667,1.49,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2024-06-30,-1.24,0.35166666666666657,2.81,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2024-12-31,1.49,3.9499999999999993,2.15,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2025-06-30,2.81,5.5183333333333335,2.43,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2025-12-31,2.15,3.8566666666666665,,live,Equity-Sector Equity (infrastructure/utilities)
+BUI,2026-06-30,2.43,2.7683333333333335,,live,Equity-Sector Equity (infrastructure/utilities)
+DFP,2014-12-31,-7.61,-5.573333333333334,-5.93,live,Fixed Income - Taxable-Preferreds
+DFP,2015-06-30,-9.86,-6.43,-1.81,live,Fixed Income - Taxable-Preferreds
+DFP,2015-12-31,-5.93,-1.2140000000000004,-1.78,live,Fixed Income - Taxable-Preferreds
+DFP,2016-06-30,-1.81,3.108333333333333,-0.83,live,Fixed Income - Taxable-Preferreds
+DFP,2016-12-31,-1.78,4.811666666666666,1.52,live,Fixed Income - Taxable-Preferreds
+DFP,2017-06-30,-0.83,4.498333333333333,-4.63,live,Fixed Income - Taxable-Preferreds
+DFP,2017-12-31,1.52,6.156666666666666,-9.19,live,Fixed Income - Taxable-Preferreds
+DFP,2018-06-30,-4.63,-1.5150000000000001,-0.32,live,Fixed Income - Taxable-Preferreds
+DFP,2018-12-31,-9.19,-6.946666666666665,-0.6,live,Fixed Income - Taxable-Preferreds
+DFP,2019-06-30,-0.32,2.466666666666667,2.06,live,Fixed Income - Taxable-Preferreds
+DFP,2019-12-31,-0.6,1.9383333333333335,9.58,live,Fixed Income - Taxable-Preferreds
+DFP,2020-06-30,2.06,4.401666666666666,5.77,live,Fixed Income - Taxable-Preferreds
+DFP,2020-12-31,9.58,11.44,1.8,live,Fixed Income - Taxable-Preferreds
+DFP,2021-06-30,5.77,6.286666666666666,-2.31,live,Fixed Income - Taxable-Preferreds
+DFP,2021-12-31,1.8,0.5833333333333333,-6.8,live,Fixed Income - Taxable-Preferreds
+DFP,2022-06-30,-2.31,-5.358333333333334,-9.69,live,Fixed Income - Taxable-Preferreds
+DFP,2022-12-31,-6.8,-9.516666666666666,-13.16,live,Fixed Income - Taxable-Preferreds
+DFP,2023-06-30,-9.69,-11.373333333333333,-11.32,live,Fixed Income - Taxable-Preferreds
+DFP,2023-12-31,-13.16,-12.885,-9.68,live,Fixed Income - Taxable-Preferreds
+DFP,2024-06-30,-11.32,-7.255,-8.1,live,Fixed Income - Taxable-Preferreds
+DFP,2024-12-31,-9.68,-2.7666666666666657,-8.68,live,Fixed Income - Taxable-Preferreds
+DFP,2025-06-30,-8.1,0.7266666666666666,-8.85,live,Fixed Income - Taxable-Preferreds
+DFP,2025-12-31,-8.68,1.1116666666666664,,live,Fixed Income - Taxable-Preferreds
+DFP,2026-06-30,-8.85,1.2550000000000008,,live,Fixed Income - Taxable-Preferreds
+DNP,1998-06-30,3.75,2.3600000000000003,9.58,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,1998-12-31,10.4,8.42,-5.93,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,1999-06-30,9.58,5.916,9.25,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,1999-12-31,-5.93,-10.579999999999998,0.0,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2000-06-30,9.25,5.813333333333334,9.78,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2000-12-31,0.0,-4.848333333333334,20.39,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2001-06-30,9.78,5.271666666666666,20.33,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2001-12-31,20.39,14.876666666666669,36.39,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2002-06-30,20.33,13.151666666666664,39.61,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2002-12-31,36.39,27.42,38.02,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2003-06-30,39.61,23.586666666666666,36.71,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2003-12-31,38.02,16.93666666666667,36.23,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2004-06-30,36.71,9.29,28.29,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2004-12-31,36.23,4.321666666666662,22.09,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2005-06-30,28.29,-6.258333333333333,19.3,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2005-12-31,22.09,-13.785,8.2,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2006-06-30,19.3,-14.191666666666666,10.46,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2006-12-31,8.2,-21.90666666666667,3.61,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2007-06-30,10.46,-14.676666666666666,18.04,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2007-12-31,3.61,-17.151666666666667,-9.32,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2008-06-30,18.04,2.714999999999998,28.27,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2008-12-31,-9.32,-22.936666666666667,25.03,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2009-06-30,28.27,19.888333333333335,39.02,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2009-12-31,25.03,15.153333333333334,21.83,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2010-06-30,39.02,26.33833333333334,25.52,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2010-12-31,21.83,4.388333333333332,31.14,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2011-06-30,25.52,5.041666666666668,31.79,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2011-12-31,31.14,9.415000000000003,11.07,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2012-06-30,31.79,3.3216666666666654,11.72,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2012-12-31,11.07,-17.985000000000003,8.86,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2013-06-30,11.72,-15.008333333333335,2.73,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2013-12-31,8.86,-13.318333333333332,0.44,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2014-06-30,2.73,-17.28666666666666,14.34,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2014-12-31,0.44,-15.778333333333334,13.79,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2015-06-30,14.34,3.2383333333333333,5.99,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2015-12-31,13.79,5.596666666666666,7.95,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2016-06-30,5.99,-2.6566666666666663,13.02,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2016-12-31,7.95,0.25833333333333375,11.14,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2017-06-30,13.02,5.4799999999999995,17.11,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2017-12-31,11.14,1.8849999999999998,20.0,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2018-06-30,17.11,6.071666666666665,15.57,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2018-12-31,20.0,8.5,21.93,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2019-06-30,15.57,3.0349999999999984,31.47,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2019-12-31,21.93,7.798333333333334,16.15,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2020-06-30,31.47,15.00833333333333,9.84,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2020-12-31,16.15,-3.3866666666666667,10.11,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2021-06-30,9.84,-10.531666666666666,13.42,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2021-12-31,10.11,-9.05,25.7,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2022-06-30,13.42,-4.091666666666667,25.15,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2022-12-31,25.7,8.546666666666667,5.8,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2023-06-30,25.15,7.368333333333332,3.28,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2023-12-31,5.8,-10.928333333333335,2.62,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2024-06-30,3.28,-11.723333333333333,7.45,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2024-12-31,2.62,-11.29,9.37,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2025-06-30,7.45,-5.211666666666667,5.72,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2025-12-31,9.37,-2.296666666666665,,live,Equity-Sector Equity (infrastructure/utilities)
+DNP,2026-06-30,5.72,-3.2249999999999988,,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2013-06-30,-7.24,-0.040000000000000924,-11.89,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2013-12-31,-12.05,-4.840000000000002,-9.83,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2014-06-30,-11.89,-3.7119999999999997,-13.96,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2014-12-31,-9.83,-1.0333333333333332,-15.37,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2015-06-30,-13.96,-4.520000000000001,-10.91,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2015-12-31,-15.37,-4.675000000000001,-15.07,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2016-06-30,-10.91,0.8133333333333344,-8.69,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2016-12-31,-15.07,-2.7349999999999994,-11.72,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2017-06-30,-8.69,4.148333333333333,-10.86,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2017-12-31,-11.72,0.5849999999999973,-15.55,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2018-06-30,-10.86,1.7599999999999998,-9.84,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2018-12-31,-15.55,-3.446666666666667,-7.85,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2019-06-30,-9.84,2.293333333333333,-9.65,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2019-12-31,-7.85,4.105,-7.75,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2020-06-30,-9.65,1.1016666666666648,2.16,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2020-12-31,-7.75,3.161666666666667,3.22,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2021-06-30,2.16,12.41,5.4,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2021-12-31,3.22,11.3,7.39,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2022-06-30,5.4,10.351666666666667,-12.18,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2022-12-31,7.39,9.801666666666666,-14.7,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2023-06-30,-12.18,-12.308333333333334,-12.65,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2023-12-31,-14.7,-14.406666666666666,-7.51,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2024-06-30,-12.65,-11.198333333333334,-9.32,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2024-12-31,-7.51,-3.5900000000000003,-9.91,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2025-06-30,-9.32,-3.6116666666666672,-11.91,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2025-12-31,-9.91,-1.748333333333333,,live,Equity-Sector Equity (infrastructure/utilities)
+DPG,2026-06-30,-11.91,-0.8650000000000002,,live,Equity-Sector Equity (infrastructure/utilities)
+EMO,2012-12-31,5.58,4.473333333333334,-4.38,live,Equity-MLP
+EMO,2013-06-30,2.45,0.2250000000000001,-7.27,live,Equity-MLP
+EMO,2013-12-31,-4.38,-6.65,-4.47,live,Equity-MLP
+EMO,2014-06-30,-7.27,-8.431666666666667,-14.81,live,Equity-MLP
+EMO,2014-12-31,-4.47,-3.4366666666666665,-9.19,live,Equity-MLP
+EMO,2015-06-30,-14.81,-13.686666666666667,-7.71,live,Equity-MLP
+EMO,2015-12-31,-9.19,-5.373333333333333,-9.34,live,Equity-MLP
+EMO,2016-06-30,-7.71,-1.4316666666666675,-3.26,live,Equity-MLP
+EMO,2016-12-31,-9.34,-1.3683333333333332,-3.67,live,Equity-MLP
+EMO,2017-06-30,-3.26,5.538333333333332,-5.29,live,Equity-MLP
+EMO,2017-12-31,-3.67,4.459999999999999,-12.96,live,Equity-MLP
+EMO,2018-06-30,-5.29,2.706666666666666,-12.8,live,Equity-MLP
+EMO,2018-12-31,-12.96,-6.550000000000001,-12.04,live,Equity-MLP
+EMO,2019-06-30,-12.8,-5.761666666666667,-21.23,live,Equity-MLP
+EMO,2019-12-31,-12.04,-4.153333333333333,-22.97,live,Equity-MLP
+EMO,2020-06-30,-21.23,-12.893333333333333,-19.38,live,Equity-MLP
+EMO,2020-12-31,-22.97,-11.638333333333334,-20.87,live,Equity-MLP
+EMO,2021-06-30,-19.38,-4.831666666666665,-20.28,live,Equity-MLP
+EMO,2021-12-31,-20.87,-3.9733333333333363,-11.75,live,Equity-MLP
+EMO,2022-06-30,-20.28,-2.0650000000000013,-13.67,live,Equity-MLP
+EMO,2022-12-31,-11.75,7.711666666666666,-7.42,live,Equity-MLP
+EMO,2023-06-30,-13.67,5.743333333333334,-9.99,live,Equity-MLP
+EMO,2023-12-31,-7.42,10.733333333333333,-9.81,live,Equity-MLP
+EMO,2024-06-30,-9.99,5.571666666666667,-7.12,live,Equity-MLP
+EMO,2024-12-31,-9.81,4.186666666666667,-8.12,live,Equity-MLP
+EMO,2025-06-30,-7.12,5.033333333333334,-13.88,live,Equity-MLP
+EMO,2025-12-31,-8.12,1.8400000000000016,,live,Equity-MLP
+EMO,2026-06-30,-13.88,-4.525000000000002,,live,Equity-MLP
+FFC,2004-12-31,6.91,4.720000000000001,-15.43,live,Fixed Income - Taxable-Preferreds
+FFC,2005-06-30,-3.43,-6.800000000000001,-11.44,live,Fixed Income - Taxable-Preferreds
+FFC,2005-12-31,-15.43,-17.44,-7.52,live,Fixed Income - Taxable-Preferreds
+FFC,2006-06-30,-11.44,-10.543333333333333,-7.94,live,Fixed Income - Taxable-Preferreds
+FFC,2006-12-31,-7.52,-4.801666666666666,-12.64,live,Fixed Income - Taxable-Preferreds
+FFC,2007-06-30,-7.94,-2.838333333333334,-10.55,live,Fixed Income - Taxable-Preferreds
+FFC,2007-12-31,-12.64,-6.165,-13.85,live,Fixed Income - Taxable-Preferreds
+FFC,2008-06-30,-10.55,-0.8166666666666682,-0.29,live,Fixed Income - Taxable-Preferreds
+FFC,2008-12-31,-13.85,-2.9299999999999997,2.33,live,Fixed Income - Taxable-Preferreds
+FFC,2009-06-30,-0.29,10.366666666666669,5.64,live,Fixed Income - Taxable-Preferreds
+FFC,2009-12-31,2.33,11.128333333333334,-0.8,live,Fixed Income - Taxable-Preferreds
+FFC,2010-06-30,5.64,12.796666666666667,3.67,live,Fixed Income - Taxable-Preferreds
+FFC,2010-12-31,-0.8,4.093333333333334,7.51,live,Fixed Income - Taxable-Preferreds
+FFC,2011-06-30,3.67,6.59,6.56,live,Fixed Income - Taxable-Preferreds
+FFC,2011-12-31,7.51,8.059999999999999,0.21,live,Fixed Income - Taxable-Preferreds
+FFC,2012-06-30,6.56,3.5499999999999994,0.37,live,Fixed Income - Taxable-Preferreds
+FFC,2012-12-31,0.21,-3.9416666666666664,-2.33,live,Fixed Income - Taxable-Preferreds
+FFC,2013-06-30,0.37,-3.4283333333333332,-0.25,live,Fixed Income - Taxable-Preferreds
+FFC,2013-12-31,-2.33,-5.25,4.63,live,Fixed Income - Taxable-Preferreds
+FFC,2014-06-30,-0.25,-2.915,-2.07,live,Fixed Income - Taxable-Preferreds
+FFC,2014-12-31,4.63,2.618333333333333,7.86,live,Fixed Income - Taxable-Preferreds
+FFC,2015-06-30,-2.07,-3.6016666666666666,12.73,live,Fixed Income - Taxable-Preferreds
+FFC,2015-12-31,7.86,7.766666666666667,0.8,live,Fixed Income - Taxable-Preferreds
+FFC,2016-06-30,12.73,11.361666666666666,7.33,live,Fixed Income - Taxable-Preferreds
+FFC,2016-12-31,0.8,-2.628333333333333,0.64,live,Fixed Income - Taxable-Preferreds
+FFC,2017-06-30,7.33,3.3800000000000003,-1.61,live,Fixed Income - Taxable-Preferreds
+FFC,2017-12-31,0.64,-4.573333333333334,-4.91,live,Fixed Income - Taxable-Preferreds
+FFC,2018-06-30,-1.61,-6.158333333333335,1.68,live,Fixed Income - Taxable-Preferreds
+FFC,2018-12-31,-4.91,-9.535,4.5,live,Fixed Income - Taxable-Preferreds
+FFC,2019-06-30,1.68,-0.8166666666666667,7.13,live,Fixed Income - Taxable-Preferreds
+FFC,2019-12-31,4.5,3.8449999999999998,14.02,live,Fixed Income - Taxable-Preferreds
+FFC,2020-06-30,7.13,5.858333333333333,5.78,live,Fixed Income - Taxable-Preferreds
+FFC,2020-12-31,14.02,12.781666666666666,3.18,live,Fixed Income - Taxable-Preferreds
+FFC,2021-06-30,5.78,2.311666666666667,0.84,live,Fixed Income - Taxable-Preferreds
+FFC,2021-12-31,3.18,-1.52,-5.07,live,Fixed Income - Taxable-Preferreds
+FFC,2022-06-30,0.84,-5.208333333333333,-7.97,live,Fixed Income - Taxable-Preferreds
+FFC,2022-12-31,-5.07,-10.978333333333335,-12.08,live,Fixed Income - Taxable-Preferreds
+FFC,2023-06-30,-7.97,-12.283333333333333,-12.21,live,Fixed Income - Taxable-Preferreds
+FFC,2023-12-31,-12.08,-13.876666666666667,-9.17,live,Fixed Income - Taxable-Preferreds
+FFC,2024-06-30,-12.21,-9.656666666666668,-5.42,live,Fixed Income - Taxable-Preferreds
+FFC,2024-12-31,-9.17,-3.618333333333333,-6.52,live,Fixed Income - Taxable-Preferreds
+FFC,2025-06-30,-5.42,2.1900000000000004,-7.39,live,Fixed Income - Taxable-Preferreds
+FFC,2025-12-31,-6.52,2.1333333333333346,,live,Fixed Income - Taxable-Preferreds
+FFC,2026-06-30,-7.39,1.5050000000000017,,live,Fixed Income - Taxable-Preferreds
+FLC,2005-06-30,-7.81,-9.363333333333333,-12.81,live,Fixed Income - Taxable-Preferreds
+FLC,2005-12-31,-15.18,-14.3925,-6.57,live,Fixed Income - Taxable-Preferreds
+FLC,2006-06-30,-12.81,-9.144000000000002,-8.32,live,Fixed Income - Taxable-Preferreds
+FLC,2006-12-31,-6.57,-1.38,-11.22,live,Fixed Income - Taxable-Preferreds
+FLC,2007-06-30,-8.32,-1.2399999999999993,-8.42,live,Fixed Income - Taxable-Preferreds
+FLC,2007-12-31,-11.22,-3.2700000000000005,-17.12,live,Fixed Income - Taxable-Preferreds
+FLC,2008-06-30,-8.42,1.8983333333333334,-7.94,live,Fixed Income - Taxable-Preferreds
+FLC,2008-12-31,-17.12,-6.700000000000001,-1.56,live,Fixed Income - Taxable-Preferreds
+FLC,2009-06-30,-7.94,2.8033333333333337,5.37,live,Fixed Income - Taxable-Preferreds
+FLC,2009-12-31,-1.56,8.371666666666666,-1.03,live,Fixed Income - Taxable-Preferreds
+FLC,2010-06-30,5.37,14.466666666666665,4.81,live,Fixed Income - Taxable-Preferreds
+FLC,2010-12-31,-1.03,5.785000000000001,7.84,live,Fixed Income - Taxable-Preferreds
+FLC,2011-06-30,4.81,9.926666666666666,4.01,live,Fixed Income - Taxable-Preferreds
+FLC,2011-12-31,7.84,10.751666666666667,-1.98,live,Fixed Income - Taxable-Preferreds
+FLC,2012-06-30,4.01,2.7616666666666667,-2.31,live,Fixed Income - Taxable-Preferreds
+FLC,2012-12-31,-1.98,-5.22,-3.85,live,Fixed Income - Taxable-Preferreds
+FLC,2013-06-30,-2.31,-5.48,-4.63,live,Fixed Income - Taxable-Preferreds
+FLC,2013-12-31,-3.85,-5.74,-2.25,live,Fixed Income - Taxable-Preferreds
+FLC,2014-06-30,-4.63,-6.049999999999999,-1.85,live,Fixed Income - Taxable-Preferreds
+FLC,2014-12-31,-2.25,-2.0966666666666667,-4.0,live,Fixed Income - Taxable-Preferreds
+FLC,2015-06-30,-1.85,-0.014999999999999902,7.22,live,Fixed Income - Taxable-Preferreds
+FLC,2015-12-31,-4.0,-1.188333333333333,-0.45,live,Fixed Income - Taxable-Preferreds
+FLC,2016-06-30,7.22,10.368333333333332,2.2,live,Fixed Income - Taxable-Preferreds
+FLC,2016-12-31,-0.45,1.1099999999999999,-0.23,live,Fixed Income - Taxable-Preferreds
+FLC,2017-06-30,2.2,3.193333333333334,-4.36,live,Fixed Income - Taxable-Preferreds
+FLC,2017-12-31,-0.23,-0.37500000000000006,-8.74,live,Fixed Income - Taxable-Preferreds
+FLC,2018-06-30,-4.36,-4.841666666666667,-2.55,live,Fixed Income - Taxable-Preferreds
+FLC,2018-12-31,-8.74,-8.803333333333333,1.32,live,Fixed Income - Taxable-Preferreds
+FLC,2019-06-30,-2.55,-1.8233333333333328,0.3,live,Fixed Income - Taxable-Preferreds
+FLC,2019-12-31,1.32,3.675,8.79,live,Fixed Income - Taxable-Preferreds
+FLC,2020-06-30,0.3,2.36,6.02,live,Fixed Income - Taxable-Preferreds
+FLC,2020-12-31,8.79,11.166666666666666,1.38,live,Fixed Income - Taxable-Preferreds
+FLC,2021-06-30,6.02,6.8933333333333335,0.78,live,Fixed Income - Taxable-Preferreds
+FLC,2021-12-31,1.38,0.5233333333333331,-7.55,live,Fixed Income - Taxable-Preferreds
+FLC,2022-06-30,0.78,-1.763333333333333,-10.52,live,Fixed Income - Taxable-Preferreds
+FLC,2022-12-31,-7.55,-10.648333333333333,-14.36,live,Fixed Income - Taxable-Preferreds
+FLC,2023-06-30,-10.52,-12.139999999999999,-13.28,live,Fixed Income - Taxable-Preferreds
+FLC,2023-12-31,-14.36,-14.176666666666666,-9.3,live,Fixed Income - Taxable-Preferreds
+FLC,2024-06-30,-13.28,-9.238333333333333,-8.03,live,Fixed Income - Taxable-Preferreds
+FLC,2024-12-31,-9.3,-2.041666666666668,-8.34,live,Fixed Income - Taxable-Preferreds
+FLC,2025-06-30,-8.03,1.0083333333333346,-10.11,live,Fixed Income - Taxable-Preferreds
+FLC,2025-12-31,-8.34,2.166666666666668,,live,Fixed Income - Taxable-Preferreds
+FLC,2026-06-30,-10.11,0.5283333333333342,,live,Fixed Income - Taxable-Preferreds
+FPF,2014-12-31,-9.07,-6.836666666666666,-9.14,live,Fixed Income - Taxable-Preferreds
+FPF,2015-06-30,-10.71,-6.7675,0.26,live,Fixed Income - Taxable-Preferreds
+FPF,2015-12-31,-9.14,-3.8439999999999994,-1.99,live,Fixed Income - Taxable-Preferreds
+FPF,2016-06-30,0.26,6.196666666666667,-0.52,live,Fixed Income - Taxable-Preferreds
+FPF,2016-12-31,-1.99,5.3533333333333335,-2.05,live,Fixed Income - Taxable-Preferreds
+FPF,2017-06-30,-0.52,5.830000000000002,-7.26,live,Fixed Income - Taxable-Preferreds
+FPF,2017-12-31,-2.05,3.1449999999999996,-7.98,live,Fixed Income - Taxable-Preferreds
+FPF,2018-06-30,-7.26,-3.2350000000000003,-3.52,live,Fixed Income - Taxable-Preferreds
+FPF,2018-12-31,-7.98,-4.529999999999999,-4.34,live,Fixed Income - Taxable-Preferreds
+FPF,2019-06-30,-3.52,-0.26333333333333364,-3.36,live,Fixed Income - Taxable-Preferreds
+FPF,2019-12-31,-4.34,-0.45333333333333314,-1.89,live,Fixed Income - Taxable-Preferreds
+FPF,2020-06-30,-3.36,0.9183333333333334,0.8,live,Fixed Income - Taxable-Preferreds
+FPF,2020-12-31,-1.89,2.8616666666666664,0.04,live,Fixed Income - Taxable-Preferreds
+FPF,2021-06-30,0.8,5.525,-7.82,live,Fixed Income - Taxable-Preferreds
+FPF,2021-12-31,0.04,3.4216666666666664,-9.24,live,Fixed Income - Taxable-Preferreds
+FPF,2022-06-30,-7.82,-5.775,-10.55,live,Fixed Income - Taxable-Preferreds
+FPF,2022-12-31,-9.24,-6.4783333333333335,-11.93,live,Fixed Income - Taxable-Preferreds
+FPF,2023-06-30,-10.55,-6.971666666666668,-5.61,live,Fixed Income - Taxable-Preferreds
+FPF,2023-12-31,-11.93,-7.153333333333333,-7.24,live,Fixed Income - Taxable-Preferreds
+FPF,2024-06-30,-5.61,0.8399999999999999,-2.45,live,Fixed Income - Taxable-Preferreds
+FPF,2024-12-31,-7.24,0.2783333333333333,-5.64,live,Fixed Income - Taxable-Preferreds
+FPF,2025-06-30,-2.45,6.281666666666667,-5.4,live,Fixed Income - Taxable-Preferreds
+FPF,2025-12-31,-5.64,2.196666666666667,,live,Fixed Income - Taxable-Preferreds
+FPF,2026-06-30,-5.4,1.836666666666667,,live,Fixed Income - Taxable-Preferreds
+GLU,2005-12-31,-13.15,-6.2666666666666675,-9.58,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2006-06-30,-14.73,-6.280000000000001,-13.31,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2006-12-31,-9.58,0.12599999999999945,-11.01,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2007-06-30,-13.31,-3.625,-10.88,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2007-12-31,-11.01,0.21499999999999986,-14.53,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2008-06-30,-10.88,1.0700000000000003,-6.11,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2008-12-31,-14.53,-2.42,1.19,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2009-06-30,-6.11,6.230000000000001,1.11,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2009-12-31,1.19,12.093333333333334,-0.17,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2010-06-30,1.11,10.218333333333334,-3.91,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2010-12-31,-0.17,6.535000000000001,2.28,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2011-06-30,-3.91,0.9883333333333333,-0.2,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2011-12-31,2.28,6.016666666666667,3.36,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2012-06-30,-0.2,0.7349999999999999,-8.33,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2012-12-31,3.36,3.31,-10.6,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2013-06-30,-8.33,-8.741666666666667,-11.94,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2013-12-31,-10.6,-9.438333333333333,-12.28,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2014-06-30,-11.94,-9.04,-15.91,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2014-12-31,-12.28,-8.041666666666666,-14.91,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2015-06-30,-15.91,-9.245000000000001,-11.28,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2015-12-31,-14.91,-5.626666666666667,-15.28,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2016-06-30,-11.28,1.0483333333333338,-5.97,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2016-12-31,-15.28,-2.459999999999999,-5.04,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2017-06-30,-5.97,7.63,-9.3,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2017-12-31,-5.04,7.564999999999999,-13.89,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2018-06-30,-9.3,2.0983333333333327,-5.33,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2018-12-31,-13.89,-3.5933333333333337,-6.82,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2019-06-30,-5.33,4.796666666666667,1.29,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2019-12-31,-6.82,2.3149999999999995,-5.43,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2020-06-30,1.29,9.015,-2.91,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2020-12-31,-5.43,1.0850000000000009,0.19,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2021-06-30,-2.91,3.670000000000001,-5.11,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2021-12-31,0.19,5.705000000000001,-10.8,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2022-06-30,-5.11,-1.9416666666666673,-8.9,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2022-12-31,-10.8,-7.668333333333333,-11.37,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2023-06-30,-8.9,-5.105,-7.27,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2023-12-31,-11.37,-5.876666666666666,3.23,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2024-06-30,-7.27,-0.7866666666666662,-0.87,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2024-12-31,3.23,10.440000000000001,7.86,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2025-06-30,-0.87,5.833333333333334,-6.04,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2025-12-31,7.86,13.856666666666667,,live,Equity-Sector Equity (infrastructure/utilities)
+GLU,2026-06-30,-6.04,-3.1533333333333333,,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2001-06-30,12.23,8.163333333333334,25.61,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2001-12-31,27.56,21.4525,41.03,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2002-06-30,25.61,15.212,44.11,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2002-12-31,41.03,28.09666666666667,37.7,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2003-06-30,44.11,24.349999999999998,36.49,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2003-12-31,37.7,11.260000000000005,30.25,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2004-06-30,36.49,5.116666666666667,36.24,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2004-12-31,30.25,-5.166666666666664,32.81,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2005-06-30,36.24,0.375,21.5,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2005-12-31,32.81,-4.826666666666668,21.37,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2006-06-30,21.5,-14.766666666666673,17.78,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2006-12-31,21.37,-11.128333333333334,14.09,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2007-06-30,17.78,-11.99666666666667,31.06,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2007-12-31,14.09,-12.568333333333335,20.86,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2008-06-30,31.06,7.094999999999995,53.55,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2008-12-31,20.86,-2.2416666666666707,64.47,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2009-06-30,53.55,32.44,70.61,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2009-12-31,64.47,38.01833333333333,19.89,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2010-06-30,70.61,36.975,27.88,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2010-12-31,19.89,-22.549999999999997,37.08,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2011-06-30,27.88,-15.526666666666667,42.42,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2011-12-31,37.08,-5.796666666666667,12.38,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2012-06-30,42.42,-3.1599999999999895,13.11,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2012-12-31,12.38,-31.34499999999999,7.23,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2013-06-30,13.11,-21.93333333333333,17.82,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2013-12-31,7.23,-18.229999999999997,18.15,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2014-06-30,17.82,-5.529999999999998,12.92,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2014-12-31,18.15,-3.5233333333333334,15.92,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2015-06-30,12.92,-5.5983333333333345,16.23,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2015-12-31,15.92,2.3183333333333334,15.6,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2016-06-30,16.23,2.0383333333333358,28.55,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2016-12-31,15.6,0.8883333333333319,32.96,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2017-06-30,28.55,12.443333333333335,17.1,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2017-12-31,32.96,15.065000000000001,28.38,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2018-06-30,17.1,-3.263333333333332,39.24,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2018-12-31,28.38,7.32,52.18,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2019-06-30,39.24,16.103333333333335,92.04,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2019-12-31,52.18,25.208333333333332,97.28,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2020-06-30,92.04,58.97166666666667,81.65,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2020-12-31,97.28,53.629999999999995,89.43,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2021-06-30,81.65,27.28,79.13,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2021-12-31,89.43,24.301666666666677,101.91,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2022-06-30,79.13,3.826666666666668,107.98,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2022-12-31,101.91,19.95833333333333,84.35,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2023-06-30,107.98,17.739999999999995,115.52,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2023-12-31,84.35,-8.546666666666667,66.77,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2024-06-30,115.52,24.77833333333332,88.03,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2024-12-31,66.77,-29.616666666666674,98.36,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2025-06-30,88.03,-4.579999999999998,102.83,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2025-12-31,98.36,4.26666666666668,,live,Equity-Sector Equity (infrastructure/utilities)
+GUT,2026-06-30,102.83,9.328333333333333,,live,Equity-Sector Equity (infrastructure/utilities)
+HPF,2004-06-30,-5.43,-6.456666666666666,-9.73,live,Fixed Income - Taxable-Preferreds
+HPF,2004-12-31,-3.82,-3.2325,-13.28,live,Fixed Income - Taxable-Preferreds
+HPF,2005-06-30,-9.73,-8.496,-5.62,live,Fixed Income - Taxable-Preferreds
+HPF,2005-12-31,-13.28,-10.629999999999999,3.79,live,Fixed Income - Taxable-Preferreds
+HPF,2006-06-30,-5.62,-0.1416666666666675,0.04,live,Fixed Income - Taxable-Preferreds
+HPF,2006-12-31,3.79,10.078333333333333,-6.03,live,Fixed Income - Taxable-Preferreds
+HPF,2007-06-30,0.04,5.721666666666666,-0.48,live,Fixed Income - Taxable-Preferreds
+HPF,2007-12-31,-6.03,-1.2600000000000007,4.22,live,Fixed Income - Taxable-Preferreds
+HPF,2008-06-30,-0.48,4.658333333333333,0.21,live,Fixed Income - Taxable-Preferreds
+HPF,2008-12-31,4.22,7.816666666666666,-5.99,live,Fixed Income - Taxable-Preferreds
+HPF,2009-06-30,0.21,0.8900000000000001,-5.44,live,Fixed Income - Taxable-Preferreds
+HPF,2009-12-31,-5.99,-6.281666666666667,-7.92,live,Fixed Income - Taxable-Preferreds
+HPF,2010-06-30,-5.44,-4.101666666666667,-1.15,live,Fixed Income - Taxable-Preferreds
+HPF,2010-12-31,-7.92,-5.668333333333333,4.93,live,Fixed Income - Taxable-Preferreds
+HPF,2011-06-30,-1.15,1.416666666666667,2.46,live,Fixed Income - Taxable-Preferreds
+HPF,2011-12-31,4.93,7.6083333333333325,-1.25,live,Fixed Income - Taxable-Preferreds
+HPF,2012-06-30,2.46,5.02,-0.67,live,Fixed Income - Taxable-Preferreds
+HPF,2012-12-31,-1.25,0.935,-1.35,live,Fixed Income - Taxable-Preferreds
+HPF,2013-06-30,-0.67,0.7250000000000002,-4.45,live,Fixed Income - Taxable-Preferreds
+HPF,2013-12-31,-1.35,-0.75,-3.74,live,Fixed Income - Taxable-Preferreds
+HPF,2014-06-30,-4.45,-4.945,-9.06,live,Fixed Income - Taxable-Preferreds
+HPF,2014-12-31,-3.74,-3.685,-9.33,live,Fixed Income - Taxable-Preferreds
+HPF,2015-06-30,-9.06,-7.5600000000000005,-0.05,live,Fixed Income - Taxable-Preferreds
+HPF,2015-12-31,-9.33,-5.91,-2.13,live,Fixed Income - Taxable-Preferreds
+HPF,2016-06-30,-0.05,4.716666666666667,1.1,live,Fixed Income - Taxable-Preferreds
+HPF,2016-12-31,-2.13,2.533333333333333,1.03,live,Fixed Income - Taxable-Preferreds
+HPF,2017-06-30,1.1,5.893333333333333,0.8,live,Fixed Income - Taxable-Preferreds
+HPF,2017-12-31,1.03,4.898333333333333,1.85,live,Fixed Income - Taxable-Preferreds
+HPF,2018-06-30,0.8,3.873333333333333,10.73,live,Fixed Income - Taxable-Preferreds
+HPF,2018-12-31,1.85,3.2800000000000002,2.64,live,Fixed Income - Taxable-Preferreds
+HPF,2019-06-30,10.73,10.296666666666667,1.74,live,Fixed Income - Taxable-Preferreds
+HPF,2019-12-31,2.64,0.41000000000000014,-3.9,live,Fixed Income - Taxable-Preferreds
+HPF,2020-06-30,1.74,-1.285,5.82,live,Fixed Income - Taxable-Preferreds
+HPF,2020-12-31,-3.9,-7.031666666666666,3.01,live,Fixed Income - Taxable-Preferreds
+HPF,2021-06-30,5.82,3.5100000000000007,4.89,live,Fixed Income - Taxable-Preferreds
+HPF,2021-12-31,3.01,-0.13666666666666716,0.51,live,Fixed Income - Taxable-Preferreds
+HPF,2022-06-30,4.89,1.5499999999999998,1.55,live,Fixed Income - Taxable-Preferreds
+HPF,2022-12-31,0.51,-1.8566666666666667,2.53,live,Fixed Income - Taxable-Preferreds
+HPF,2023-06-30,1.55,-0.4616666666666662,5.83,live,Fixed Income - Taxable-Preferreds
+HPF,2023-12-31,2.53,0.5499999999999996,1.62,live,Fixed Income - Taxable-Preferreds
+HPF,2024-06-30,5.83,2.7783333333333338,1.22,live,Fixed Income - Taxable-Preferreds
+HPF,2024-12-31,1.62,-1.4333333333333331,1.71,live,Fixed Income - Taxable-Preferreds
+HPF,2025-06-30,1.22,-1.6016666666666668,3.83,live,Fixed Income - Taxable-Preferreds
+HPF,2025-12-31,1.71,-0.5,,live,Fixed Income - Taxable-Preferreds
+HPF,2026-06-30,3.83,1.42,,live,Fixed Income - Taxable-Preferreds
+HPI,2004-06-30,-3.12,-5.906666666666666,-8.95,live,Fixed Income - Taxable-Preferreds
+HPI,2004-12-31,-3.83,-5.14,-12.97,live,Fixed Income - Taxable-Preferreds
+HPI,2005-06-30,-8.95,-9.232,-3.64,live,Fixed Income - Taxable-Preferreds
+HPI,2005-12-31,-12.97,-11.713333333333335,3.7,live,Fixed Income - Taxable-Preferreds
+HPI,2006-06-30,-3.64,0.6516666666666668,-0.08,live,Fixed Income - Taxable-Preferreds
+HPI,2006-12-31,3.7,8.791666666666668,-5.8,live,Fixed Income - Taxable-Preferreds
+HPI,2007-06-30,-0.08,4.721666666666667,0.21,live,Fixed Income - Taxable-Preferreds
+HPI,2007-12-31,-5.8,-1.505,12.71,live,Fixed Income - Taxable-Preferreds
+HPI,2008-06-30,0.21,4.833333333333334,1.15,live,Fixed Income - Taxable-Preferreds
+HPI,2008-12-31,12.71,15.806666666666667,-5.96,live,Fixed Income - Taxable-Preferreds
+HPI,2009-06-30,1.15,-0.03333333333333366,-5.96,live,Fixed Income - Taxable-Preferreds
+HPI,2009-12-31,-5.96,-7.941666666666667,-7.84,live,Fixed Income - Taxable-Preferreds
+HPI,2010-06-30,-5.96,-6.331666666666667,-0.76,live,Fixed Income - Taxable-Preferreds
+HPI,2010-12-31,-7.84,-7.2316666666666665,8.43,live,Fixed Income - Taxable-Preferreds
+HPI,2011-06-30,-0.76,0.1883333333333328,5.45,live,Fixed Income - Taxable-Preferreds
+HPI,2011-12-31,8.43,9.54,-0.5,live,Fixed Income - Taxable-Preferreds
+HPI,2012-06-30,5.45,7.273333333333333,-1.51,live,Fixed Income - Taxable-Preferreds
+HPI,2012-12-31,-0.5,0.6066666666666667,-1.94,live,Fixed Income - Taxable-Preferreds
+HPI,2013-06-30,-1.51,-1.3133333333333332,-5.32,live,Fixed Income - Taxable-Preferreds
+HPI,2013-12-31,-1.94,-2.485,-4.0,live,Fixed Income - Taxable-Preferreds
+HPI,2014-06-30,-5.32,-6.848333333333334,-9.15,live,Fixed Income - Taxable-Preferreds
+HPI,2014-12-31,-4.0,-4.7683333333333335,-8.91,live,Fixed Income - Taxable-Preferreds
+HPI,2015-06-30,-9.15,-7.846666666666667,1.2,live,Fixed Income - Taxable-Preferreds
+HPI,2015-12-31,-8.91,-5.173333333333334,-2.86,live,Fixed Income - Taxable-Preferreds
+HPI,2016-06-30,1.2,6.338333333333334,-0.55,live,Fixed Income - Taxable-Preferreds
+HPI,2016-12-31,-2.86,1.8266666666666667,-0.46,live,Fixed Income - Taxable-Preferreds
+HPI,2017-06-30,-0.55,4.29,1.59,live,Fixed Income - Taxable-Preferreds
+HPI,2017-12-31,-0.46,3.585000000000001,-0.75,live,Fixed Income - Taxable-Preferreds
+HPI,2018-06-30,1.59,5.045000000000001,9.81,live,Fixed Income - Taxable-Preferreds
+HPI,2018-12-31,-0.75,0.9150000000000003,3.44,live,Fixed Income - Taxable-Preferreds
+HPI,2019-06-30,9.81,10.115,10.02,live,Fixed Income - Taxable-Preferreds
+HPI,2019-12-31,3.44,2.3099999999999996,-0.81,live,Fixed Income - Taxable-Preferreds
+HPI,2020-06-30,10.02,7.84,3.9,live,Fixed Income - Taxable-Preferreds
+HPI,2020-12-31,-0.81,-4.751666666666667,1.72,live,Fixed Income - Taxable-Preferreds
+HPI,2021-06-30,3.9,0.016666666666666607,0.77,live,Fixed Income - Taxable-Preferreds
+HPI,2021-12-31,1.72,-2.548333333333334,1.58,live,Fixed Income - Taxable-Preferreds
+HPI,2022-06-30,0.77,-3.9099999999999997,1.67,live,Fixed Income - Taxable-Preferreds
+HPI,2022-12-31,1.58,-1.5933333333333324,2.53,live,Fixed Income - Taxable-Preferreds
+HPI,2023-06-30,1.67,-1.1933333333333334,3.04,live,Fixed Income - Taxable-Preferreds
+HPI,2023-12-31,2.53,1.0583333333333331,1.36,live,Fixed Income - Taxable-Preferreds
+HPI,2024-06-30,3.04,1.0116666666666667,1.02,live,Fixed Income - Taxable-Preferreds
+HPI,2024-12-31,1.36,-0.5249999999999997,2.38,live,Fixed Income - Taxable-Preferreds
+HPI,2025-06-30,1.02,-0.8049999999999999,5.44,live,Fixed Income - Taxable-Preferreds
+HPI,2025-12-31,2.38,0.5133333333333334,,live,Fixed Income - Taxable-Preferreds
+HPI,2026-06-30,5.44,3.4400000000000004,,live,Fixed Income - Taxable-Preferreds
+HPS,2004-12-31,-7.53,-9.916666666666668,-13.48,live,Fixed Income - Taxable-Preferreds
+HPS,2005-06-30,-8.53,-8.4375,-10.19,live,Fixed Income - Taxable-Preferreds
+HPS,2005-12-31,-13.48,-11.700000000000001,-5.04,live,Fixed Income - Taxable-Preferreds
+HPS,2006-06-30,-10.19,-6.459999999999999,-4.64,live,Fixed Income - Taxable-Preferreds
+HPS,2006-12-31,-5.04,1.461666666666666,-4.21,live,Fixed Income - Taxable-Preferreds
+HPS,2007-06-30,-4.64,3.2566666666666677,-6.12,live,Fixed Income - Taxable-Preferreds
+HPS,2007-12-31,-4.21,4.0249999999999995,-7.64,live,Fixed Income - Taxable-Preferreds
+HPS,2008-06-30,-6.12,1.5616666666666656,0.24,live,Fixed Income - Taxable-Preferreds
+HPS,2008-12-31,-7.64,-0.35999999999999943,-2.4,live,Fixed Income - Taxable-Preferreds
+HPS,2009-06-30,0.24,6.546666666666668,-0.69,live,Fixed Income - Taxable-Preferreds
+HPS,2009-12-31,-2.4,2.1683333333333343,-7.68,live,Fixed Income - Taxable-Preferreds
+HPS,2010-06-30,-0.69,3.438333333333333,-2.61,live,Fixed Income - Taxable-Preferreds
+HPS,2010-12-31,-7.68,-4.209999999999999,0.89,live,Fixed Income - Taxable-Preferreds
+HPS,2011-06-30,-2.61,1.438333333333333,2.04,live,Fixed Income - Taxable-Preferreds
+HPS,2011-12-31,0.89,4.353333333333333,-0.9,live,Fixed Income - Taxable-Preferreds
+HPS,2012-06-30,2.04,4.081666666666667,-1.35,live,Fixed Income - Taxable-Preferreds
+HPS,2012-12-31,-0.9,0.8416666666666665,-3.21,live,Fixed Income - Taxable-Preferreds
+HPS,2013-06-30,-1.35,0.14166666666666616,-6.51,live,Fixed Income - Taxable-Preferreds
+HPS,2013-12-31,-3.21,-1.6083333333333336,-4.03,live,Fixed Income - Taxable-Preferreds
+HPS,2014-06-30,-6.51,-5.653333333333333,-11.43,live,Fixed Income - Taxable-Preferreds
+HPS,2014-12-31,-4.03,-2.5233333333333334,-8.28,live,Fixed Income - Taxable-Preferreds
+HPS,2015-06-30,-11.43,-9.103333333333333,-1.22,live,Fixed Income - Taxable-Preferreds
+HPS,2015-12-31,-8.28,-3.708333333333333,-3.59,live,Fixed Income - Taxable-Preferreds
+HPS,2016-06-30,-1.22,4.581666666666667,-1.03,live,Fixed Income - Taxable-Preferreds
+HPS,2016-12-31,-3.59,2.1900000000000004,-1.06,live,Fixed Income - Taxable-Preferreds
+HPS,2017-06-30,-1.03,4.8133333333333335,-1.22,live,Fixed Income - Taxable-Preferreds
+HPS,2017-12-31,-1.06,3.8700000000000006,-3.36,live,Fixed Income - Taxable-Preferreds
+HPS,2018-06-30,-1.22,3.215,4.6,live,Fixed Income - Taxable-Preferreds
+HPS,2018-12-31,-3.36,-0.6266666666666669,0.52,live,Fixed Income - Taxable-Preferreds
+HPS,2019-06-30,4.6,6.513333333333333,1.11,live,Fixed Income - Taxable-Preferreds
+HPS,2019-12-31,0.52,1.4633333333333334,-2.41,live,Fixed Income - Taxable-Preferreds
+HPS,2020-06-30,1.11,1.3683333333333334,5.21,live,Fixed Income - Taxable-Preferreds
+HPS,2020-12-31,-2.41,-2.5083333333333333,3.48,live,Fixed Income - Taxable-Preferreds
+HPS,2021-06-30,5.21,5.336666666666667,3.46,live,Fixed Income - Taxable-Preferreds
+HPS,2021-12-31,3.48,2.535,1.28,live,Fixed Income - Taxable-Preferreds
+HPS,2022-06-30,3.46,1.375,4.63,live,Fixed Income - Taxable-Preferreds
+HPS,2022-12-31,1.28,-0.6150000000000002,2.09,live,Fixed Income - Taxable-Preferreds
+HPS,2023-06-30,4.63,2.608333333333333,8.64,live,Fixed Income - Taxable-Preferreds
+HPS,2023-12-31,2.09,-0.5183333333333331,2.42,live,Fixed Income - Taxable-Preferreds
+HPS,2024-06-30,8.64,5.281666666666668,1.71,live,Fixed Income - Taxable-Preferreds
+HPS,2024-12-31,2.42,-1.5099999999999998,1.4,live,Fixed Income - Taxable-Preferreds
+HPS,2025-06-30,1.71,-2.043333333333334,4.84,live,Fixed Income - Taxable-Preferreds
+HPS,2025-12-31,1.4,-2.0616666666666674,,live,Fixed Income - Taxable-Preferreds
+HPS,2026-06-30,4.84,1.358333333333333,,live,Fixed Income - Taxable-Preferreds
+JPC,2004-12-31,-6.4,-4.803333333333334,-15.59,live,Fixed Income - Taxable-Preferreds
+JPC,2005-06-30,-7.82,-5.0225,-9.9,live,Fixed Income - Taxable-Preferreds
+JPC,2005-12-31,-15.59,-11.788,0.21,live,Fixed Income - Taxable-Preferreds
+JPC,2006-06-30,-9.9,-4.133333333333334,-5.3,live,Fixed Income - Taxable-Preferreds
+JPC,2006-12-31,0.21,8.255,-13.33,live,Fixed Income - Taxable-Preferreds
+JPC,2007-06-30,-5.3,3.005,-13.87,live,Fixed Income - Taxable-Preferreds
+JPC,2007-12-31,-13.33,-5.863333333333334,-20.93,live,Fixed Income - Taxable-Preferreds
+JPC,2008-06-30,-13.87,-5.248333333333333,-19.0,live,Fixed Income - Taxable-Preferreds
+JPC,2008-12-31,-20.93,-11.299999999999999,-12.06,live,Fixed Income - Taxable-Preferreds
+JPC,2009-06-30,-19.0,-8.48,-13.8,live,Fixed Income - Taxable-Preferreds
+JPC,2009-12-31,-12.06,-0.023333333333333428,-13.2,live,Fixed Income - Taxable-Preferreds
+JPC,2010-06-30,-13.8,0.28166666666666806,-8.65,live,Fixed Income - Taxable-Preferreds
+JPC,2010-12-31,-13.2,2.298333333333334,-7.61,live,Fixed Income - Taxable-Preferreds
+JPC,2011-06-30,-8.65,6.826666666666666,-4.24,live,Fixed Income - Taxable-Preferreds
+JPC,2011-12-31,-7.61,6.996666666666669,-5.45,live,Fixed Income - Taxable-Preferreds
+JPC,2012-06-30,-4.24,8.146666666666668,-7.28,live,Fixed Income - Taxable-Preferreds
+JPC,2012-12-31,-5.45,4.4766666666666675,-10.05,live,Fixed Income - Taxable-Preferreds
+JPC,2013-06-30,-7.28,1.5450000000000008,-9.58,live,Fixed Income - Taxable-Preferreds
+JPC,2013-12-31,-10.05,-2.3116666666666665,-10.45,live,Fixed Income - Taxable-Preferreds
+JPC,2014-06-30,-9.58,-2.3666666666666663,-11.21,live,Fixed Income - Taxable-Preferreds
+JPC,2014-12-31,-10.45,-3.081666666666666,-11.12,live,Fixed Income - Taxable-Preferreds
+JPC,2015-06-30,-11.21,-3.368333333333335,-1.18,live,Fixed Income - Taxable-Preferreds
+JPC,2015-12-31,-11.12,-2.1166666666666654,-3.53,live,Fixed Income - Taxable-Preferreds
+JPC,2016-06-30,-1.18,8.768333333333333,-3.88,live,Fixed Income - Taxable-Preferreds
+JPC,2016-12-31,-3.53,5.401666666666667,-3.72,live,Fixed Income - Taxable-Preferreds
+JPC,2017-06-30,-3.88,3.965,-7.35,live,Fixed Income - Taxable-Preferreds
+JPC,2017-12-31,-3.72,3.1750000000000003,-9.33,live,Fixed Income - Taxable-Preferreds
+JPC,2018-06-30,-7.35,-1.5766666666666662,-1.0,live,Fixed Income - Taxable-Preferreds
+JPC,2018-12-31,-9.33,-4.200000000000001,-0.96,live,Fixed Income - Taxable-Preferreds
+JPC,2019-06-30,-1.0,3.831666666666667,-4.16,live,Fixed Income - Taxable-Preferreds
+JPC,2019-12-31,-0.96,3.841666666666667,-3.12,live,Fixed Income - Taxable-Preferreds
+JPC,2020-06-30,-4.16,0.21333333333333382,0.91,live,Fixed Income - Taxable-Preferreds
+JPC,2020-12-31,-3.12,1.2999999999999998,-0.31,live,Fixed Income - Taxable-Preferreds
+JPC,2021-06-30,0.91,5.23,-6.31,live,Fixed Income - Taxable-Preferreds
+JPC,2021-12-31,-0.31,2.6333333333333333,-7.95,live,Fixed Income - Taxable-Preferreds
+JPC,2022-06-30,-6.31,-4.869999999999999,-10.62,live,Fixed Income - Taxable-Preferreds
+JPC,2022-12-31,-7.95,-5.625,-12.66,live,Fixed Income - Taxable-Preferreds
+JPC,2023-06-30,-10.62,-7.129999999999999,-7.91,live,Fixed Income - Taxable-Preferreds
+JPC,2023-12-31,-12.66,-8.093333333333334,-1.38,live,Fixed Income - Taxable-Preferreds
+JPC,2024-06-30,-7.91,-1.7533333333333339,0.5,live,Fixed Income - Taxable-Preferreds
+JPC,2024-12-31,-1.38,6.246666666666665,0.12,live,Fixed Income - Taxable-Preferreds
+JPC,2025-06-30,0.5,8.305,-0.89,live,Fixed Income - Taxable-Preferreds
+JPC,2025-12-31,0.12,6.790000000000001,,live,Fixed Income - Taxable-Preferreds
+JPC,2026-06-30,-0.89,4.4350000000000005,,live,Fixed Income - Taxable-Preferreds
+JRS,2003-06-30,4.22,0.5599999999999996,-11.31,live,Equity-Real Estate
+JRS,2003-12-31,-0.22,-4.02,-7.61,live,Equity-Real Estate
+JRS,2004-06-30,-11.31,-14.306000000000001,-10.26,live,Equity-Real Estate
+JRS,2004-12-31,-7.61,-8.221666666666668,-10.68,live,Equity-Real Estate
+JRS,2005-06-30,-10.26,-9.15,-2.12,live,Equity-Real Estate
+JRS,2005-12-31,-10.68,-7.66,7.72,live,Equity-Real Estate
+JRS,2006-06-30,-2.12,3.8566666666666665,3.04,live,Equity-Real Estate
+JRS,2006-12-31,7.72,14.753333333333332,-6.04,live,Equity-Real Estate
+JRS,2007-06-30,3.04,8.75,-0.85,live,Equity-Real Estate
+JRS,2007-12-31,-6.04,-2.7216666666666662,-23.86,live,Equity-Real Estate
+JRS,2008-06-30,-0.85,2.2066666666666666,4.33,live,Equity-Real Estate
+JRS,2008-12-31,-23.86,-22.371666666666666,-3.52,live,Equity-Real Estate
+JRS,2009-06-30,4.33,8.015,-2.25,live,Equity-Real Estate
+JRS,2009-12-31,-3.52,-0.9100000000000001,3.27,live,Equity-Real Estate
+JRS,2010-06-30,-2.25,2.2333333333333334,10.87,live,Equity-Real Estate
+JRS,2010-12-31,3.27,8.635,8.3,live,Equity-Real Estate
+JRS,2011-06-30,10.87,14.683333333333334,1.88,live,Equity-Real Estate
+JRS,2011-12-31,8.3,10.16,1.83,live,Equity-Real Estate
+JRS,2012-06-30,1.88,-1.62,10.8,live,Equity-Real Estate
+JRS,2012-12-31,1.83,-1.2616666666666667,-0.21,live,Equity-Real Estate
+JRS,2013-06-30,10.8,6.816666666666668,-1.15,live,Equity-Real Estate
+JRS,2013-12-31,-0.21,-6.368333333333334,-3.46,live,Equity-Real Estate
+JRS,2014-06-30,-1.15,-6.7283333333333335,-8.33,live,Equity-Real Estate
+JRS,2014-12-31,-3.46,-7.035,-8.52,live,Equity-Real Estate
+JRS,2015-06-30,-8.33,-9.945,-5.29,live,Equity-Real Estate
+JRS,2015-12-31,-8.52,-8.433333333333334,-5.44,live,Equity-Real Estate
+JRS,2016-06-30,-5.29,-3.4783333333333335,0.09,live,Equity-Real Estate
+JRS,2016-12-31,-5.44,-0.9466666666666672,-0.79,live,Equity-Real Estate
+JRS,2017-06-30,0.09,5.454999999999999,-8.1,live,Equity-Real Estate
+JRS,2017-12-31,-0.79,4.368333333333333,-11.04,live,Equity-Real Estate
+JRS,2018-06-30,-8.1,-3.386666666666666,-4.81,live,Equity-Real Estate
+JRS,2018-12-31,-11.04,-6.364999999999999,-5.16,live,Equity-Real Estate
+JRS,2019-06-30,-4.81,0.28500000000000014,-13.52,live,Equity-Real Estate
+JRS,2019-12-31,-5.16,-0.14500000000000046,-12.62,live,Equity-Real Estate
+JRS,2020-06-30,-13.52,-8.551666666666666,-8.23,live,Equity-Real Estate
+JRS,2020-12-31,-12.62,-5.383333333333332,-3.03,live,Equity-Real Estate
+JRS,2021-06-30,-8.23,0.9783333333333317,0.15,live,Equity-Real Estate
+JRS,2021-12-31,-3.03,6.199999999999999,-7.64,live,Equity-Real Estate
+JRS,2022-06-30,0.15,8.045,-12.17,live,Equity-Real Estate
+JRS,2022-12-31,-7.64,-0.5716666666666654,-11.54,live,Equity-Real Estate
+JRS,2023-06-30,-12.17,-4.688333333333332,-11.43,live,Equity-Real Estate
+JRS,2023-12-31,-11.54,-4.283333333333331,-5.01,live,Equity-Real Estate
+JRS,2024-06-30,-11.43,-4.353333333333333,-8.17,live,Equity-Real Estate
+JRS,2024-12-31,-5.01,2.5999999999999996,-7.14,live,Equity-Real Estate
+JRS,2025-06-30,-8.17,-0.23000000000000131,-9.02,live,Equity-Real Estate
+JRS,2025-12-31,-7.14,2.1866666666666665,,live,Equity-Real Estate
+JRS,2026-06-30,-9.02,0.2233333333333345,,live,Equity-Real Estate
+KYN,2006-06-30,-2.43,-4.126666666666667,-3.79,live,Equity-MLP
+KYN,2006-12-31,12.25,11.585,-4.16,live,Equity-MLP
+KYN,2007-06-30,-3.79,-6.772,3.94,live,Equity-MLP
+KYN,2007-12-31,-4.16,-6.013333333333334,17.81,live,Equity-MLP
+KYN,2008-06-30,3.94,3.295,26.05,live,Equity-MLP
+KYN,2008-12-31,17.81,17.196666666666665,19.72,live,Equity-MLP
+KYN,2009-06-30,26.05,22.113333333333333,11.44,live,Equity-MLP
+KYN,2009-12-31,19.72,11.036666666666667,15.15,live,Equity-MLP
+KYN,2010-06-30,11.44,1.5116666666666667,7.44,live,Equity-MLP
+KYN,2010-12-31,15.15,2.6833333333333336,5.71,live,Equity-MLP
+KYN,2011-06-30,7.44,-8.245000000000001,12.88,live,Equity-MLP
+KYN,2011-12-31,5.71,-10.558333333333334,9.55,live,Equity-MLP
+KYN,2012-06-30,12.88,-1.3716666666666644,13.78,live,Equity-MLP
+KYN,2012-12-31,9.55,-2.506666666666664,15.92,live,Equity-MLP
+KYN,2013-06-30,13.78,3.418333333333333,-0.08,live,Equity-MLP
+KYN,2013-12-31,15.92,5.168333333333333,10.32,live,Equity-MLP
+KYN,2014-06-30,-0.08,-10.96,7.14,live,Equity-MLP
+KYN,2014-12-31,10.32,0.6933333333333334,-8.42,live,Equity-MLP
+KYN,2015-06-30,7.14,-3.2550000000000017,1.66,live,Equity-MLP
+KYN,2015-12-31,-8.42,-17.858333333333334,-2.39,live,Equity-MLP
+KYN,2016-06-30,1.66,-4.783333333333332,2.89,live,Equity-MLP
+KYN,2016-12-31,-2.39,-6.813333333333333,2.04,live,Equity-MLP
+KYN,2017-06-30,2.89,1.5183333333333338,2.61,live,Equity-MLP
+KYN,2017-12-31,2.04,0.17333333333333312,-5.02,live,Equity-MLP
+KYN,2018-06-30,2.61,2.123333333333333,-10.21,live,Equity-MLP
+KYN,2018-12-31,-5.02,-4.751666666666666,-7.15,live,Equity-MLP
+KYN,2019-06-30,-10.21,-10.508333333333335,-17.46,live,Equity-MLP
+KYN,2019-12-31,-7.15,-5.470000000000001,-19.21,live,Equity-MLP
+KYN,2020-06-30,-17.46,-14.986666666666668,-9.31,live,Equity-MLP
+KYN,2020-12-31,-19.21,-13.345000000000002,-14.02,live,Equity-MLP
+KYN,2021-06-30,-9.31,0.09666666666666757,-12.22,live,Equity-MLP
+KYN,2021-12-31,-14.02,-2.626666666666667,-14.26,live,Equity-MLP
+KYN,2022-06-30,-12.22,0.673333333333332,-16.85,live,Equity-MLP
+KYN,2022-12-31,-14.26,-1.0316666666666663,-15.82,live,Equity-MLP
+KYN,2023-06-30,-16.85,-2.4366666666666674,-11.54,live,Equity-MLP
+KYN,2023-12-31,-15.82,-1.5083333333333329,-11.53,live,Equity-MLP
+KYN,2024-06-30,-11.54,2.206666666666665,-10.26,live,Equity-MLP
+KYN,2024-12-31,-11.53,2.5883333333333347,-10.24,live,Equity-MLP
+KYN,2025-06-30,-10.26,3.4433333333333334,-14.85,live,Equity-MLP
+KYN,2025-12-31,-10.24,3.1366666666666667,,live,Equity-MLP
+KYN,2026-06-30,-14.85,-2.1433333333333344,,live,Equity-MLP
+LDP,2014-06-30,-6.0,-1.623333333333333,-10.75,live,Fixed Income - Taxable-Preferreds
+LDP,2014-12-31,-10.17,-5.387499999999999,-11.29,live,Fixed Income - Taxable-Preferreds
+LDP,2015-06-30,-10.75,-4.889999999999999,-2.46,live,Fixed Income - Taxable-Preferreds
+LDP,2015-12-31,-11.29,-4.614999999999998,-3.58,live,Fixed Income - Taxable-Preferreds
+LDP,2016-06-30,-2.46,5.978333333333334,-1.69,live,Fixed Income - Taxable-Preferreds
+LDP,2016-12-31,-3.58,4.928333333333335,-4.01,live,Fixed Income - Taxable-Preferreds
+LDP,2017-06-30,-1.69,5.6850000000000005,-0.08,live,Fixed Income - Taxable-Preferreds
+LDP,2017-12-31,-4.01,2.6466666666666665,-6.78,live,Fixed Income - Taxable-Preferreds
+LDP,2018-06-30,-0.08,5.55,-1.31,live,Fixed Income - Taxable-Preferreds
+LDP,2018-12-31,-6.78,-2.9283333333333337,0.95,live,Fixed Income - Taxable-Preferreds
+LDP,2019-06-30,-1.31,1.79,-5.14,live,Fixed Income - Taxable-Preferreds
+LDP,2019-12-31,0.95,3.8583333333333334,0.53,live,Fixed Income - Taxable-Preferreds
+LDP,2020-06-30,-5.14,-2.9866666666666664,3.85,live,Fixed Income - Taxable-Preferreds
+LDP,2020-12-31,0.53,3.2583333333333337,4.5,live,Fixed Income - Taxable-Preferreds
+LDP,2021-06-30,3.85,5.821666666666667,-9.48,live,Fixed Income - Taxable-Preferreds
+LDP,2021-12-31,4.5,5.816666666666666,-8.89,live,Fixed Income - Taxable-Preferreds
+LDP,2022-06-30,-9.48,-10.043333333333333,-6.33,live,Fixed Income - Taxable-Preferreds
+LDP,2022-12-31,-8.89,-8.091666666666667,-10.23,live,Fixed Income - Taxable-Preferreds
+LDP,2023-06-30,-6.33,-3.8916666666666666,-7.9,live,Fixed Income - Taxable-Preferreds
+LDP,2023-12-31,-10.23,-7.593333333333334,-7.45,live,Fixed Income - Taxable-Preferreds
+LDP,2024-06-30,-7.9,-3.4699999999999998,-5.05,live,Fixed Income - Taxable-Preferreds
+LDP,2024-12-31,-7.45,-1.0616666666666656,-6.26,live,Fixed Income - Taxable-Preferreds
+LDP,2025-06-30,-5.05,3.330000000000001,-6.63,live,Fixed Income - Taxable-Preferreds
+LDP,2025-12-31,-6.26,1.3816666666666668,,live,Fixed Income - Taxable-Preferreds
+LDP,2026-06-30,-6.63,0.5733333333333333,,live,Fixed Income - Taxable-Preferreds
+MEGI,2023-06-30,-16.31,-3.1466666666666665,-12.68,live,Equity-Sector Equity (infrastructure/utilities)
+MEGI,2023-12-31,-16.53,-2.580000000000002,-14.07,live,Equity-Sector Equity (infrastructure/utilities)
+MEGI,2024-06-30,-12.68,1.7859999999999996,-7.89,live,Equity-Sector Equity (infrastructure/utilities)
+MEGI,2024-12-31,-14.07,0.09833333333333094,-10.08,live,Equity-Sector Equity (infrastructure/utilities)
+MEGI,2025-06-30,-7.89,7.631666666666667,-9.19,live,Equity-Sector Equity (infrastructure/utilities)
+MEGI,2025-12-31,-10.08,4.076666666666666,,live,Equity-Sector Equity (infrastructure/utilities)
+MEGI,2026-06-30,-9.19,3.736666666666668,,live,Equity-Sector Equity (infrastructure/utilities)
+NML,2014-12-31,-5.67,-0.8300000000000001,-2.89,live,Equity-MLP
+NML,2015-06-30,-10.09,-5.0425,-8.42,live,Equity-MLP
+NML,2015-12-31,-2.89,3.165999999999999,-12.24,live,Equity-MLP
+NML,2016-06-30,-8.42,-2.8916666666666675,-6.78,live,Equity-MLP
+NML,2016-12-31,-12.24,-5.075,-3.7,live,Equity-MLP
+NML,2017-06-30,-6.78,1.6499999999999995,-7.39,live,Equity-MLP
+NML,2017-12-31,-3.7,3.9816666666666674,-12.36,live,Equity-MLP
+NML,2018-06-30,-7.39,-0.03666666666666529,-12.27,live,Equity-MLP
+NML,2018-12-31,-12.36,-5.456666666666666,-10.95,live,Equity-MLP
+NML,2019-06-30,-12.27,-3.788333333333332,-20.28,live,Equity-MLP
+NML,2019-12-31,-10.95,-1.8266666666666662,-24.28,live,Equity-MLP
+NML,2020-06-30,-20.28,-11.371666666666668,-19.97,live,Equity-MLP
+NML,2020-12-31,-24.28,-13.121666666666668,-19.38,live,Equity-MLP
+NML,2021-06-30,-19.97,-5.381666666666666,-19.45,live,Equity-MLP
+NML,2021-12-31,-19.38,-2.6950000000000003,-16.93,live,Equity-MLP
+NML,2022-06-30,-19.45,-1.5949999999999989,-11.68,live,Equity-MLP
+NML,2022-12-31,-16.93,2.121666666666666,-12.13,live,Equity-MLP
+NML,2023-06-30,-11.68,8.368333333333332,-12.46,live,Equity-MLP
+NML,2023-12-31,-12.13,6.484999999999998,-10.14,live,Equity-MLP
+NML,2024-06-30,-12.46,4.129999999999999,-9.53,live,Equity-MLP
+NML,2024-12-31,-10.14,5.198333333333332,-10.45,live,Equity-MLP
+NML,2025-06-30,-9.53,4.268333333333334,-12.05,live,Equity-MLP
+NML,2025-12-31,-10.45,1.695000000000002,,live,Equity-MLP
+NML,2026-06-30,-12.05,-0.9850000000000012,,live,Equity-MLP
+NPFD,2023-12-31,-16.41,-5.106666666666667,-7.95,live,Fixed Income - Taxable-Preferreds
+NPFD,2024-06-30,-10.33,2.2499999999999982,-3.56,live,Fixed Income - Taxable-Preferreds
+NPFD,2024-12-31,-7.95,4.179999999999999,-5.43,live,Fixed Income - Taxable-Preferreds
+NPFD,2025-06-30,-3.56,7.873333333333331,-5.56,live,Fixed Income - Taxable-Preferreds
+NPFD,2025-12-31,-5.43,5.2283333333333335,,live,Fixed Income - Taxable-Preferreds
+NPFD,2026-06-30,-5.56,4.250000000000001,,live,Fixed Income - Taxable-Preferreds
+NRO,2005-06-30,-15.42,-7.696666666666666,-16.47,live,Equity-Real Estate
+NRO,2005-12-31,-16.33,-6.682499999999997,-12.55,live,Equity-Real Estate
+NRO,2006-06-30,-16.47,-5.485999999999999,-7.18,live,Equity-Real Estate
+NRO,2006-12-31,-12.55,-0.6516666666666673,-8.67,live,Equity-Real Estate
+NRO,2007-06-30,-7.18,6.991666666666665,-1.76,live,Equity-Real Estate
+NRO,2007-12-31,-8.67,4.648333333333333,-26.78,live,Equity-Real Estate
+NRO,2008-06-30,-1.76,11.009999999999998,-10.05,live,Equity-Real Estate
+NRO,2008-12-31,-26.78,-16.28666666666667,-13.0,live,Equity-Real Estate
+NRO,2009-06-30,-10.05,2.1849999999999987,-6.63,live,Equity-Real Estate
+NRO,2009-12-31,-13.0,-1.8350000000000009,-9.52,live,Equity-Real Estate
+NRO,2010-06-30,-6.63,4.61,-9.46,live,Equity-Real Estate
+NRO,2010-12-31,-9.52,1.6283333333333339,-14.77,live,Equity-Real Estate
+NRO,2011-06-30,-9.46,1.83,-13.53,live,Equity-Real Estate
+NRO,2011-12-31,-14.77,-2.196666666666667,-13.17,live,Equity-Real Estate
+NRO,2012-06-30,-13.53,-2.958333333333332,-12.2,live,Equity-Real Estate
+NRO,2012-12-31,-13.17,-2.0183333333333344,-14.15,live,Equity-Real Estate
+NRO,2013-06-30,-12.2,-1.0199999999999996,-15.85,live,Equity-Real Estate
+NRO,2013-12-31,-14.15,-2.041666666666666,-15.04,live,Equity-Real Estate
+NRO,2014-06-30,-15.85,-2.969999999999999,-16.67,live,Equity-Real Estate
+NRO,2014-12-31,-15.04,-1.0949999999999989,-13.69,live,Equity-Real Estate
+NRO,2015-06-30,-16.67,-2.6800000000000015,-10.0,live,Equity-Real Estate
+NRO,2015-12-31,-13.69,0.8233333333333341,-8.05,live,Equity-Real Estate
+NRO,2016-06-30,-10.0,4.6,-9.4,live,Equity-Real Estate
+NRO,2016-12-31,-8.05,6.183333333333334,-3.83,live,Equity-Real Estate
+NRO,2017-06-30,-9.4,3.8166666666666664,-4.46,live,Equity-Real Estate
+NRO,2017-12-31,-3.83,8.311666666666667,-12.21,live,Equity-Real Estate
+NRO,2018-06-30,-4.46,5.813333333333332,-6.81,live,Equity-Real Estate
+NRO,2018-12-31,-12.21,-3.9716666666666676,-2.81,live,Equity-Real Estate
+NRO,2019-06-30,-6.81,1.1816666666666675,-8.29,live,Equity-Real Estate
+NRO,2019-12-31,-2.81,4.65,-0.68,live,Equity-Real Estate
+NRO,2020-06-30,-8.29,-1.7033333333333323,-2.34,live,Equity-Real Estate
+NRO,2020-12-31,-0.68,5.721666666666667,-3.83,live,Equity-Real Estate
+NRO,2021-06-30,-2.34,3.536666666666666,-1.2,live,Equity-Real Estate
+NRO,2021-12-31,-3.83,1.6933333333333334,-5.0,live,Equity-Real Estate
+NRO,2022-06-30,-1.2,2.926666666666666,-12.39,live,Equity-Real Estate
+NRO,2022-12-31,-5.0,-1.8083333333333336,-11.88,live,Equity-Real Estate
+NRO,2023-06-30,-12.39,-8.833333333333334,-2.93,live,Equity-Real Estate
+NRO,2023-12-31,-11.88,-7.6400000000000015,-3.63,live,Equity-Real Estate
+NRO,2024-06-30,-2.93,3.1766666666666663,-2.42,live,Equity-Real Estate
+NRO,2024-12-31,-3.63,2.575000000000001,-5.63,live,Equity-Real Estate
+NRO,2025-06-30,-2.42,3.751666666666667,-9.04,live,Equity-Real Estate
+NRO,2025-12-31,-5.63,0.745000000000001,,live,Equity-Real Estate
+NRO,2026-06-30,-9.04,-2.5599999999999987,,live,Equity-Real Estate
+NXG,2014-06-30,-11.18,-3.8866666666666667,-15.79,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2014-12-31,-12.89,-4.625,-20.3,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2015-06-30,-15.79,-6.599999999999998,-9.98,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2015-12-31,-20.3,-10.01,-12.18,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2016-06-30,-9.98,2.3916666666666675,-5.82,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2016-12-31,-12.18,1.3900000000000006,-2.39,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2017-06-30,-5.82,7.899999999999999,-7.7,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2017-12-31,-2.39,10.436666666666667,-13.55,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2018-06-30,-7.7,3.376666666666668,-17.98,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2018-12-31,-13.55,-3.821666666666667,-9.39,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2019-06-30,-17.98,-9.376666666666667,-23.69,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2019-12-31,-9.39,0.5466666666666669,-25.25,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2020-06-30,-23.69,-14.218333333333335,-13.91,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2020-12-31,-25.25,-12.799999999999999,-16.89,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2021-06-30,-13.91,2.3500000000000014,-24.56,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2021-12-31,-16.89,0.4049999999999976,-24.12,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2022-06-30,-24.56,-6.708333333333332,-21.58,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2022-12-31,-24.12,-5.171666666666667,-10.5,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2023-06-30,-21.58,-0.17666666666666586,-7.97,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2023-12-31,-10.5,10.551666666666666,-2.83,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2024-06-30,-7.97,10.623333333333335,1.7,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2024-12-31,-2.83,14.773333333333335,3.9,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2025-06-30,1.7,16.959999999999997,-3.6,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2025-12-31,3.9,14.783333333333333,,live,Equity-Sector Equity (infrastructure/utilities)
+NXG,2026-06-30,-3.6,2.613333333333332,,live,Equity-Sector Equity (infrastructure/utilities)
+PDT,1998-06-30,-10.11,-1.8166666666666664,-15.53,live,Fixed Income - Taxable-Preferreds
+PDT,1998-12-31,-11.91,-3.1625000000000014,-21.25,live,Fixed Income - Taxable-Preferreds
+PDT,1999-06-30,-15.53,-6.15,-15.24,live,Fixed Income - Taxable-Preferreds
+PDT,1999-12-31,-21.25,-10.845,-17.54,live,Fixed Income - Taxable-Preferreds
+PDT,2000-06-30,-15.24,-2.4633333333333347,-11.43,live,Fixed Income - Taxable-Preferreds
+PDT,2000-12-31,-17.54,-3.291666666666666,-9.5,live,Fixed Income - Taxable-Preferreds
+PDT,2001-06-30,-11.43,3.8333333333333304,-6.42,live,Fixed Income - Taxable-Preferreds
+PDT,2001-12-31,-9.5,5.983333333333334,1.55,live,Fixed Income - Taxable-Preferreds
+PDT,2002-06-30,-6.42,8.661666666666669,-0.54,live,Fixed Income - Taxable-Preferreds
+PDT,2002-12-31,1.55,15.113333333333335,-0.09,live,Fixed Income - Taxable-Preferreds
+PDT,2003-06-30,-0.54,9.223333333333333,-7.08,live,Fixed Income - Taxable-Preferreds
+PDT,2003-12-31,-0.09,7.223333333333334,-5.5,live,Fixed Income - Taxable-Preferreds
+PDT,2004-06-30,-7.08,-2.675,-3.44,live,Fixed Income - Taxable-Preferreds
+PDT,2004-12-31,-5.5,-1.8200000000000003,-14.63,live,Fixed Income - Taxable-Preferreds
+PDT,2005-06-30,-3.44,-0.42666666666666675,-12.12,live,Fixed Income - Taxable-Preferreds
+PDT,2005-12-31,-14.63,-12.113333333333333,-12.31,live,Fixed Income - Taxable-Preferreds
+PDT,2006-06-30,-12.12,-6.906666666666665,-13.49,live,Fixed Income - Taxable-Preferreds
+PDT,2006-12-31,-12.31,-5.166666666666667,-16.24,live,Fixed Income - Taxable-Preferreds
+PDT,2007-06-30,-13.49,-4.3100000000000005,-13.31,live,Fixed Income - Taxable-Preferreds
+PDT,2007-12-31,-16.24,-5.991666666666665,-20.77,live,Fixed Income - Taxable-Preferreds
+PDT,2008-06-30,-13.31,-1.2716666666666665,-12.05,live,Fixed Income - Taxable-Preferreds
+PDT,2008-12-31,-20.77,-7.086666666666664,-8.5,live,Fixed Income - Taxable-Preferreds
+PDT,2009-06-30,-12.05,2.6566666666666645,-6.32,live,Fixed Income - Taxable-Preferreds
+PDT,2009-12-31,-8.5,6.195,-5.01,live,Fixed Income - Taxable-Preferreds
+PDT,2010-06-30,-6.32,7.74,-4.5,live,Fixed Income - Taxable-Preferreds
+PDT,2010-12-31,-5.01,7.855,1.43,live,Fixed Income - Taxable-Preferreds
+PDT,2011-06-30,-4.5,6.493333333333332,7.58,live,Fixed Income - Taxable-Preferreds
+PDT,2011-12-31,1.43,10.955,-4.63,live,Fixed Income - Taxable-Preferreds
+PDT,2012-06-30,7.58,13.405000000000001,-8.8,live,Fixed Income - Taxable-Preferreds
+PDT,2012-12-31,-4.63,-2.0766666666666667,-10.35,live,Fixed Income - Taxable-Preferreds
+PDT,2013-06-30,-8.8,-6.8916666666666675,-11.73,live,Fixed Income - Taxable-Preferreds
+PDT,2013-12-31,-10.35,-8.028333333333332,-10.73,live,Fixed Income - Taxable-Preferreds
+PDT,2014-06-30,-11.73,-8.518333333333333,-11.07,live,Fixed Income - Taxable-Preferreds
+PDT,2014-12-31,-10.73,-6.3133333333333335,-8.28,live,Fixed Income - Taxable-Preferreds
+PDT,2015-06-30,-11.07,-4.626666666666668,-1.57,live,Fixed Income - Taxable-Preferreds
+PDT,2015-12-31,-8.28,1.2716666666666683,3.3,live,Fixed Income - Taxable-Preferreds
+PDT,2016-06-30,-1.57,8.59,4.3,live,Fixed Income - Taxable-Preferreds
+PDT,2016-12-31,3.3,12.254999999999999,12.48,live,Fixed Income - Taxable-Preferreds
+PDT,2017-06-30,4.3,10.98,9.67,live,Fixed Income - Taxable-Preferreds
+PDT,2017-12-31,12.48,16.488333333333333,5.22,live,Fixed Income - Taxable-Preferreds
+PDT,2018-06-30,9.67,9.81,10.7,live,Fixed Income - Taxable-Preferreds
+PDT,2018-12-31,5.22,1.9033333333333333,12.26,live,Fixed Income - Taxable-Preferreds
+PDT,2019-06-30,10.7,5.133333333333333,6.0,live,Fixed Income - Taxable-Preferreds
+PDT,2019-12-31,12.26,4.6483333333333325,3.86,live,Fixed Income - Taxable-Preferreds
+PDT,2020-06-30,6.0,-3.1050000000000004,15.04,live,Fixed Income - Taxable-Preferreds
+PDT,2020-12-31,3.86,-5.528333333333332,11.4,live,Fixed Income - Taxable-Preferreds
+PDT,2021-06-30,15.04,7.088333333333332,3.16,live,Fixed Income - Taxable-Preferreds
+PDT,2021-12-31,11.4,2.5533333333333346,0.77,live,Fixed Income - Taxable-Preferreds
+PDT,2022-06-30,3.16,-6.716666666666667,0.6,live,Fixed Income - Taxable-Preferreds
+PDT,2022-12-31,0.77,-7.85,-10.35,live,Fixed Income - Taxable-Preferreds
+PDT,2023-06-30,0.6,-6.1049999999999995,-8.54,live,Fixed Income - Taxable-Preferreds
+PDT,2023-12-31,-10.35,-16.155,-4.94,live,Fixed Income - Taxable-Preferreds
+PDT,2024-06-30,-8.54,-11.976666666666665,-2.81,live,Fixed Income - Taxable-Preferreds
+PDT,2024-12-31,-4.94,-4.446666666666667,-8.35,live,Fixed Income - Taxable-Preferreds
+PDT,2025-06-30,-2.81,0.40666666666666673,-11.87,live,Fixed Income - Taxable-Preferreds
+PDT,2025-12-31,-8.35,-4.138333333333333,,live,Fixed Income - Taxable-Preferreds
+PDT,2026-06-30,-11.87,-6.138333333333333,,live,Fixed Income - Taxable-Preferreds
+PFD,1998-06-30,-4.8,1.1800000000000006,-10.31,live,Fixed Income - Taxable-Preferreds
+PFD,1998-12-31,-2.41,3.2750000000000004,-10.84,live,Fixed Income - Taxable-Preferreds
+PFD,1999-06-30,-10.31,-5.28,-7.53,live,Fixed Income - Taxable-Preferreds
+PFD,1999-12-31,-10.84,-4.93,-9.65,live,Fixed Income - Taxable-Preferreds
+PFD,2000-06-30,-7.53,-1.0566666666666666,-2.58,live,Fixed Income - Taxable-Preferreds
+PFD,2000-12-31,-9.65,-2.635,2.71,live,Fixed Income - Taxable-Preferreds
+PFD,2001-06-30,-2.58,5.01,8.7,live,Fixed Income - Taxable-Preferreds
+PFD,2001-12-31,2.71,9.93,11.29,live,Fixed Income - Taxable-Preferreds
+PFD,2002-06-30,8.7,15.066666666666666,4.83,live,Fixed Income - Taxable-Preferreds
+PFD,2002-12-31,11.29,14.488333333333333,14.71,live,Fixed Income - Taxable-Preferreds
+PFD,2003-06-30,4.83,4.34,14.79,live,Fixed Income - Taxable-Preferreds
+PFD,2003-12-31,14.71,12.16,14.85,live,Fixed Income - Taxable-Preferreds
+PFD,2004-06-30,14.79,8.18,4.56,live,Fixed Income - Taxable-Preferreds
+PFD,2004-12-31,14.85,5.344999999999999,4.62,live,Fixed Income - Taxable-Preferreds
+PFD,2005-06-30,4.56,-6.968333333333335,1.67,live,Fixed Income - Taxable-Preferreds
+PFD,2005-12-31,4.62,-6.218333333333333,8.35,live,Fixed Income - Taxable-Preferreds
+PFD,2006-06-30,1.67,-8.056666666666667,7.61,live,Fixed Income - Taxable-Preferreds
+PFD,2006-12-31,8.35,-0.8500000000000014,-3.1,live,Fixed Income - Taxable-Preferreds
+PFD,2007-06-30,7.61,-0.5300000000000002,-0.48,live,Fixed Income - Taxable-Preferreds
+PFD,2007-12-31,-3.1,-10.043333333333335,-9.39,live,Fixed Income - Taxable-Preferreds
+PFD,2008-06-30,-0.48,-4.431666666666667,5.22,live,Fixed Income - Taxable-Preferreds
+PFD,2008-12-31,-9.39,-12.501666666666667,5.23,live,Fixed Income - Taxable-Preferreds
+PFD,2009-06-30,5.22,4.443333333333333,8.08,live,Fixed Income - Taxable-Preferreds
+PFD,2009-12-31,5.23,3.8616666666666672,-1.69,live,Fixed Income - Taxable-Preferreds
+PFD,2010-06-30,8.08,7.231666666666667,8.56,live,Fixed Income - Taxable-Preferreds
+PFD,2010-12-31,-1.69,-2.6166666666666667,22.32,live,Fixed Income - Taxable-Preferreds
+PFD,2011-06-30,8.56,7.398333333333333,12.97,live,Fixed Income - Taxable-Preferreds
+PFD,2011-12-31,22.32,19.651666666666667,-0.45,live,Fixed Income - Taxable-Preferreds
+PFD,2012-06-30,12.97,5.0166666666666675,6.19,live,Fixed Income - Taxable-Preferreds
+PFD,2012-12-31,-0.45,-9.694999999999999,-1.57,live,Fixed Income - Taxable-Preferreds
+PFD,2013-06-30,6.19,-2.1083333333333334,5.55,live,Fixed Income - Taxable-Preferreds
+PFD,2013-12-31,-1.57,-9.553333333333333,5.5,live,Fixed Income - Taxable-Preferreds
+PFD,2014-06-30,5.55,-2.4533333333333323,1.55,live,Fixed Income - Taxable-Preferreds
+PFD,2014-12-31,5.5,-2.001666666666665,-1.97,live,Fixed Income - Taxable-Preferreds
+PFD,2015-06-30,1.55,-3.1483333333333334,14.23,live,Fixed Income - Taxable-Preferreds
+PFD,2015-12-31,-1.97,-4.765,9.28,live,Fixed Income - Taxable-Preferreds
+PFD,2016-06-30,14.23,11.688333333333334,8.93,live,Fixed Income - Taxable-Preferreds
+PFD,2016-12-31,9.28,5.398333333333333,4.54,live,Fixed Income - Taxable-Preferreds
+PFD,2017-06-30,8.93,3.2399999999999993,0.22,live,Fixed Income - Taxable-Preferreds
+PFD,2017-12-31,4.54,-1.7133333333333338,-6.97,live,Fixed Income - Taxable-Preferreds
+PFD,2018-06-30,0.22,-5.873333333333333,6.89,live,Fixed Income - Taxable-Preferreds
+PFD,2018-12-31,-6.97,-12.841666666666665,5.79,live,Fixed Income - Taxable-Preferreds
+PFD,2019-06-30,6.89,1.8516666666666666,10.51,live,Fixed Income - Taxable-Preferreds
+PFD,2019-12-31,5.79,1.975,42.32,live,Fixed Income - Taxable-Preferreds
+PFD,2020-06-30,10.51,7.276666666666667,10.95,live,Fixed Income - Taxable-Preferreds
+PFD,2020-12-31,42.32,38.82333333333334,17.69,live,Fixed Income - Taxable-Preferreds
+PFD,2021-06-30,10.95,1.1566666666666663,4.13,live,Fixed Income - Taxable-Preferreds
+PFD,2021-12-31,17.69,6.108333333333336,1.84,live,Fixed Income - Taxable-Preferreds
+PFD,2022-06-30,4.13,-11.561666666666664,-8.45,live,Fixed Income - Taxable-Preferreds
+PFD,2022-12-31,1.84,-13.391666666666667,-13.18,live,Fixed Income - Taxable-Preferreds
+PFD,2023-06-30,-8.45,-23.023333333333333,-12.04,live,Fixed Income - Taxable-Preferreds
+PFD,2023-12-31,-13.18,-24.593333333333334,-9.89,live,Fixed Income - Taxable-Preferreds
+PFD,2024-06-30,-12.04,-14.203333333333333,-8.51,live,Fixed Income - Taxable-Preferreds
+PFD,2024-12-31,-9.89,-8.221666666666668,-6.58,live,Fixed Income - Taxable-Preferreds
+PFD,2025-06-30,-8.51,-2.244999999999999,-7.32,live,Fixed Income - Taxable-Preferreds
+PFD,2025-12-31,-6.58,1.791666666666666,,live,Fixed Income - Taxable-Preferreds
+PFD,2026-06-30,-7.32,2.455,,live,Fixed Income - Taxable-Preferreds
+PFO,1998-06-30,-6.0,-0.3166666666666673,-5.52,live,Fixed Income - Taxable-Preferreds
+PFO,1998-12-31,-5.37,0.3924999999999992,-3.54,live,Fixed Income - Taxable-Preferreds
+PFO,1999-06-30,-5.52,0.1639999999999997,-9.0,live,Fixed Income - Taxable-Preferreds
+PFO,1999-12-31,-3.54,2.1166666666666663,-2.76,live,Fixed Income - Taxable-Preferreds
+PFO,2000-06-30,-9.0,-4.148333333333333,-3.79,live,Fixed Income - Taxable-Preferreds
+PFO,2000-12-31,-2.76,2.8983333333333343,2.89,live,Fixed Income - Taxable-Preferreds
+PFO,2001-06-30,-3.79,1.5749999999999993,9.33,live,Fixed Income - Taxable-Preferreds
+PFO,2001-12-31,2.89,7.886666666666667,15.58,live,Fixed Income - Taxable-Preferreds
+PFO,2002-06-30,9.33,12.95,1.44,live,Fixed Income - Taxable-Preferreds
+PFO,2002-12-31,15.58,16.725,10.84,live,Fixed Income - Taxable-Preferreds
+PFO,2003-06-30,1.44,-0.6016666666666666,5.03,live,Fixed Income - Taxable-Preferreds
+PFO,2003-12-31,10.84,7.058333333333334,7.31,live,Fixed Income - Taxable-Preferreds
+PFO,2004-06-30,5.03,-1.0183333333333326,0.24,live,Fixed Income - Taxable-Preferreds
+PFO,2004-12-31,7.31,-0.20833333333333393,-9.4,live,Fixed Income - Taxable-Preferreds
+PFO,2005-06-30,0.24,-8.015,-6.41,live,Fixed Income - Taxable-Preferreds
+PFO,2005-12-31,-9.4,-16.14,-0.24,live,Fixed Income - Taxable-Preferreds
+PFO,2006-06-30,-6.41,-8.986666666666666,0.25,live,Fixed Income - Taxable-Preferreds
+PFO,2006-12-31,-0.24,-1.5083333333333329,-0.31,live,Fixed Income - Taxable-Preferreds
+PFO,2007-06-30,0.25,0.8283333333333335,16.2,live,Fixed Income - Taxable-Preferreds
+PFO,2007-12-31,-0.31,1.0650000000000002,-14.46,live,Fixed Income - Taxable-Preferreds
+PFO,2008-06-30,16.2,18.845,3.41,live,Fixed Income - Taxable-Preferreds
+PFO,2008-12-31,-14.46,-14.475000000000001,4.73,live,Fixed Income - Taxable-Preferreds
+PFO,2009-06-30,3.41,4.238333333333334,8.62,live,Fixed Income - Taxable-Preferreds
+PFO,2009-12-31,4.73,3.9216666666666673,-1.76,live,Fixed Income - Taxable-Preferreds
+PFO,2010-06-30,8.62,6.9833333333333325,7.19,live,Fixed Income - Taxable-Preferreds
+PFO,2010-12-31,-1.76,-4.791666666666666,18.14,live,Fixed Income - Taxable-Preferreds
+PFO,2011-06-30,7.19,4.4,10.14,live,Fixed Income - Taxable-Preferreds
+PFO,2011-12-31,18.14,16.851666666666667,-1.54,live,Fixed Income - Taxable-Preferreds
+PFO,2012-06-30,10.14,3.418333333333334,0.09,live,Fixed Income - Taxable-Preferreds
+PFO,2012-12-31,-1.54,-9.383333333333333,-3.8,live,Fixed Income - Taxable-Preferreds
+PFO,2013-06-30,0.09,-6.708333333333333,1.22,live,Fixed Income - Taxable-Preferreds
+PFO,2013-12-31,-3.8,-9.176666666666668,-0.35,live,Fixed Income - Taxable-Preferreds
+PFO,2014-06-30,1.22,-3.8166666666666673,-4.96,live,Fixed Income - Taxable-Preferreds
+PFO,2014-12-31,-0.35,-4.391666666666667,-5.01,live,Fixed Income - Taxable-Preferreds
+PFO,2015-06-30,-4.96,-5.92,7.06,live,Fixed Income - Taxable-Preferreds
+PFO,2015-12-31,-5.01,-3.453333333333333,0.72,live,Fixed Income - Taxable-Preferreds
+PFO,2016-06-30,7.06,9.195,4.29,live,Fixed Income - Taxable-Preferreds
+PFO,2016-12-31,0.72,1.6933333333333334,-1.01,live,Fixed Income - Taxable-Preferreds
+PFO,2017-06-30,4.29,4.51,-4.27,live,Fixed Income - Taxable-Preferreds
+PFO,2017-12-31,-1.01,-1.3016666666666665,-0.49,live,Fixed Income - Taxable-Preferreds
+PFO,2018-06-30,-4.27,-4.451666666666666,2.46,live,Fixed Income - Taxable-Preferreds
+PFO,2018-12-31,-0.49,-0.7866666666666666,1.58,live,Fixed Income - Taxable-Preferreds
+PFO,2019-06-30,2.46,1.41,-0.37,live,Fixed Income - Taxable-Preferreds
+PFO,2019-12-31,1.58,1.2966666666666666,8.93,live,Fixed Income - Taxable-Preferreds
+PFO,2020-06-30,-0.37,-0.7966666666666667,7.75,live,Fixed Income - Taxable-Preferreds
+PFO,2020-12-31,8.93,9.28,4.42,live,Fixed Income - Taxable-Preferreds
+PFO,2021-06-30,7.75,6.443333333333333,-4.52,live,Fixed Income - Taxable-Preferreds
+PFO,2021-12-31,4.42,1.1099999999999999,-4.18,live,Fixed Income - Taxable-Preferreds
+PFO,2022-06-30,-4.52,-8.648333333333333,-8.77,live,Fixed Income - Taxable-Preferreds
+PFO,2022-12-31,-4.18,-7.145,-14.32,live,Fixed Income - Taxable-Preferreds
+PFO,2023-06-30,-8.77,-10.775,-12.68,live,Fixed Income - Taxable-Preferreds
+PFO,2023-12-31,-14.32,-14.925,-9.97,live,Fixed Income - Taxable-Preferreds
+PFO,2024-06-30,-12.68,-9.41,-8.25,live,Fixed Income - Taxable-Preferreds
+PFO,2024-12-31,-9.97,-3.295000000000001,-8.82,live,Fixed Income - Taxable-Preferreds
+PFO,2025-06-30,-8.25,0.8233333333333324,-9.57,live,Fixed Income - Taxable-Preferreds
+PFO,2025-12-31,-8.82,0.875,,live,Fixed Income - Taxable-Preferreds
+PFO,2026-06-30,-9.57,0.8983333333333317,,live,Fixed Income - Taxable-Preferreds
+PGZ,2014-12-31,-9.54,-4.599999999999999,-15.65,live,Equity-Real Estate
+PGZ,2015-06-30,-7.67,-1.58,-5.93,live,Equity-Real Estate
+PGZ,2015-12-31,-15.65,-9.244,-14.33,live,Equity-Real Estate
+PGZ,2016-06-30,-5.93,2.0166666666666666,-6.99,live,Equity-Real Estate
+PGZ,2016-12-31,-14.33,-4.536666666666667,-12.87,live,Equity-Real Estate
+PGZ,2017-06-30,-6.99,3.4899999999999984,-10.71,live,Equity-Real Estate
+PGZ,2017-12-31,-12.87,-2.8516666666666666,-18.19,live,Equity-Real Estate
+PGZ,2018-06-30,-10.71,-0.1366666666666685,-11.85,live,Equity-Real Estate
+PGZ,2018-12-31,-18.19,-7.110000000000003,-7.98,live,Equity-Real Estate
+PGZ,2019-06-30,-11.85,-0.34666666666666757,-18.79,live,Equity-Real Estate
+PGZ,2019-12-31,-7.98,4.51,-20.07,live,Equity-Real Estate
+PGZ,2020-06-30,-18.79,-7.3583333333333325,-13.26,live,Equity-Real Estate
+PGZ,2020-12-31,-20.07,-6.671666666666669,-12.28,live,Equity-Real Estate
+PGZ,2021-06-30,-13.26,1.3383333333333347,-14.12,live,Equity-Real Estate
+PGZ,2021-12-31,-12.28,2.743333333333334,-16.61,live,Equity-Real Estate
+PGZ,2022-06-30,-14.12,-0.08166666666666522,-14.08,live,Equity-Real Estate
+PGZ,2022-12-31,-16.61,-2.1933333333333334,-12.9,live,Equity-Real Estate
+PGZ,2023-06-30,-14.08,1.7749999999999986,-12.37,live,Equity-Real Estate
+PGZ,2023-12-31,-12.9,2.17,-13.66,live,Equity-Real Estate
+PGZ,2024-06-30,-12.37,1.5050000000000008,-9.11,live,Equity-Real Estate
+PGZ,2024-12-31,-13.66,0.06666666666666643,-12.2,live,Equity-Real Estate
+PGZ,2025-06-30,-9.11,4.846666666666666,-9.58,live,Equity-Real Estate
+PGZ,2025-12-31,-12.2,0.9216666666666651,,live,Equity-Real Estate
+PGZ,2026-06-30,-9.58,2.8066666666666684,,live,Equity-Real Estate
+PSF,2012-06-30,0.44,0.7166666666666668,-3.35,live,Fixed Income - Taxable-Preferreds
+PSF,2012-12-31,-1.51,-1.4124999999999999,-7.07,live,Fixed Income - Taxable-Preferreds
+PSF,2013-06-30,-3.35,-2.9699999999999998,-6.34,live,Fixed Income - Taxable-Preferreds
+PSF,2013-12-31,-7.07,-6.195,-4.02,live,Fixed Income - Taxable-Preferreds
+PSF,2014-06-30,-6.34,-3.5216666666666665,-11.26,live,Fixed Income - Taxable-Preferreds
+PSF,2014-12-31,-4.02,-0.36999999999999966,-9.25,live,Fixed Income - Taxable-Preferreds
+PSF,2015-06-30,-11.26,-7.618333333333334,0.99,live,Fixed Income - Taxable-Preferreds
+PSF,2015-12-31,-9.25,-3.658333333333334,0.77,live,Fixed Income - Taxable-Preferreds
+PSF,2016-06-30,0.99,7.871666666666667,1.9,live,Fixed Income - Taxable-Preferreds
+PSF,2016-12-31,0.77,6.928333333333333,1.62,live,Fixed Income - Taxable-Preferreds
+PSF,2017-06-30,1.9,6.751666666666667,3.31,live,Fixed Income - Taxable-Preferreds
+PSF,2017-12-31,1.62,5.0983333333333345,-1.22,live,Fixed Income - Taxable-Preferreds
+PSF,2018-06-30,3.31,5.848333333333334,7.81,live,Fixed Income - Taxable-Preferreds
+PSF,2018-12-31,-1.22,-1.11,14.05,live,Fixed Income - Taxable-Preferreds
+PSF,2019-06-30,7.81,6.581666666666666,1.34,live,Fixed Income - Taxable-Preferreds
+PSF,2019-12-31,14.05,11.685,4.0,live,Fixed Income - Taxable-Preferreds
+PSF,2020-06-30,1.34,-3.2383333333333333,11.93,live,Fixed Income - Taxable-Preferreds
+PSF,2020-12-31,4.0,-0.4850000000000003,3.12,live,Fixed Income - Taxable-Preferreds
+PSF,2021-06-30,11.93,7.048333333333333,-5.04,live,Fixed Income - Taxable-Preferreds
+PSF,2021-12-31,3.12,-3.1983333333333324,-8.35,live,Fixed Income - Taxable-Preferreds
+PSF,2022-06-30,-5.04,-12.081666666666665,-5.47,live,Fixed Income - Taxable-Preferreds
+PSF,2022-12-31,-8.35,-13.25,-7.13,live,Fixed Income - Taxable-Preferreds
+PSF,2023-06-30,-5.47,-6.636666666666667,-7.63,live,Fixed Income - Taxable-Preferreds
+PSF,2023-12-31,-7.13,-7.161666666666667,-8.57,live,Fixed Income - Taxable-Preferreds
+PSF,2024-06-30,-7.63,-5.806666666666667,-7.02,live,Fixed Income - Taxable-Preferreds
+PSF,2024-12-31,-8.57,-3.4866666666666672,-8.13,live,Fixed Income - Taxable-Preferreds
+PSF,2025-06-30,-7.02,0.011666666666666714,-9.16,live,Fixed Income - Taxable-Preferreds
+PSF,2025-12-31,-8.13,-0.7683333333333335,,live,Fixed Income - Taxable-Preferreds
+PSF,2026-06-30,-9.16,-1.835,,live,Fixed Income - Taxable-Preferreds
+PTA,2022-06-30,-11.59,-8.576666666666666,-8.98,live,Fixed Income - Taxable-Preferreds
+PTA,2022-12-31,-11.4,-6.242500000000001,-9.68,live,Fixed Income - Taxable-Preferreds
+PTA,2023-06-30,-8.98,-2.574,-6.24,live,Fixed Income - Taxable-Preferreds
+PTA,2023-12-31,-9.68,-2.844999999999999,-7.94,live,Fixed Income - Taxable-Preferreds
+PTA,2024-06-30,-6.24,2.2799999999999994,-4.64,live,Fixed Income - Taxable-Preferreds
+PTA,2024-12-31,-7.94,1.044999999999999,-8.04,live,Fixed Income - Taxable-Preferreds
+PTA,2025-06-30,-4.64,4.665000000000002,-7.44,live,Fixed Income - Taxable-Preferreds
+PTA,2025-12-31,-8.04,0.10666666666666735,,live,Fixed Income - Taxable-Preferreds
+PTA,2026-06-30,-7.44,0.1466666666666656,,live,Fixed Income - Taxable-Preferreds
+RFI,1998-06-30,-5.47,-3.2899999999999996,5.26,live,Equity-Real Estate
+RFI,1998-12-31,1.34,4.3425,-0.05,live,Equity-Real Estate
+RFI,1999-06-30,5.26,7.394,0.56,live,Equity-Real Estate
+RFI,1999-12-31,-0.05,0.8516666666666667,-3.77,live,Equity-Real Estate
+RFI,2000-06-30,0.56,1.37,2.42,live,Equity-Real Estate
+RFI,2000-12-31,-3.77,-3.6033333333333335,0.45,live,Equity-Real Estate
+RFI,2001-06-30,2.42,2.775,0.95,live,Equity-Real Estate
+RFI,2001-12-31,0.45,-0.51,4.78,live,Equity-Real Estate
+RFI,2002-06-30,0.95,0.1383333333333333,0.57,live,Equity-Real Estate
+RFI,2002-12-31,4.78,4.6866666666666665,2.25,live,Equity-Real Estate
+RFI,2003-06-30,0.57,-0.3283333333333335,-3.2,live,Equity-Real Estate
+RFI,2003-12-31,2.25,1.35,2.03,live,Equity-Real Estate
+RFI,2004-06-30,-3.2,-5.1033333333333335,-0.25,live,Equity-Real Estate
+RFI,2004-12-31,2.03,1.063333333333333,2.89,live,Equity-Real Estate
+RFI,2005-06-30,-0.25,-1.4800000000000002,-9.06,live,Equity-Real Estate
+RFI,2005-12-31,2.89,1.86,2.94,live,Equity-Real Estate
+RFI,2006-06-30,-9.06,-9.775,-3.43,live,Equity-Real Estate
+RFI,2006-12-31,2.94,3.83,-5.22,live,Equity-Real Estate
+RFI,2007-06-30,-3.43,-2.6550000000000002,11.71,live,Equity-Real Estate
+RFI,2007-12-31,-5.22,-4.406666666666666,-12.16,live,Equity-Real Estate
+RFI,2008-06-30,11.71,13.731666666666667,-7.37,live,Equity-Real Estate
+RFI,2008-12-31,-12.16,-12.131666666666668,-12.52,live,Equity-Real Estate
+RFI,2009-06-30,-7.37,-4.833333333333334,-11.21,live,Equity-Real Estate
+RFI,2009-12-31,-12.52,-10.265,19.42,live,Equity-Real Estate
+RFI,2010-06-30,-11.21,-6.378333333333335,3.09,live,Equity-Real Estate
+RFI,2010-12-31,19.42,25.548333333333336,-3.17,live,Equity-Real Estate
+RFI,2011-06-30,3.09,5.111666666666666,-1.78,live,Equity-Real Estate
+RFI,2011-12-31,-3.17,0.28833333333333266,12.19,live,Equity-Real Estate
+RFI,2012-06-30,-1.78,0.17999999999999994,1.81,live,Equity-Real Estate
+RFI,2012-12-31,12.19,13.218333333333332,-2.86,live,Equity-Real Estate
+RFI,2013-06-30,1.81,-1.2799999999999998,-8.68,live,Equity-Real Estate
+RFI,2013-12-31,-2.86,-8.12,-7.47,live,Equity-Real Estate
+RFI,2014-06-30,-8.68,-10.226666666666667,-9.05,live,Equity-Real Estate
+RFI,2014-12-31,-7.47,-7.055,-9.02,live,Equity-Real Estate
+RFI,2015-06-30,-9.05,-7.918333333333335,-4.03,live,Equity-Real Estate
+RFI,2015-12-31,-9.02,-6.676666666666666,-9.36,live,Equity-Real Estate
+RFI,2016-06-30,-4.03,1.8483333333333327,-6.81,live,Equity-Real Estate
+RFI,2016-12-31,-9.36,-2.508333333333333,-4.77,live,Equity-Real Estate
+RFI,2017-06-30,-6.81,1.125,-2.94,live,Equity-Real Estate
+RFI,2017-12-31,-4.77,2.8533333333333344,-9.21,live,Equity-Real Estate
+RFI,2018-06-30,-2.94,4.233333333333334,3.76,live,Equity-Real Estate
+RFI,2018-12-31,-9.21,-3.0550000000000024,1.84,live,Equity-Real Estate
+RFI,2019-06-30,3.76,9.946666666666667,0.25,live,Equity-Real Estate
+RFI,2019-12-31,1.84,6.728333333333334,3.41,live,Equity-Real Estate
+RFI,2020-06-30,0.25,3.2716666666666665,5.62,live,Equity-Real Estate
+RFI,2020-12-31,3.41,5.255000000000001,5.08,live,Equity-Real Estate
+RFI,2021-06-30,5.62,6.101666666666667,-0.3,live,Equity-Real Estate
+RFI,2021-12-31,5.08,4.135,6.31,live,Equity-Real Estate
+RFI,2022-06-30,-0.3,-3.6266666666666665,-2.56,live,Equity-Real Estate
+RFI,2022-12-31,6.31,3.6599999999999993,-1.76,live,Equity-Real Estate
+RFI,2023-06-30,-2.56,-5.955,-1.67,live,Equity-Real Estate
+RFI,2023-12-31,-1.76,-4.686666666666667,0.6,live,Equity-Real Estate
+RFI,2024-06-30,-1.67,-3.7349999999999994,3.81,live,Equity-Real Estate
+RFI,2024-12-31,0.6,-0.25,-1.08,live,Equity-Real Estate
+RFI,2025-06-30,3.81,3.7066666666666666,-5.71,live,Equity-Real Estate
+RFI,2025-12-31,-1.08,-1.8683333333333332,,live,Equity-Real Estate
+RFI,2026-06-30,-5.71,-5.266666666666667,,live,Equity-Real Estate
+RLTY,2023-12-31,-13.0,-0.6300000000000008,-6.6,live,Equity-Real Estate
+RLTY,2024-06-30,-7.98,4.547499999999999,-4.95,live,Equity-Real Estate
+RLTY,2024-12-31,-6.6,5.018000000000001,-7.49,live,Equity-Real Estate
+RLTY,2025-06-30,-4.95,5.831666666666666,-9.69,live,Equity-Real Estate
+RLTY,2025-12-31,-7.49,2.008333333333333,,live,Equity-Real Estate
+RLTY,2026-06-30,-9.69,-0.716666666666665,,live,Equity-Real Estate
+RNP,2004-12-31,-9.76,-6.253333333333334,-8.5,live,Equity-Real Estate
+RNP,2005-06-30,-11.61,-6.539999999999999,-8.04,live,Equity-Real Estate
+RNP,2005-12-31,-8.5,-2.122,-3.19,live,Equity-Real Estate
+RNP,2006-06-30,-8.04,-1.3083333333333327,-8.0,live,Equity-Real Estate
+RNP,2006-12-31,-3.19,5.753333333333334,-12.55,live,Equity-Real Estate
+RNP,2007-06-30,-8.0,0.9049999999999994,0.21,live,Equity-Real Estate
+RNP,2007-12-31,-12.55,-4.366666666666669,-30.26,live,Equity-Real Estate
+RNP,2008-06-30,0.21,8.858333333333334,-12.56,live,Equity-Real Estate
+RNP,2008-12-31,-30.26,-23.581666666666667,-19.21,live,Equity-Real Estate
+RNP,2009-06-30,-12.56,-2.255000000000001,-19.8,live,Equity-Real Estate
+RNP,2009-12-31,-19.21,-8.151666666666666,-8.57,live,Equity-Real Estate
+RNP,2010-06-30,-19.8,-6.071666666666667,-4.17,live,Equity-Real Estate
+RNP,2010-12-31,-8.57,7.125,-7.76,live,Equity-Real Estate
+RNP,2011-06-30,-4.17,10.861666666666666,-5.89,live,Equity-Real Estate
+RNP,2011-12-31,-7.76,8.001666666666669,-8.34,live,Equity-Real Estate
+RNP,2012-06-30,-5.89,6.121666666666669,-7.45,live,Equity-Real Estate
+RNP,2012-12-31,-8.34,2.5600000000000005,-13.08,live,Equity-Real Estate
+RNP,2013-06-30,-7.45,1.6383333333333328,-12.82,live,Equity-Real Estate
+RNP,2013-12-31,-13.08,-6.049999999999999,-12.41,live,Equity-Real Estate
+RNP,2014-06-30,-12.82,-5.038333333333334,-15.89,live,Equity-Real Estate
+RNP,2014-12-31,-12.41,-3.1866666666666674,-16.4,live,Equity-Real Estate
+RNP,2015-06-30,-15.89,-5.8916666666666675,-11.67,live,Equity-Real Estate
+RNP,2015-12-31,-16.4,-4.734999999999999,-12.11,live,Equity-Real Estate
+RNP,2016-06-30,-11.67,1.3383333333333347,-8.66,live,Equity-Real Estate
+RNP,2016-12-31,-12.11,1.6016666666666666,-6.71,live,Equity-Real Estate
+RNP,2017-06-30,-8.66,4.889999999999999,-10.67,live,Equity-Real Estate
+RNP,2017-12-31,-6.71,6.146666666666667,-12.72,live,Equity-Real Estate
+RNP,2018-06-30,-10.67,1.2366666666666664,-7.01,live,Equity-Real Estate
+RNP,2018-12-31,-12.72,-1.6833333333333336,-4.6,live,Equity-Real Estate
+RNP,2019-06-30,-7.01,3.413333333333334,-10.34,live,Equity-Real Estate
+RNP,2019-12-31,-4.6,5.046666666666667,-6.13,live,Equity-Real Estate
+RNP,2020-06-30,-10.34,-1.9450000000000003,-0.48,live,Equity-Real Estate
+RNP,2020-12-31,-6.13,2.544999999999999,-2.12,live,Equity-Real Estate
+RNP,2021-06-30,-0.48,8.098333333333334,-9.04,live,Equity-Real Estate
+RNP,2021-12-31,-2.12,4.76,0.15,live,Equity-Real Estate
+RNP,2022-06-30,-9.04,-3.926666666666666,-4.95,live,Equity-Real Estate
+RNP,2022-12-31,0.15,5.6016666666666675,-2.94,live,Equity-Real Estate
+RNP,2023-06-30,-4.95,-0.29000000000000004,-1.47,live,Equity-Real Estate
+RNP,2023-12-31,-2.94,0.8216666666666668,0.14,live,Equity-Real Estate
+RNP,2024-06-30,-1.47,1.76,7.45,live,Equity-Real Estate
+RNP,2024-12-31,0.14,3.535,-4.26,live,Equity-Real Estate
+RNP,2025-06-30,7.45,10.468333333333334,-8.68,live,Equity-Real Estate
+RNP,2025-12-31,-4.26,-3.9899999999999998,,live,Equity-Real Estate
+RNP,2026-06-30,-8.68,-7.675,,live,Equity-Real Estate
+RQI,2003-12-31,-4.31,-3.7399999999999998,-8.36,live,Equity-Real Estate
+RQI,2004-06-30,-11.76,-10.254999999999999,-10.67,live,Equity-Real Estate
+RQI,2004-12-31,-8.36,-4.803999999999999,-10.01,live,Equity-Real Estate
+RQI,2005-06-30,-10.67,-6.3133333333333335,-10.39,live,Equity-Real Estate
+RQI,2005-12-31,-10.01,-4.113333333333332,-3.4,live,Equity-Real Estate
+RQI,2006-06-30,-10.39,-2.915000000000002,-8.19,live,Equity-Real Estate
+RQI,2006-12-31,-3.4,5.85,-4.79,live,Equity-Real Estate
+RQI,2007-06-30,-8.19,0.9083333333333332,13.99,live,Equity-Real Estate
+RQI,2007-12-31,-4.79,3.713333333333332,-30.43,live,Equity-Real Estate
+RQI,2008-06-30,13.99,21.898333333333333,-6.64,live,Equity-Real Estate
+RQI,2008-12-31,-30.43,-26.631666666666668,-19.63,live,Equity-Real Estate
+RQI,2009-06-30,-6.64,0.5616666666666674,-18.48,live,Equity-Real Estate
+RQI,2009-12-31,-19.63,-13.053333333333331,-9.52,live,Equity-Real Estate
+RQI,2010-06-30,-18.48,-9.198333333333334,-7.63,live,Equity-Real Estate
+RQI,2010-12-31,-9.52,1.4766666666666683,-10.56,live,Equity-Real Estate
+RQI,2011-06-30,-7.63,4.1549999999999985,-3.51,live,Equity-Real Estate
+RQI,2011-12-31,-10.56,4.828333333333333,-6.87,live,Equity-Real Estate
+RQI,2012-06-30,-3.51,8.566666666666666,-0.44,live,Equity-Real Estate
+RQI,2012-12-31,-6.87,4.685,-10.8,live,Equity-Real Estate
+RQI,2013-06-30,-0.44,8.988333333333333,-10.26,live,Equity-Real Estate
+RQI,2013-12-31,-10.8,-4.378333333333335,-11.82,live,Equity-Real Estate
+RQI,2014-06-30,-10.26,-3.624999999999999,-14.43,live,Equity-Real Estate
+RQI,2014-12-31,-11.82,-4.746666666666666,-12.83,live,Equity-Real Estate
+RQI,2015-06-30,-14.43,-7.146666666666667,-7.58,live,Equity-Real Estate
+RQI,2015-12-31,-12.83,-3.7266666666666666,-9.02,live,Equity-Real Estate
+RQI,2016-06-30,-7.58,2.5166666666666657,-7.56,live,Equity-Real Estate
+RQI,2016-12-31,-9.02,2.2666666666666675,-6.92,live,Equity-Real Estate
+RQI,2017-06-30,-7.56,3.4300000000000006,-7.68,live,Equity-Real Estate
+RQI,2017-12-31,-6.92,3.619999999999999,-12.43,live,Equity-Real Estate
+RQI,2018-06-30,-7.68,2.043333333333335,-2.49,live,Equity-Real Estate
+RQI,2018-12-31,-12.43,-3.831666666666665,1.09,live,Equity-Real Estate
+RQI,2019-06-30,-2.49,6.041666666666666,-9.92,live,Equity-Real Estate
+RQI,2019-12-31,1.09,8.773333333333333,-7.51,live,Equity-Real Estate
+RQI,2020-06-30,-9.92,-3.921666666666666,-2.55,live,Equity-Real Estate
+RQI,2020-12-31,-7.51,-1.1183333333333332,-0.27,live,Equity-Real Estate
+RQI,2021-06-30,-2.55,3.9399999999999995,-6.95,live,Equity-Real Estate
+RQI,2021-12-31,-0.27,5.364999999999998,-5.99,live,Equity-Real Estate
+RQI,2022-06-30,-6.95,-3.3416666666666672,-8.08,live,Equity-Real Estate
+RQI,2022-12-31,-5.99,-1.6383333333333336,-6.21,live,Equity-Real Estate
+RQI,2023-06-30,-8.08,-2.548333333333334,-7.7,live,Equity-Real Estate
+RQI,2023-12-31,-6.21,-0.9850000000000012,-4.15,live,Equity-Real Estate
+RQI,2024-06-30,-7.7,-2.6916666666666664,-3.59,live,Equity-Real Estate
+RQI,2024-12-31,-4.15,1.7166666666666668,-4.9,live,Equity-Real Estate
+RQI,2025-06-30,-3.59,2.9233333333333347,-9.78,live,Equity-Real Estate
+RQI,2025-12-31,-4.9,1.0533333333333328,,live,Equity-Real Estate
+RQI,2026-06-30,-9.78,-4.008333333333332,,live,Equity-Real Estate
+SRV,2017-06-30,-10.24,3.59,-8.87,live,Equity-MLP
+SRV,2017-12-31,-6.65,6.282500000000001,-13.23,live,Equity-MLP
+SRV,2018-06-30,-8.87,2.806000000000001,-12.51,live,Equity-MLP
+SRV,2018-12-31,-13.23,-2.0216666666666665,-10.0,live,Equity-MLP
+SRV,2019-06-30,-12.51,-1.3550000000000004,-24.63,live,Equity-MLP
+SRV,2019-12-31,-10.0,0.9866666666666664,-24.54,live,Equity-MLP
+SRV,2020-06-30,-24.63,-14.38,-25.06,live,Equity-MLP
+SRV,2020-12-31,-24.54,-11.891666666666666,-17.46,live,Equity-MLP
+SRV,2021-06-30,-25.06,-9.429999999999998,-22.28,live,Equity-MLP
+SRV,2021-12-31,-17.46,0.8683333333333323,-13.42,live,Equity-MLP
+SRV,2022-06-30,-22.28,-3.246666666666666,0.35,live,Equity-MLP
+SRV,2022-12-31,-13.42,7.241666666666665,-7.05,live,Equity-MLP
+SRV,2023-06-30,0.35,21.581666666666667,2.52,live,Equity-MLP
+SRV,2023-12-31,-7.05,10.018333333333334,2.3,live,Equity-MLP
+SRV,2024-06-30,2.52,16.673333333333336,-1.37,live,Equity-MLP
+SRV,2024-12-31,2.3,11.856666666666666,-1.02,live,Equity-MLP
+SRV,2025-06-30,-1.37,4.893333333333333,-1.64,live,Equity-MLP
+SRV,2025-12-31,-1.02,1.7583333333333337,,live,Equity-MLP
+SRV,2026-06-30,-1.64,-0.9283333333333333,,live,Equity-MLP
+TYG,2005-12-31,1.43,-1.9633333333333332,6.65,live,Equity-MLP
+TYG,2006-06-30,1.23,-1.6724999999999999,6.65,live,Equity-MLP
+TYG,2006-12-31,6.65,4.082000000000001,-1.3,live,Equity-MLP
+TYG,2007-06-30,6.65,3.401666666666667,,live,Equity-MLP
+TYG,2007-12-31,-1.3,-5.65,0.44,live,Equity-MLP
+TYG,2008-12-31,0.44,-2.492,15.04,live,Equity-MLP
+TYG,2009-06-30,20.77,18.036,7.69,live,Equity-MLP
+TYG,2009-12-31,15.04,8.398,13.23,live,Equity-MLP
+TYG,2010-06-30,7.69,-0.6299999999999999,14.17,live,Equity-MLP
+TYG,2010-12-31,13.23,4.702,12.36,live,Equity-MLP
+TYG,2011-06-30,14.17,2.735999999999999,18.43,live,Equity-MLP
+TYG,2011-12-31,12.36,0.46999999999999886,8.82,live,Equity-MLP
+TYG,2012-06-30,18.43,4.553333333333333,8.11,live,Equity-MLP
+TYG,2012-12-31,8.82,-4.666666666666666,9.18,live,Equity-MLP
+TYG,2013-06-30,8.11,-4.339999999999998,-5.56,live,Equity-MLP
+TYG,2013-12-31,9.18,-3.339999999999998,-6.66,live,Equity-MLP
+TYG,2014-06-30,-5.56,-17.404999999999998,-11.24,live,Equity-MLP
+TYG,2014-12-31,-6.66,-15.216666666666667,-3.36,live,Equity-MLP
+TYG,2015-06-30,-11.24,-16.626666666666665,2.61,live,Equity-MLP
+TYG,2015-12-31,-3.36,-3.8016666666666667,1.25,live,Equity-MLP
+TYG,2016-06-30,2.61,4.198333333333333,7.92,live,Equity-MLP
+TYG,2016-12-31,1.25,3.7550000000000003,4.27,live,Equity-MLP
+TYG,2017-06-30,7.92,11.746666666666666,3.65,live,Equity-MLP
+TYG,2017-12-31,4.27,5.85,-4.07,live,Equity-MLP
+TYG,2018-06-30,3.65,3.408333333333333,-3.43,live,Equity-MLP
+TYG,2018-12-31,-4.07,-6.793333333333333,-5.81,live,Equity-MLP
+TYG,2019-06-30,-3.43,-6.034999999999999,-27.75,live,Equity-MLP
+TYG,2019-12-31,-5.81,-7.408333333333333,-22.58,live,Equity-MLP
+TYG,2020-06-30,-27.75,-28.171666666666667,-20.7,live,Equity-MLP
+TYG,2020-12-31,-22.58,-17.056666666666665,-21.64,live,Equity-MLP
+TYG,2021-06-30,-20.7,-10.701666666666666,-19.12,live,Equity-MLP
+TYG,2021-12-31,-21.64,-7.583333333333334,-18.88,live,Equity-MLP
+TYG,2022-06-30,-19.12,-2.1350000000000016,-18.81,live,Equity-MLP
+TYG,2022-12-31,-18.88,0.7200000000000024,-19.28,live,Equity-MLP
+TYG,2023-06-30,-18.81,2.9683333333333373,-16.93,live,Equity-MLP
+TYG,2023-12-31,-19.28,1.0083333333333329,-10.05,live,Equity-MLP
+TYG,2024-06-30,-16.93,2.8083333333333336,-7.33,live,Equity-MLP
+TYG,2024-12-31,-10.05,9.059999999999999,-6.75,live,Equity-MLP
+TYG,2025-06-30,-7.33,9.848333333333334,-10.29,live,Equity-MLP
+TYG,2025-12-31,-6.75,8.463333333333333,,live,Equity-MLP
+TYG,2026-06-30,-10.29,2.901666666666669,,live,Equity-MLP
+UTF,2005-12-31,-15.82,-3.200000000000001,-13.95,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2006-06-30,-16.04,-2.619999999999999,-12.76,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2006-12-31,-13.95,-0.006000000000000227,-7.33,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2007-06-30,-12.76,1.1850000000000005,-8.19,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2007-12-31,-7.33,6.538333333333334,-18.87,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2008-06-30,-8.19,4.993333333333336,-12.15,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2008-12-31,-18.87,-6.5216666666666665,-6.69,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2009-06-30,-12.15,0.706666666666667,-17.89,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2009-12-31,-6.69,5.5183333333333335,-11.39,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2010-06-30,-17.89,-6.891666666666666,-10.57,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2010-12-31,-11.39,0.46333333333333293,-11.53,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2011-06-30,-10.57,1.9600000000000009,-8.12,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2011-12-31,-11.53,1.3966666666666683,-10.49,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2012-06-30,-8.12,3.583333333333334,-10.77,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2012-12-31,-10.49,0.5416666666666661,-12.38,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2013-06-30,-10.77,0.8949999999999996,-11.57,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2013-12-31,-12.38,-1.9016666666666673,-11.11,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2014-06-30,-11.57,-0.9266666666666659,-15.1,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2014-12-31,-11.11,-0.29999999999999893,-16.48,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2015-06-30,-15.1,-4.359999999999999,-11.69,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2015-12-31,-16.48,-4.576666666666666,-12.0,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2016-06-30,-11.69,1.211666666666666,-5.29,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2016-12-31,-12.0,1.0549999999999997,-5.99,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2017-06-30,-5.29,7.701666666666667,-5.46,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2017-12-31,-5.99,5.955,-10.48,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2018-06-30,-5.46,5.631666666666667,-2.3,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2018-12-31,-10.48,-0.9949999999999992,-6.51,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2019-06-30,-2.3,6.185,-0.23,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2019-12-31,-6.51,0.40999999999999925,5.66,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2020-06-30,-0.23,5.7749999999999995,3.65,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2020-12-31,5.66,10.821666666666667,0.78,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2021-06-30,3.65,6.87,-4.33,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2021-12-31,0.78,2.4816666666666665,-2.9,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2022-06-30,-4.33,-4.505,1.2,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2022-12-31,-2.9,-2.7366666666666664,-7.17,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2023-06-30,1.2,0.7616666666666667,-0.31,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2023-12-31,-7.17,-7.846666666666667,-0.34,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2024-06-30,-0.31,1.1516666666666666,5.38,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2024-12-31,-0.34,1.7816666666666665,-5.84,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2025-06-30,5.38,7.688333333333333,-2.7,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2025-12-31,-5.84,-5.15,,live,Equity-Sector Equity (infrastructure/utilities)
+UTF,2026-06-30,-2.7,-1.5200000000000002,,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2005-12-31,-12.64,-5.263333333333333,-10.7,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2006-06-30,-14.54,-5.847499999999998,-13.95,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2006-12-31,-10.7,-0.8379999999999992,-13.2,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2007-06-30,-13.95,-3.9483333333333324,-12.02,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2007-12-31,-13.2,-2.1516666666666655,-17.13,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2008-06-30,-12.02,0.023333333333335204,-5.37,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2008-12-31,-17.13,-4.288333333333332,-2.61,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2009-06-30,-5.37,8.219999999999999,7.5,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2009-12-31,-2.61,9.451666666666666,-0.58,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2010-06-30,7.5,18.21333333333333,2.86,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2010-12-31,-0.58,6.558333333333332,7.3,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2011-06-30,2.86,7.895,5.76,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2011-12-31,7.3,9.855,0.46,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2012-06-30,5.76,4.243333333333333,-3.9,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2012-12-31,0.46,-2.911666666666666,-8.64,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2013-06-30,-3.9,-7.783333333333333,-5.92,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2013-12-31,-8.64,-10.623333333333335,-2.89,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2014-06-30,-5.92,-6.56,-3.96,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2014-12-31,-2.89,-2.0666666666666664,-8.41,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2015-06-30,-3.96,-1.438333333333333,-5.61,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2015-12-31,-8.41,-4.2683333333333335,-4.45,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2016-06-30,-5.61,0.009999999999999787,1.03,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2016-12-31,-4.45,1.455,-7.45,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2017-06-30,1.03,6.236666666666666,-8.11,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2017-12-31,-7.45,-3.4016666666666673,0.45,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2018-06-30,-8.11,-3.3016666666666667,1.97,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2018-12-31,0.45,5.95,0.84,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2019-06-30,1.97,5.993333333333333,3.73,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2019-12-31,0.84,3.6,0.43,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2020-06-30,3.73,5.608333333333333,1.66,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2020-12-31,0.43,1.858333333333333,0.95,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2021-06-30,1.66,1.775,-1.01,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2021-12-31,0.95,-0.5633333333333335,-1.57,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2022-06-30,-1.01,-2.6066666666666665,0.15,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2022-12-31,-1.57,-2.67,0.19,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2023-06-30,0.15,-0.5483333333333333,1.36,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2023-12-31,0.19,0.0883333333333333,-0.44,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2024-06-30,1.36,1.2983333333333336,-0.14,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2024-12-31,-0.44,-0.45166666666666666,0.33,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2025-06-30,-0.14,0.07999999999999999,-4.92,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2025-12-31,0.33,0.405,,live,Equity-Sector Equity (infrastructure/utilities)
+UTG,2026-06-30,-4.92,-5.161666666666667,,live,Equity-Sector Equity (infrastructure/utilities)
+CBA,2016-11-30,-11.9238476953908,-8.097491946942585,-9.866017052375152,"dead, while listed",Equity-MLP
+CBA,2017-11-30,-9.866017052375152,-2.5483966406942713,,"dead, while listed",Equity-MLP
+CBA,2018-05-31,-5.616605616605607,2.968410550122311,,"dead, while listed",Equity-MLP
+CEM,2013-11-30,2.703717611716128,0.42159361353534663,-5.968622100954979,"dead, while listed",Equity-MLP
+CEM,2014-11-30,-5.968622100954979,-8.787426735914806,4.496300512236773,"dead, while listed",Equity-MLP
+CEM,2015-11-30,4.496300512236773,5.162661080379679,-6.650396583282491,"dead, while listed",Equity-MLP
+CEM,2016-11-30,-6.650396583282491,-7.060861924281799,-8.00865800865801,"dead, while listed",Equity-MLP
+CEM,2017-11-30,-8.00865800865801,-5.301085284657777,-9.14634146341463,"dead, while listed",Equity-MLP
+CEM,2018-11-30,-9.14634146341463,-5.758756770180055,-11.65048543689321,"dead, while listed",Equity-MLP
+CEM,2019-11-30,-11.65048543689321,-3.7153534184414987,-19.21743437345221,"dead, while listed",Equity-MLP
+CEM,2020-11-30,-19.21743437345221,-9.615606070463594,-14.34531450577663,"dead, while listed",Equity-MLP
+CEM,2021-11-30,-14.34531450577663,-1.0072274145232782,-15.775841770661636,"dead, while listed",Equity-MLP
+CEM,2022-11-30,-15.775841770661636,-0.7047636652876204,-13.51229415745544,"dead, while listed",Equity-MLP
+CEM,2023-11-30,-13.51229415745544,2.933902725841385,,"dead, while listed",Equity-MLP
+CEM,2024-05-31,-4.580306698950776,9.96417677901379,,"dead, while listed",Equity-MLP
+CEN,2015-09-30,1.463860933211336,4.986511214252354,3.208556149732611,"dead, while listed",Equity-MLP
+CEN,2016-09-30,3.208556149732611,5.48457862721054,-1.498929336188448,"dead, while listed",Equity-MLP
+CEN,2017-09-30,-1.498929336188448,-1.1255119758950936,-0.737618545837726,"dead, while listed",Equity-MLP
+CEN,2018-09-30,-0.737618545837726,-1.7954477947562257,-1.2482662968099745,"dead, while listed",Equity-MLP
+CEN,2019-09-30,-1.2482662968099745,-1.5722690527121201,-27.387914230019494,"dead, while listed",Equity-MLP
+CEN,2020-09-30,-27.387914230019494,-26.226309503740776,-20.69555302166476,"dead, while listed",Equity-MLP
+CEN,2021-09-30,-20.69555302166476,-10.90428666410903,-12.148541114058364,"dead, while listed",Equity-MLP
+CEN,2022-03-31,-15.559864275327184,0.8840469075042261,,"dead, while listed",Equity-MLP
+CEN,2022-09-30,-12.148541114058364,4.074358341896989,-0.0942507068802944,"dead, while listed",Equity-MLP
+CEN,2023-09-30,-0.0942507068802944,18.853717453387155,,"dead, while listed",Equity-MLP
+CTR,2015-11-30,-4.309764309764297,-0.19162670662111392,-9.726224783861682,"dead, while listed",Equity-MLP
+CTR,2016-11-30,-9.726224783861682,-3.7801429433817146,-8.458961474036853,"dead, while listed",Equity-MLP
+CTR,2017-11-30,-8.458961474036853,-0.5725452350749842,-10.43062200956938,"dead, while listed",Equity-MLP
+CTR,2018-11-30,-10.43062200956938,-2.932305153681768,-13.468013468013474,"dead, while listed",Equity-MLP
+CTR,2019-11-30,-13.468013468013474,-3.929410712190835,-21.04972375690609,"dead, while listed",Equity-MLP
+CTR,2020-11-30,-21.04972375690609,-10.263858106366188,-16.383581033262573,"dead, while listed",Equity-MLP
+CTR,2021-11-30,-16.383581033262573,-1.4007946217662575,-18.16733067729084,"dead, while listed",Equity-MLP
+CTR,2022-11-30,-18.16733067729084,-1.2002245912301248,-14.33200398803589,"dead, while listed",Equity-MLP
+CTR,2023-11-30,-14.33200398803589,4.201541167783944,,"dead, while listed",Equity-MLP
+CTR,2024-05-31,-3.961287418410975,12.333017814452123,,"dead, while listed",Equity-MLP
+DSE,2019-11-30,-6.027397260273981,-3.332669069155902,-19.07131011608624,"dead, while listed",Equity-MLP
+DSE,2020-11-30,-19.07131011608624,-14.05213418956152,,"dead, while listed",Equity-MLP
+DSE,2021-05-31,-1.0067114093959662,9.346703869903596,,"dead, while listed",Equity-MLP
+FEN,2007-11-30,-10.919970082273744,-7.966015897931207,-1.9073569482288777,"dead, while listed",Equity-MLP
+FEN,2008-11-30,-1.9073569482288777,5.904956523144615,10.396039603960403,"dead, while listed",Equity-MLP
+FEN,2009-11-30,10.396039603960403,16.462129551788944,1.3487475915221705,"dead, while listed",Equity-MLP
+FEN,2010-11-30,1.3487475915221705,2.1591767337029104,0.5126327352618087,"dead, while listed",Equity-MLP
+FEN,2011-11-30,0.5126327352618087,-2.7665106804894237,5.391483516483508,"dead, while listed",Equity-MLP
+FEN,2012-11-30,5.391483516483508,1.3056768729020476,-1.6702095353780644,"dead, while listed",Equity-MLP
+FEN,2013-11-30,-1.6702095353780644,-4.087830816467227,-6.853991596638654,"dead, while listed",Equity-MLP
+FEN,2014-11-30,-6.853991596638654,-8.265293835427737,-9.012199921290833,"dead, while listed",Equity-MLP
+FEN,2015-11-30,-9.012199921290833,-7.9679607161130965,4.075979422239806,"dead, while listed",Equity-MLP
+FEN,2016-11-30,4.075979422239806,9.921446440008989,-2.1126760563380254,"dead, while listed",Equity-MLP
+FEN,2017-11-30,-2.1126760563380254,1.8173946422252016,-6.111894687353081,"dead, while listed",Equity-MLP
+FEN,2018-11-30,-6.111894687353081,-3.7622625022233964,2.967806841046272,"dead, while listed",Equity-MLP
+FEN,2019-11-30,2.967806841046272,4.350670614863372,-14.976228209191756,"dead, while listed",Equity-MLP
+FEN,2020-11-30,-14.976228209191756,-13.223973574976812,-0.0732064421669065,"dead, while listed",Equity-MLP
+FEN,2021-11-30,-0.0732064421669065,5.9668989096659475,-7.586206896551717,"dead, while listed",Equity-MLP
+FEN,2022-11-30,-7.586206896551717,-3.558997626447587,-8.395522388059684,"dead, while listed",Equity-MLP
+FEN,2023-05-31,-15.211459754433832,-7.6662459051303715,,"dead, while listed",Equity-MLP
+FEN,2023-11-30,-8.395522388059684,1.0662529375263698,,"dead, while listed",Equity-MLP
+FMO,2008-11-30,-5.541770057899087,-0.9572584622857594,8.266666666666666,"dead, while listed",Equity-MLP
+FMO,2009-11-30,8.266666666666666,11.681919949931554,6.449974606399178,"dead, while listed",Equity-MLP
+FMO,2010-11-30,6.449974606399178,6.19074540362089,7.6351016360932,"dead, while listed",Equity-MLP
+FMO,2011-11-30,7.6351016360932,4.576811231037615,5.104961832061061,"dead, while listed",Equity-MLP
+FMO,2012-11-30,5.104961832061061,-2.3456191376586197,2.073170731707319,"dead, while listed",Equity-MLP
+FMO,2013-11-30,2.073170731707319,-4.32350862647716,2.9180695847362603,"dead, while listed",Equity-MLP
+FMO,2014-11-30,2.9180695847362603,-2.0196751485509328,-12.579415501905975,"dead, while listed",Equity-MLP
+FMO,2015-11-30,-12.579415501905975,-15.94481621807419,0.3793010024383703,"dead, while listed",Equity-MLP
+FMO,2016-11-30,0.3793010024383703,2.9086927309258357,-4.368765049879597,"dead, while listed",Equity-MLP
+FMO,2017-11-30,-4.368765049879597,-1.2747500783024823,-7.312925170068041,"dead, while listed",Equity-MLP
+FMO,2018-11-30,-7.312925170068041,-1.7899653202856411,-8.41073271413828,"dead, while listed",Equity-MLP
+FMO,2019-11-30,-8.41073271413828,-4.643269641635191,-22.938144329896904,"dead, while listed",Equity-MLP
+FMO,2020-11-30,-22.938144329896904,-16.24067001853493,-9.710391822827946,"dead, while listed",Equity-MLP
+FMO,2021-05-31,-3.938906752411575,8.948360652289502,,"dead, while listed",Equity-MLP
+FMO,2021-11-30,-9.710391822827946,0.9397854188007546,,"dead, while listed",Equity-MLP
+GER,2017-11-30,-6.280991735537189,-7.036022484064627,-8.448275862068977,"dead, while listed",Equity-MLP
+GER,2018-11-30,-8.448275862068977,-4.595500649724919,-4.854368932038833,"dead, while listed",Equity-MLP
+GER,2019-11-30,-4.854368932038833,2.1276973394736256,-21.530612244897963,"dead, while listed",Equity-MLP
+GER,2020-11-30,-21.530612244897963,-15.002733401682963,-17.27416798732171,"dead, while listed",Equity-MLP
+GER,2021-11-30,-17.27416798732171,-5.66308230765312,-19.194312796208525,"dead, while listed",Equity-MLP
+GER,2022-11-30,-19.194312796208525,-4.641263074789022,,"dead, while listed",Equity-MLP
+GER,2023-05-31,-18.442884492661136,0.8901465168149265,,"dead, while listed",Equity-MLP
+GMZ,2018-11-30,-8.448275862068977,-4.595500649724922,-4.854368932038833,"dead, while listed",Equity-MLP
+GMZ,2019-11-30,-4.854368932038833,2.127697339473629,,"dead, while listed",Equity-MLP
+GMZ,2020-05-31,-15.97222222222222,-9.44434337900722,,"dead, while listed",Equity-MLP
+IIA,2007-12-31,-9.400324149108595,-2.707709427244926,-25.0,"dead, while listed",Equity-Real Estate
+IIA,2008-12-31,-25.0,-17.876646597802836,,"dead, while listed",Equity-Real Estate
+IIA,2009-06-30,-11.738148984198638,-0.8752997836821503,,"dead, while listed",Equity-Real Estate
+INF,2014-12-31,-8.976034858387793,0.9625900468512096,-17.253521126760564,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+INF,2015-12-31,-17.253521126760564,-8.481267637181563,-7.96269727403156,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+INF,2016-12-31,-7.96269727403156,4.62836277470917,-12.576064908722106,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+INF,2017-12-31,-12.576064908722106,-1.1786471556621319,-16.762530813475752,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+INF,2018-12-31,-16.762530813475752,-4.165103043637675,-10.289389067524125,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+INF,2019-06-30,-14.495657982631926,-2.0618936505554526,,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+INF,2019-12-31,-10.289389067524125,2.6598486771912118,,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+JHP,2013-07-31,-10.348583877995631,-4.9629795080638095,-12.642487046632134,"dead, while listed",Fixed Income - Taxable-Preferreds
+JHP,2014-07-31,-12.642487046632134,-6.316315290845135,-12.277019937040922,"dead, while listed",Fixed Income - Taxable-Preferreds
+JHP,2015-07-31,-12.277019937040922,-4.802723568225605,-7.575757575757591,"dead, while listed",Fixed Income - Taxable-Preferreds
+JHP,2016-07-31,-7.575757575757591,4.180272711465302,,"dead, while listed",Fixed Income - Taxable-Preferreds
+JMF,2014-11-30,-6.244343891402727,-4.842565103346679,-11.449814126394042,"dead, while listed",Equity-MLP
+JMF,2015-11-30,-11.449814126394042,-9.050598214645484,,"dead, while listed",Equity-MLP
+JTP,2013-07-31,-10.337078651685394,-5.010298398642195,-10.311493018259943,"dead, while listed",Fixed Income - Taxable-Preferreds
+JTP,2014-07-31,-10.311493018259943,-4.306471347657838,-11.281489594742622,"dead, while listed",Fixed Income - Taxable-Preferreds
+JTP,2015-07-31,-11.281489594742622,-4.707990453407403,-5.197740112994342,"dead, while listed",Fixed Income - Taxable-Preferreds
+JTP,2016-07-31,-5.197740112994342,5.445613641901643,,"dead, while listed",Fixed Income - Taxable-Preferreds
+KED,2009-05-31,-18.395657418576597,-0.7150394887702447,-14.38721136767318,"dead, while listed",Equity-MLP
+KED,2009-11-30,-18.395657418576597,2.8400239390286792,-11.429961089494157,"dead, while listed",Equity-MLP
+KED,2010-05-31,-14.38721136767318,6.138464005174926,,"dead, while listed",Equity-MLP
+KED,2010-11-30,-11.429961089494157,11.411254312644115,-12.168622338113869,"dead, while listed",Equity-MLP
+KED,2011-11-30,-12.168622338113869,3.4834994854662646,9.561920808761592,"dead, while listed",Equity-MLP
+KED,2012-11-30,9.561920808761592,23.657283862226045,-4.20560747663552,"dead, while listed",Equity-MLP
+KED,2013-11-30,-4.20560747663552,0.47328006297995806,,"dead, while listed",Equity-MLP
+KED,2018-05-31,-3.3575825405707915,0.7805257377731554,,"dead, while listed",Equity-MLP
+MFD,2006-11-30,-7.926125432858788,2.543715358511845,-4.994007191370353,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2007-11-30,-4.994007191370353,5.449822742900541,-24.759405074365706,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2008-11-30,-24.759405074365706,-16.292960422584386,-18.31476323119776,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2009-11-30,-18.31476323119776,-5.754917331666144,-9.614126880313922,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2010-11-30,-9.614126880313922,6.408598285330683,-6.944444444444442,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2011-11-30,-6.944444444444442,10.618320617514684,-6.725329981143934,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2012-11-30,-6.725329981143934,4.899114870841439,-3.7837837837837776,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2013-11-30,-3.7837837837837776,3.977516651516988,-3.907134767836928,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2014-11-30,-3.907134767836928,1.9107179686204572,-9.178386380458925,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2015-11-30,-9.178386380458925,-4.372970202870712,-12.549329123914754,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2016-11-30,-12.549329123914754,-6.926227479888211,-3.748125937031488,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2017-11-30,-3.748125937031488,4.796824153705381,-3.342618384401108,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2018-11-30,-3.342618384401108,5.149328762733948,-7.851985559566776,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2019-11-30,-7.851985559566776,-1.3052944111176599,-13.593256059009494,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2020-11-30,-13.593256059009494,-8.612346098676369,-4.832347140039451,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2021-11-30,-4.832347140039451,3.430272860953009,-7.218683651804669,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2022-11-30,-7.218683651804669,1.5405126010672383,-11.757990867579904,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2023-11-30,-11.757990867579904,-3.2098952506287013,,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+MFD,2024-05-31,-12.12841854934602,-4.192077996204677,,"dead, while listed",Equity-Sector Equity (infrastructure/utilities)
+NRI,2006-10-31,-14.660831509846838,-3.665057683252879,-7.678328032712411,"dead, while listed",Equity-Real Estate
+NRI,2007-04-30,-6.943423952975758,7.465777182953849,,"dead, while listed",Equity-Real Estate
+NRI,2007-10-31,-7.678328032712411,4.864428807478733,,"dead, while listed",Equity-Real Estate
+PSW,2006-10-31,-4.44943820224718,-0.20427913908273343,-11.514841351074722,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSW,2007-10-31,-11.514841351074722,-6.852984128615957,-5.787348586810226,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSW,2008-10-31,-5.787348586810226,1.5167851462290933,-11.49301825993555,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSW,2009-10-31,-11.49301825993555,-4.2424755465581745,-10.046511627906971,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSW,2010-10-31,-10.046511627906971,-0.4481088953001393,-12.072243346007603,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSW,2011-10-31,-12.072243346007603,-2.963283854456689,-7.118055555555558,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSW,2012-04-30,-6.925207756232688,4.278716655050686,,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSW,2012-10-31,-7.118055555555558,3.0161896919651445,,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2006-10-31,-10.017889087656515,-6.423142827269807,-15.00250878073256,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2007-10-31,-15.00250878073256,-9.209925595217243,1.7587939698492372,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2008-10-31,1.7587939698492372,11.686228179947186,-11.266201395812558,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2009-10-31,-11.266201395812558,-3.512333429632612,-10.35375323554788,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2010-10-31,-10.35375323554788,-2.1837811666492524,-13.422222222222224,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2011-10-31,-13.422222222222224,-6.801835335051824,-7.160096540627514,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2012-04-30,-7.619863013698636,4.060862604162251,,"dead, while listed",Fixed Income - Taxable-Preferreds
+PSY,2012-10-31,-7.160096540627514,3.50541342619281,,"dead, while listed",Fixed Income - Taxable-Preferreds
+RIT,2005-12-31,-9.523809523809511,-4.410150529363231,-11.781492050550346,"dead, while listed",Equity-Real Estate
+RIT,2006-12-31,-11.781492050550346,-3.3498607058736525,-9.476309226932669,"dead, while listed",Equity-Real Estate
+RIT,2007-12-31,-9.476309226932669,1.7109686533567245,-25.851393188854487,"dead, while listed",Equity-Real Estate
+RIT,2008-12-31,-25.851393188854487,-15.59085625509031,-10.356347438752778,"dead, while listed",Equity-Real Estate
+RIT,2009-12-31,-10.356347438752778,5.346717383359723,-8.762420957542915,"dead, while listed",Equity-Real Estate
+RIT,2010-12-31,-8.762420957542915,6.465595660637064,-13.551401869158877,"dead, while listed",Equity-Real Estate
+RIT,2011-12-31,-13.551401869158877,1.4386519925578494,-9.786184210526317,"dead, while listed",Equity-Real Estate
+RIT,2012-12-31,-9.786184210526317,1.103872544625208,-13.275862068965504,"dead, while listed",Equity-Real Estate
+RIT,2013-12-31,-13.275862068965504,-2.5758597232228,-12.543554006968638,"dead, while listed",Equity-Real Estate
+RIT,2014-12-31,-12.543554006968638,-0.3390712907517379,-3.905674281503324,"dead, while listed",Equity-Real Estate
+RIT,2015-06-30,-11.631419939577048,0.23711348924310371,,"dead, while listed",Equity-Real Estate
+RIT,2015-12-31,-3.905674281503324,7.903580775006053,,"dead, while listed",Equity-Real Estate
+RLF,2004-12-31,-3.007846556233662,-4.430413653299988,-7.276034561164158,"dead, while listed",Equity-Real Estate
+RLF,2005-12-31,-7.276034561164158,-6.104159102184907,7.41026630644539,"dead, while listed",Equity-Real Estate
+RLF,2006-12-31,7.41026630644539,11.761194375041963,-5.6737588652482245,"dead, while listed",Equity-Real Estate
+RLF,2007-12-31,-5.6737588652482245,-4.715887261597414,-29.60893854748604,"dead, while listed",Equity-Real Estate
+RLF,2008-12-31,-29.60893854748604,-27.762429507497043,,"dead, while listed",Equity-Real Estate
+RLF,2009-06-30,-16.51376146788991,-7.222951099126952,,"dead, while listed",Equity-Real Estate
+RPF,2005-12-31,-11.39184397163121,-6.981285598917697,-1.5555555555555656,"dead, while listed",Equity-Real Estate
+RPF,2006-12-31,-1.5555555555555656,6.1402139142610626,-7.484276729559747,"dead, while listed",Equity-Real Estate
+RPF,2007-12-31,-7.484276729559747,-0.5785286861281778,-26.993865030674847,"dead, while listed",Equity-Real Estate
+RPF,2008-12-31,-26.993865030674847,-20.183306278426006,,"dead, while listed",Equity-Real Estate
+RPF,2009-06-30,-11.250000000000004,0.7612324385967177,,"dead, while listed",Equity-Real Estate
+RTU,2007-12-31,-9.12788070492544,4.571391440669471,-30.567685589519645,"dead, while listed",Equity-Real Estate
+RTU,2008-12-31,-30.567685589519645,-18.08737030177463,-17.48251748251748,"dead, while listed",Equity-Real Estate
+RTU,2009-06-30,-17.28538283062644,-0.2602416470961053,,"dead, while listed",Equity-Real Estate
+RTU,2009-12-31,-17.48251748251748,-0.3923158872131225,,"dead, while listed",Equity-Real Estate
+RWF,2008-12-31,-28.744939271255067,-26.63334193219132,-13.121546961325969,"dead, while listed",Equity-Real Estate
+RWF,2009-06-30,-9.745762711864405,-2.333220703434936,,"dead, while listed",Equity-Real Estate
+RWF,2009-12-31,-13.121546961325969,-5.125699777037766,,"dead, while listed",Equity-Real Estate
+SMM,2015-11-30,-9.908643710470832,-6.15854497063691,-6.750173973556017,"dead, while listed",Equity-MLP
+SMM,2016-11-30,-6.750173973556017,0.5433558312802083,-8.99376669634906,"dead, while listed",Equity-MLP
+SMM,2017-11-30,-8.99376669634906,-1.5223622405223614,-16.235059760956172,"dead, while listed",Equity-MLP
+SMM,2018-11-30,-16.235059760956172,-7.68419830083087,-15.494636471990477,"dead, while listed",Equity-MLP
+SMM,2019-11-30,-15.494636471990477,-4.8349696617033935,-25.177304964539005,"dead, while listed",Equity-MLP
+SMM,2020-11-30,-25.177304964539005,-11.602817321440435,-15.292553191489356,"dead, while listed",Equity-MLP
+SMM,2021-11-30,-15.292553191489356,3.6764472076725294,,"dead, while listed",Equity-MLP
+SMM,2022-05-31,-12.55144032921811,6.1033912134548345,,"dead, while listed",Equity-MLP
+SRF,2015-11-30,-9.126063418406805,-12.611108491738714,-12.811387900355864,"dead, while listed",Equity-MLP
+SRF,2016-11-30,-12.811387900355864,-13.632639099471259,-15.15151515151516,"dead, while listed",Equity-MLP
+SRF,2017-11-30,-15.15151515151516,-13.926937466500357,-17.067833698030643,"dead, while listed",Equity-MLP
+SRF,2018-11-30,-17.067833698030643,-4.704844874604701,-15.294117647058824,"dead, while listed",Equity-MLP
+SRF,2019-05-31,-16.625916870415647,-1.6156712871150933,,"dead, while listed",Equity-MLP
+SRF,2019-11-30,-15.294117647058824,0.12004575802050432,,"dead, while listed",Equity-MLP
+TPZ,2012-11-30,-5.605381165919288,0.10108677920083586,,"dead, while listed",Equity-MLP
+RPF,2008-12-31,-26.993865030674847,-20.183306278426006,-18.72,"dead, at the end",Equity-Real Estate
+RLF,2008-12-31,-29.60893854748604,-27.762429507497043,-18.72,"dead, at the end",Equity-Real Estate
+RTU,2009-06-30,-17.28538283062644,-0.2602416470961053,-11.65,"dead, at the end",Equity-Real Estate
+RWF,2009-06-30,-9.745762711864405,-2.333220703434936,-15.74,"dead, at the end",Equity-Real Estate
+NRI,2007-04-30,-6.943423952975758,7.465777182953849,-5.91,"dead, at the end",Equity-Real Estate
+RIT,2015-06-30,-11.631419939577048,0.23711348924310371,0.0,"dead, at the end",Equity-Real Estate
+KED,2017-11-30,-6.25,,-3.5,"dead, at the end",Equity-MLP
+CEM,2023-11-30,-13.51229415745544,2.933902725841385,-13.94,"dead, at the end",Equity-MLP
+CTR,2023-11-30,-14.33200398803589,4.201541167783944,-13.94,"dead, at the end",Equity-MLP
+CBA,2017-11-30,-9.866017052375152,-2.5483966406942713,-9.23,"dead, at the end",Equity-MLP
+SRF,2019-11-30,-15.294117647058824,0.12004575802050432,-20.65,"dead, at the end",Equity-MLP
+FEN,2023-05-31,-15.211459754433832,-7.6662459051303715,0.0,"dead, at the end",Equity-MLP
+DSE,2020-11-30,-19.07131011608624,-14.05213418956152,0.0,"dead, at the end",Equity-MLP
+GER,2022-11-30,-19.194312796208525,-4.641263074789022,0.0,"dead, at the end",Equity-MLP
+GMZ,2019-11-30,-4.854368932038833,2.127697339473629,-21.530612244897963,"dead, at the end",Equity-MLP
+FMO,2021-05-31,-3.938906752411575,8.948360652289502,-16.05,"dead, at the end",Equity-MLP
+SMM,2021-11-30,-15.292553191489356,3.6764472076725294,0.0,"dead, at the end",Equity-MLP
+MFD,2023-11-30,-11.757990867579904,-3.2098952506287013,-6.35,"dead, at the end",Equity-Sector Equity (infrastructure/utilities)
+PSW,2012-04-30,-6.925207756232688,4.278716655050686,-9.04,"dead, at the end",Fixed Income - Taxable-Preferreds
+PSY,2012-04-30,-7.619863013698636,4.060862604162251,-9.04,"dead, at the end",Fixed Income - Taxable-Preferreds

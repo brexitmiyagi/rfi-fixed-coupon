@@ -1,0 +1,10 @@
+years ahead of the blended benchmark: 13 of 21 (2005-2025)
+2005-2016: ahead in 5 of 12, average +0.02 pts a year
+2017-2025: ahead in 8 of 9, average +1.65 pts a year
+2005-2025 compounded: fund 320.0%, blended benchmark 267.0%
+Jan 2023 to Jun 2026: fund 36.1%, blended benchmark 32.8%, gap +3.3 pts
+first half of 2026: fund 11.15% vs blended 11.69% and All Equity REITs 14.9%
+t-stat of the average excess: 2005-2025 1.16 (mean +0.72, sd 2.84); 2017-2025 5.28 (mean +1.65, sd 0.94); 2005-2016 0.02
+rolling 5-year information ratio (mean excess / sd): last 1.36 (2021-2025); highest 2.86 (2021); lowest -0.03 (2009)
+break test: the biggest before/after difference over every split point scores 3.10; random reorderings of the same 21 years beat that in 2.7% of 10,000 tries
+years ahead since 2017 under a coin flip: chance of 8 or more of 9 = 2.0%

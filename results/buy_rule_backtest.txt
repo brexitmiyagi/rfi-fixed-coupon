@@ -1,0 +1,10 @@
+1456 weekly starts, 1996-11-22 to 2025-11-14
+all weeks: 1456 weeks; RFI median +9.2%, mean +10.4%, lost money 27%; beat REITs 49%, median edge -0.2 pts
+discount -8% or wider: 163 weeks; RFI median +20.5%, mean +30.7%, lost money 5%; beat REITs 72%, median edge +4.1 pts
+   separate episodes: 8; RFI median +19.0%, beat REITs in 7 of 8; 1998-06-19 (-8.2%): +8% vs -8%, 2006-06-23 (-8.1%): +19% vs +30%, 2008-10-10 (-19.6%): +19% vs -28%, 2010-05-07 (-9.9%): +42% vs +23%, 2014-06-13 (-8.1%): +10% vs +10%, 2016-10-14 (-8.1%): +9% vs +3%, 2018-12-21 (-10.1%): +44% vs +18%, 2020-03-20 (-9.1%): +79% vs +3%
+discount -10.07% or wider: 57 weeks; RFI median +51.3%, mean +51.8%, lost money 2%; beat REITs 93%, median edge +15.9 pts
+   separate episodes: 8; RFI median +16.8%, beat REITs in 8 of 8; 2008-10-10 (-19.6%): +19% vs -28%, 2008-12-19 (-15.8%): +44% vs +39%, 2010-05-21 (-10.1%): +46% vs +23%, 2014-09-26 (-10.2%): +11% vs -0%, 2015-02-13 (-10.1%): -6% vs -7%, 2015-11-13 (-10.6%): +9% vs +8%, 2016-01-15 (-11.1%): +15% vs +9%, 2018-12-21 (-10.1%): +44% vs +18%
+discount -10.1% or wider: 55 weeks; RFI median +52.0%, mean +52.1%, lost money 2%; beat REITs 93%, median edge +15.8 pts
+   separate episodes: 7; RFI median +14.8%, beat REITs in 7 of 7; 2008-10-10 (-19.6%): +19% vs -28%, 2008-12-19 (-15.8%): +44% vs +39%, 2010-05-28 (-10.1%): +47% vs +23%, 2014-09-26 (-10.2%): +11% vs -0%, 2015-02-13 (-10.1%): -6% vs -7%, 2015-11-13 (-10.6%): +9% vs +8%, 2016-01-15 (-11.1%): +15% vs +9%
+discount -12% or wider: 12 weeks; RFI median +65.4%, mean +76.3%, lost money 0%; beat REITs 100%, median edge +28.8 pts
+   separate episodes: 4; RFI median +52.1%, beat REITs in 4 of 4; 2008-10-10 (-19.6%): +19% vs -28%, 2008-12-19 (-15.8%): +44% vs +39%, 2009-02-20 (-16.5%): +100% vs +47%, 2009-10-30 (-13.3%): +60% vs +30%

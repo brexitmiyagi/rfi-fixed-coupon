@@ -1,0 +1,6 @@
+no gap, hold 1 month: 130 months, +18.52 pts a year, t 6.19, positive 68%
+skip 1, hold 1 month: 129 months, +7.69 pts a year, t 2.22, positive 60%
+skip 1, hold 12, start month +0: 10 years, mean +3.07 pts, t 1.03, positive 8 of 10
+skip 1, hold 12, start month +3: 10 years, mean +3.18 pts, t 1.56, positive 8 of 10
+skip 1, hold 12, start month +6: 10 years, mean +2.36 pts, t 1.01, positive 8 of 10
+skip 1, hold 12, start month +9: 10 years, mean +2.60 pts, t 1.50, positive 8 of 10

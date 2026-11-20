@@ -1,0 +1,20 @@
+discount 18 Nov 2026: -8.65% (close 10.45, NAV 11.44)
+weekly since 1996: median -0.23%, share of weeks at or below today 8.5%
+weekly since 2016-10: median 0.39%, share of weeks at or below today 2.2%
+last weeks at or below today before 2026: 2018-12-21, 2018-12-28, 2020-03-20
+since 1996, weeks at or below -8% with a year of data after: 164; discount 52 weeks later median -6.77%, narrower in 81% of them
+since 2016-10, weeks at or below -8% with a year of data after: 15; discount 52 weeks later median -4.77%, narrower in 100% of them
+Dec 2022 year-end discount: +6.31%
+mid-Nov to end-Jan: 28 years, narrower in 22, median change +2.22 pts, mean +2.18
+weekly discount change on 10-year change since Oct 2016: -0.29 pts per 1pt, HAC t -0.31, n 482, R2 0.076
+separate episodes since 1996 at or below -8% with a year after: 8; narrower a year later in 7; year-later discount median -1.37%, range -9.70% to 5.69%
+            start_discount  a_year_later
+date                                    
+1998-06-19           -8.23          0.69
+2006-06-23           -8.09         -3.43
+2008-10-10          -19.61         -9.70
+2010-05-07           -9.93          4.44
+2014-06-13           -8.06         -9.05
+2016-10-14           -8.06         -5.82
+2018-12-21          -10.08          2.92
+2020-03-20           -9.13          5.69

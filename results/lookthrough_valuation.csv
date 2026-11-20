@@ -1,0 +1,5 @@
+ticker,name,price_2026_11_18,metric,metric_2026_low,metric_2026_high,annual_dividend,source_metric,source_price,mid,multiple,earnings_yield_pct,div_yield_pct,weight_jun30_pct
+WELL,Welltower,247.25,normalized FFO per share,6.47,6.53,3.4,Welltower Q3 2026 8-K exhibit (sec.gov/Archives/edgar/data/766704/000076670426000043); dividend $0.85 a quarter,Nasdaq close 11/18/2026,6.5,38.04,2.63,1.38,13.15
+DLR,Digital Realty,178.31,core FFO per share,8.3,8.35,4.88,Digital Realty Q3 2026 8-K exhibit 99.1 (sec.gov/Archives/edgar/data/1297996/000110465926120212); dividend $1.22 a quarter,Nasdaq close 11/18/2026,8.32,21.42,4.67,2.74,7.0
+EQIX,Equinix,1036.5,AFFO per share,43.71,44.11,,Equinix Q3 2026 8-K exhibit 99.1 (sec.gov/Archives/edgar/data/1101239/000110123926000178),Nasdaq close 11/18/2026,43.91,23.61,4.24,,2.9
+IRM,Iron Mountain,111.78,AFFO per share,5.94,6.0,3.97,Iron Mountain Q3 2026 8-K (sec.gov/Archives/edgar/data/1020569/000102056926000081); Q4 dividend $0.993,Nasdaq close 11/18/2026,5.97,18.72,5.34,3.55,2.3

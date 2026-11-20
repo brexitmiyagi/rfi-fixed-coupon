@@ -1,0 +1,8 @@
+payout/NAV on Nov 18: 8.39% at NAV $11.44
+March 2009 cut ($1.35 to $0.60 a year): payout/NAV ran 9.6% to 22.7% from June 2008 to February 2009
+highest payout/NAV before June 2008, when the run-up to the cut began: 10.62% (week of 2008-01-18); threshold used below: 10.62%
+since the 2009 reset the high was 10.31% (week of 2020-03-20), no cut
+NAV at which $0.96 is 10.62% of NAV: $9.04 (-21.0% from here); at 18%: $5.33
+monthly NAV total returns used: 360 months, 1996-12-31 to 2026-11-30, mean 10.2% a year
+simulated, 20,000 paths: payout/NAV reaches 10.62% within 13 months in 12.5% of paths; within 3 years 33.0%; reaches 18% within 13 months 2.4%, within 3 years 6.8%
+simulated NAV after 13 months: median $11.61, 10th percentile $9.30, 90th $13.97

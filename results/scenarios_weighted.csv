@@ -1,0 +1,4 @@
+case,prob,reit_market,manager_vs_benchmark,nav_total_return,nav_in_12m,discount,price_in_12m,total_return,vs_benchmark
+bear,0.25,-0.37,-2.03,-2.4,10.21,-10.63,9.12,-3.5,-3.2
+base,0.5,6.84,0.72,7.56,11.34,-7.22,10.53,9.9,3.1
+bull,0.25,25.36,1.65,27.01,13.57,-3.48,13.1,34.5,9.2

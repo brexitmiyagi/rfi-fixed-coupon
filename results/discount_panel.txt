@@ -1,0 +1,13 @@
+36 funds, 29,880 fund-weeks with a 1-year-forward discount, start dates 1998-2025
+fwd - d = 0.223 -0.0611 x d -0.2616 x (d - own 3-yr average)
+RFI now: d -8.65%, own 3-yr average 0.60% (through 2026-11-13), so -9.25 pts below it
+model's expected discount a year out: -5.48%, 95% interval (year-block bootstrap) -6.99% to -3.67%
+comparable weeks (d within 2 pts of -8.65% and at least 6 pts below the fund's 3-yr average): 1,028 weeks, 26 funds, 19 years
+  discount a year later, 10th/25th/50th/75th/90th percentile: -13.01 / -10.63 / -7.22 / -3.48 / 1.31
+  narrower a year later: 63.5%; wider by more than 3 pts: 17.9%
+  one per fund per year (non-overlapping): 97 cases, median -6.78%, narrower in 62.9%, average change +3.49 pts
+  start dates 2016 and later: 388 weeks, median -8.74%, narrower 53.1%
+  Equity-MLP: 132 weeks, 4 funds, median -9.91%, narrower 47.0%
+  Equity-Real Estate: 208 weeks, 4 funds, median -7.58%, narrower 64.4%
+  Equity-Sector Equity (infrastructure/utilities): 101 weeks, 5 funds, median -8.23%, narrower 54.5%
+  Fixed Income - Taxable-Preferreds: 587 weeks, 13 funds, median -6.79%, narrower 68.5%

@@ -1,0 +1,8 @@
+15 quarters ending 2022-12-31 to 2026-06-30, price returns, REIT stocks vs FTSE Nareit All Equity REITs
+Welltower weight: RFI 6.8% -> 15.4% of REIT stocks; index 2.6% -> 9.6% (quarter starts)
+total active return (sum of quarters): 5.58 pts
+Welltower alone, active weight x (Welltower - index): 5.38 pts = 96% of it
+everything else: 0.20 pts
+health care selection effect 2.78 pts, of which Welltower's overweight within health care 1.83 and the other health care picks 0.96
+Welltower share of health care: RFI 71% -> 79%, index 32% -> 55%
+Welltower price 253% vs Nareit health care 94% and All Equity 23% over the same quarters

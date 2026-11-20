@@ -1,0 +1,15 @@
+ year  months_seen  peak_estimate_pct peak_month  october_estimate_pct  december_estimate_pct  final_pct
+ 2017            6              17.78   November                 16.44                  17.36       2.08
+ 2018           12              62.00        May                  9.33                   0.00       0.00
+ 2019           12              47.62   February                  0.17                   0.00       0.00
+ 2020           12              61.02     August                  0.20                   0.00       0.00
+ 2021           12               0.00    January                  0.00                   0.00       0.00
+ 2022           12               0.00    January                  0.00                   0.00       0.00
+ 2023           12              26.49     August                 21.94                   1.96       0.00
+ 2024           12              83.12   February                  3.55                   0.00       0.00
+ 2025           12              13.48   December                  0.00                  13.48      12.50
+ 2026            7              91.62    January                 62.69                    NaN        NaN
+years with a final figure: 9; any notice showed return of capital in 7; final return of capital above zero in 2
+October estimate above the final by more than 1 pt: 4 years (2017, 2018, 2023, 2024); below by more than 1 pt: 1 (2025)
+average October estimate 5.7% vs average final 1.6%
+2026 October estimate 62.7%, highest October reading since 2017 (previous high 21.9%)

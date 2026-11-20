@@ -1,0 +1,13 @@
+fund                        manager     period  stocks   top_holding  top_pct_of_stocks  top10_pct_of_stocks  welltower_pct_of_stocks                   note
+RLTY                 Cohen & Steers 2026-06-30    34.0 Welltower Inc              16.51                 58.1                    16.51                    NaN
+ RFI                 Cohen & Steers 2026-06-30    38.0 Welltower Inc              16.49                 60.3                    16.49                    NaN
+ RQI                 Cohen & Steers 2026-06-30    37.0 Welltower Inc              16.21                 60.1                    16.21                    NaN
+ RNP                 Cohen & Steers 2026-06-30    38.0 Welltower Inc              15.87                 59.2                    15.87                    NaN
+ AWP                 abrdn (global) 2026-07-31    54.0 Welltower Inc              11.50                 51.4                    11.50                    NaN
+ NRO               Neuberger Berman 2026-07-31    38.0 Welltower Inc               8.79                 51.0                     8.79                    NaN
+ IGR                  CBRE (global) 2026-06-30    74.0 WELLTOWER INC               8.52                 38.3                     8.52                    NaN
+ PGZ                      Principal 2026-07-31    64.0   Equinix Inc               7.37                 41.0                     5.22                    NaN
+ JRS                         Nuveen 2026-06-30    40.0  Prologis Inc               9.08                 49.1                     4.37                    NaN
+BPRE Bluerock (private real estate) 2026-06-30     NaN           NaN                NaN                  NaN                      NaN no listed common stock
+Welltower is the top stock in 7 of 9 funds with listed stocks
+Cohen & Steers funds: Welltower 15.9% to 16.5% of stocks; other managers 4.4% to 11.5%

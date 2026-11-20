@@ -1,0 +1,14 @@
+written options at 2026-06-30: 14 positions (9 calls, 5 puts), market value $-218,873 (-0.07% of net assets), notional $10.2m (3.2% of net assets)
+average across 17 quarters: 7.8 positions, notional 1.7% of net assets (max 3.2% at 2026-06-30)
+Hudson Pacific warrants at 2026-06-30: $876,204
+period  realized_written_options  unrealized_change_written_options   total
+  2018                   -205035                                  0 -205035
+  2019                    230819                              45421  276240
+  2020                    350620                              60099  410719
+  2021                    554462                            -115188  439274
+  2022                    425814                              62505  488319
+  2023                    186713                            -188473   -1760
+  2024                    285692                             122024  407716
+  2025                    440927                               6243  447170
+2026H1                    150172                              10045  160217
+2018 to June 2026: $2,422,860 in total, $285,042 a year, about 0.09% of average net assets ($311m, N-PORT quarters) or 1.1 cents a share a year; losing years: 2018, 2023

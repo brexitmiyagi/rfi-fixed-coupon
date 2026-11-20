@@ -1,0 +1,8 @@
+since 2022-09-30: NAV 11.77 -> 11.44, NAV total return 8.49% a year over 4.13 yrs, average payout/NAV 8.27%, paid $4.27
+since 2016-10-14: NAV 13.64 -> 11.44, NAV total return 6.52% a year over 10.09 yrs, average payout/NAV 7.61%, paid $10.29
+balance-point NAV at r=6.23%: $15.41
+balance-point NAV at r=8.49%: $11.31
+balance-point NAV at r=8.39%: $11.44
+payout / NAV today: 8.39%
+10-year NAV return to June 30 2026 (N-CSRS): 6.23%
+to hold NAV flat the book needs 9.33% gross a year; 2025 book income yield 3.53%; so 5.80% a year has to come from price gains

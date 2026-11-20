@@ -1,0 +1,13 @@
+yield on price 9.19%, payout on NAV 8.39%, carry 0.79 pts a year vs expense ratio 0.94%
+discount where carry equals the fee: -10.07% (price $10.29 on today's NAV)
+10% buyback at today's price: 2.676m shares, NAV gain $2.65m = $0.110 a remaining share
+yield on price minus 10-year: 4.12 pts; weekly since Oct 2016 median 4.59, share of weeks below today 32%
+price at the median spread with the 10-year at 5.07%: $9.94
+for comparison only, RFI's own-episode median (-1.37%) on a 1% lower NAV would give $11.17
+carry-only buy level (fee fully covered): -10.07% discount = $10.29 on today's NAV
+discount_pct    -10.63  -8.65   -7.22   -3.48 
+nav_change_pct                                
+-10               -2.8    -0.8     0.6     4.3
+-5                 2.1     4.2     5.7     9.6
+ 0                 7.0     9.2    10.8    14.9
+ 5                11.9    14.2    15.8    20.1

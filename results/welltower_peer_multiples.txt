@@ -1,0 +1,10 @@
+Company guidance, Nov 18 close:
+  WELL: $247.25 / $6.500 (normalized FFO) = 38.0x
+  VTR: $88.20 / $3.885 (normalized FFO) = 22.7x
+  AHR: $58.55 / $2.245 (normalized FFO) = 26.1x
+  DOC: $19.34 / $1.770 (FFO as adjusted) = 10.9x
+  OHI: $47.09 / $3.290 (adjusted FFO) = 14.3x
+Nareit REITWatch, Sep 30, 2026 prices, FactSet 2026 FFO: 130 equity REITs with a multiple
+  Welltower 35.9x 2026, 30.93x 2027 (consensus FFO growth 16.19%); Ventas 21.9x / 19.75x; health care sector simple average 15.4x; all equity REITs median 12.5x, market-cap weighted 15.9x (14.9x without Welltower)
+  REITs over $10bn of market value, highest multiples: WELL 35.9x, EQIX 23.4x, VTR 21.9x, DLR 21.1x, PLD 20.7x, EGP 20.6x
+  2026 multiple per point of 2026-27 consensus FFO growth: Welltower 2.22, Ventas 2.05
