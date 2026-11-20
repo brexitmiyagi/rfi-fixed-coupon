@@ -1,0 +1,14 @@
+Sector,Sector weight (allocation),Stock picking (selection),Interaction
+Health Care,1.15,2.78,0.69
+Specialty,0.18,0.62,0.34
+Gaming,1.04,0.59,-0.53
+Data Centers,1.39,-0.29,-0.09
+Office,0.49,0.74,-0.75
+Lodging/Resorts,0.26,-0.06,0.2
+Industrial,0.2,0.24,-0.16
+Diversified,0.13,-0.38,0.35
+Retail,0.04,-0.02,0.06
+Telecommunications,-0.71,0.26,-0.04
+Self Storage,-0.23,-0.36,-0.16
+Timberland,-0.73,-0.0,-0.13
+Residential,-0.62,-1.21,-0.21
