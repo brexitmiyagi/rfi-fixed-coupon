@@ -3,4 +3,4 @@ latest regular distribution: ex 2026-12-08 $0.08
 regular payments of exactly $0.08 on record: 233
 CPI Nov 1993 146.0, latest (2026-10-01) 337.476, ratio 2.3115
 $0.96 a year in Nov 1993 dollars: $0.415 (-56.7%)
-10-year Treasury, Nov 1993 average 5.72%, Dec 1995 average 5.71%, 18 Nov 2026 5.07%
+10-year Treasury, Nov 1993 average 5.72%, Dec 1995 average 5.71%, 20 Nov 2026 4.92%

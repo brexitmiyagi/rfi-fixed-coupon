@@ -1,0 +1,16 @@
+name,cusip,value_k,shares,ticker,trading_days,avg_daily_volume,median_daily_volume,source,days_at_20pct
+"BXP, Inc.",101121101,1372470.0,22459003.0,BXP,65,1381306,1312784,api.nasdaq.com historical 2026-08-19 to 2026-11-18,81.3
+Omega Healthcare Investors,681936100,1367857.0,29536953.0,OHI,65,2005232,1948090,api.nasdaq.com historical 2026-08-19 to 2026-11-18,73.65
+Welltower Inc.,95040Q104,7896956.0,34298794.0,WELL,65,2778311,2440377,api.nasdaq.com historical 2026-08-19 to 2026-11-18,61.73
+Digital Realty Trust Inc.,253868103,4684256.0,26686346.0,DLR,65,2218184,1843723,api.nasdaq.com historical 2026-08-19 to 2026-11-18,60.15
+Extra Space Storage Inc.,30225T102,1895592.0,14414039.0,EXR,65,1349447,1206956,api.nasdaq.com historical 2026-08-19 to 2026-11-18,53.41
+Sun Communities Inc.,866674104,1643298.0,14833875.0,SUI,65,1448151,1118447,api.nasdaq.com historical 2026-08-19 to 2026-11-18,51.22
+Kimco Realty Corporation,49446R109,1248803.0,56227076.0,KIM,65,5808604,5311104,api.nasdaq.com historical 2026-08-19 to 2026-11-18,48.4
+Essex Property Trust Inc.,297178105,1328739.0,4932386.0,ESS,65,549422,515727,api.nasdaq.com historical 2026-08-19 to 2026-11-18,44.89
+Prologis Inc.,74340W103,3771012.0,29043524.0,PLD,65,3678243,3451054,api.nasdaq.com historical 2026-08-19 to 2026-11-18,39.48
+Crown Castle Inc.,22822V101,2162089.0,32439435.0,CCI,65,4275287,3569762,api.nasdaq.com historical 2026-08-19 to 2026-11-18,37.94
+Iron Mountain Incorporated,46284V101,1259753.0,11354229.0,IRM,65,1559438,1406375,api.nasdaq.com historical 2026-08-19 to 2026-11-18,36.4
+Equinix Inc.,29444U700,3044029.0,3009171.0,EQIX,65,571889,550114,api.nasdaq.com historical 2026-08-19 to 2026-11-18,26.31
+Public Storage,74460D109,1336380.0,4724850.0,PSA,65,942971,862280,api.nasdaq.com historical 2026-08-19 to 2026-11-18,25.05
+Simon Property Group Inc.,828806109,1206023.0,6007277.0,SPG,65,1289978,1165251,api.nasdaq.com historical 2026-08-19 to 2026-11-18,23.28
+American Tower Corporation,03027X100,1989283.0,12152735.0,AMT,65,2831806,2649218,api.nasdaq.com historical 2026-08-19 to 2026-11-18,21.46

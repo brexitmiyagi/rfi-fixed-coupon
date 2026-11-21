@@ -1,8 +1,8 @@
 250 month-ends, 2005-01 to 2025-10; assumption ranged 8.1% to 26.1%, gap -1.43 to +7.06
 average miss -5.92 pts (95% interval -13.0 to +1.2, Newey-West)
-all months: miss on the assumption: slope -0.78 (t -0.85), R2 0.011; at today's +5.68 the fitted miss is +1.6 (95% -14.4 to +17.7) [outside the sample range]
-all months: miss on the yield gap: slope +4.92 (t +1.80), R2 0.082; at today's -1.30 the fitted miss is -17.5 (95% -32.0 to -2.9)
-without Jun 2006-Dec 2008: miss on the assumption: slope -0.18 (t -0.27), R2 0.001; at today's +5.68 the fitted miss is -0.2 (95% -16.4 to +16.0) [outside the sample range]
-without Jun 2006-Dec 2008: miss on the yield gap: slope +4.42 (t +1.53), R2 0.081; at today's -1.30 the fitted miss is -12.8 (95% -25.2 to -0.4)
+all months: miss on the assumption: slope -0.78 (t -0.85), R2 0.011; at today's +4.84 the fitted miss is +2.3 (95% -15.2 to +19.7) [outside the sample range]
+all months: miss on the yield gap: slope +4.92 (t +1.80), R2 0.082; at today's -1.15 the fitted miss is -16.7 (95% -30.6 to -2.9)
+without Jun 2006-Dec 2008: miss on the assumption: slope -0.18 (t -0.27), R2 0.001; at today's +4.84 the fitted miss is -0.1 (95% -17.3 to +17.1) [outside the sample range]
+without Jun 2006-Dec 2008: miss on the yield gap: slope +4.42 (t +1.53), R2 0.081; at today's -1.15 the fitted miss is -12.1 (95% -23.7 to -0.4)
 miss by quarter of the assumption (lowest first): 8.1-13.9%: mean -0.7, median -3.8; 13.9-15.6%: mean -7.2, median -9.1; 15.6-17.4%: mean -5.7, median -7.0; 17.4-26.1%: mean -10.1, median -7.7
 months starting with REITs yielding less than the 10-year: 53, average miss -5.83 (95% -14.7 to +3.1); without 2006-08: +1.62

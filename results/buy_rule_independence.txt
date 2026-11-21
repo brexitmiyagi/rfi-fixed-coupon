@@ -26,9 +26,9 @@ discount -12% or wider: 12 weeks, 2 non-overlapping episodes; beat REITs in 2, l
    2008-10-10 disc -19.6%  gap +1.24  RFI +18.8%  REITs -28.4%
    2009-10-30 disc -13.3%  gap +0.71  RFI +60.2%  REITs +30.3%
    weeks in this set with the REIT yield below the 10-year: 0; lowest gap +0.67
-all weeks with the gap below zero: 288 (1997-01-03 to 2025-11-14); widest discount among them -11.6%; RFI median +3.0%, beat REITs 52%
-weeks with the gap below +1 point: 610; with discount -8% or wider among them: 51; of those, median RFI +41.7%, beat REITs 88%
-gap -9 to 0: 288 weeks, discount range -11.6% to 11.7%, edge per 1 pt wider discount +0.93 pts
+all weeks with the gap below zero: 289 (1997-01-03 to 2025-11-21); widest discount among them -11.6%; RFI median +2.8%, beat REITs 52%
+weeks with the gap below +1 point: 611; with discount -8% or wider among them: 51; of those, median RFI +41.7%, beat REITs 88%
+gap -9 to 0: 289 weeks, discount range -11.6% to 11.7%, edge per 1 pt wider discount +0.93 pts
 gap 0 to 2: 875 weeks, discount range -19.6% to 19.4%, edge per 1 pt wider discount +0.57 pts
 gap 2 to 4: 270 weeks, discount range -11.5% to 13.4%, edge per 1 pt wider discount +0.79 pts
 gap 4 to 99: 23 weeks, discount range -17.1% to -3.2%, edge per 1 pt wider discount +2.95 pts

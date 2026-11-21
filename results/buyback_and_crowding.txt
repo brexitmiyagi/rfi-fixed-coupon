@@ -1,0 +1,20 @@
+10% buyback at $10.21 (NAV $11.16): 2,676,164 shares, $27.32m spent
+  one-time gain to remaining holders $2.54m, $0.106 a share
+  adviser fees lost 0.74% x $27.32m = $202k a year, 0.036% of Cohen & Steers' 2025 revenue; the holders' gain equals 12.6 years of those fees
+Cohen & Steers 13F Sep 30: Welltower 34.3m shares, $7.90bn, 13.2% of a $59.6bn book
+  days to sell at 20% of Aug 19-Nov 18 average volume: Welltower 62, rank 3 of 15; median of the 15 45; longest BXP 81
+  BXP: 22.5m shares, ADV 1.38m, 81 days
+  OHI: 29.5m shares, ADV 2.01m, 74 days
+  WELL: 34.3m shares, ADV 2.78m, 62 days
+  DLR: 26.7m shares, ADV 2.22m, 60 days
+  EXR: 14.4m shares, ADV 1.35m, 53 days
+  SUI: 14.8m shares, ADV 1.45m, 51 days
+  KIM: 56.2m shares, ADV 5.81m, 48 days
+  ESS: 4.9m shares, ADV 0.55m, 45 days
+  PLD: 29.0m shares, ADV 3.68m, 39 days
+  CCI: 32.4m shares, ADV 4.28m, 38 days
+  IRM: 11.4m shares, ADV 1.56m, 36 days
+  EQIX: 3.0m shares, ADV 0.57m, 26 days
+  PSA: 4.7m shares, ADV 0.94m, 25 days
+  SPG: 6.0m shares, ADV 1.29m, 23 days
+  AMT: 12.2m shares, ADV 2.83m, 21 days

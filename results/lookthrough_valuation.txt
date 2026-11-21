@@ -1,9 +1,9 @@
 ticker                   metric   mid  multiple  earnings_yield_pct  div_yield_pct  weight_jun30_pct
-  WELL normalized FFO per share  6.50     38.04                2.63           1.38             13.15
-   DLR       core FFO per share  8.32     21.42                4.67           2.74              7.00
-  EQIX           AFFO per share 43.91     23.61                4.24            NaN              2.90
-   IRM           AFFO per share  5.97     18.72                5.34           3.55              2.30
-combined June 30 weight 25.35%, weighted cash-earnings yield 3.62% vs 10-year 5.07%
-Welltower now if unchanged since June 30: 183,335 x $247.25 = $45.33m, about 14.8% of NAV (June 30 share count)
-a 20% fall in Welltower takes about 2.96% off NAV = $0.34 a share
-hedge: shorting Welltower worth 14.8% of NAV is 16.2% of the money you put into RFI at $10.45
+  WELL normalized FFO per share  6.50     36.98                2.70           1.41             13.15
+   DLR       core FFO per share  8.32     19.51                5.12           3.00              7.00
+  EQIX           AFFO per share 43.91     22.05                4.54            NaN              2.90
+   IRM           AFFO per share  5.97     17.12                5.84           3.89              2.30
+combined June 30 weight 25.35%, weighted cash-earnings yield 3.87% vs 10-year 4.92%
+Welltower now if unchanged since June 30: 183,335 x $240.34 = $44.06m, about 14.8% of NAV (June 30 share count)
+a 20% fall in Welltower takes about 2.95% off NAV = $0.33 a share
+hedge: shorting Welltower worth 14.8% of NAV is 16.1% of the money you put into RFI at $10.21

@@ -9,8 +9,8 @@ period
 2026-06-30   36821274.0            13.22         226.97         13.15
 2026-09-30   34298794.0            13.25         230.24           NaN
 Cohen & Steers Welltower stake at Sep 30, 2026: 34,298,794 shares, $7.90bn, 4.68% of the 733,609,863 shares outstanding on 2026-10-23
-that's 11.9 days of Welltower's average daily volume (2,874,291 shares, 06/29/2026 to 11/18/2026, Nasdaq)
+that's 11.9 days of Welltower's average daily volume (2,883,324 shares, 06/29/2026 to 11/20/2026, Nasdaq)
 Q3 2026 change in the firm's Welltower shares: -6.9%
-if RFI cut by the same share in Q3: 170,775 shares x $247.25 = $42.22m, 13.8% of NAV; if it didn't: 14.8%
+if RFI cut by the same share in Q3: 170,775 shares x $240.34 = $41.04m, 13.7% of NAV; if it didn't: 14.8%
 Welltower close Sep 30, 2026 (Nasdaq): $230.24; implied from the 13F: $230.24
-range for RFI's Welltower weight now: 13.8% to 14.8% of NAV; a 20% Welltower fall takes 2.76% to 2.96% off NAV ($0.32 to $0.34 a share); hedge 15.1% to 16.2% of the money in RFI
+range for RFI's Welltower weight now: 13.7% to 14.8% of NAV; a 20% Welltower fall takes 2.75% to 2.95% off NAV ($0.31 to $0.33 a share); hedge 15.0% to 16.1% of the money in RFI
