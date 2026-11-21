@@ -1,0 +1,16 @@
+ticker,trading_days,avg_daily_volume,median_daily_volume,source
+WELL,65,2778311,2440377,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+DLR,65,2218184,1843723,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+PLD,65,3678243,3451054,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+EQIX,65,571889,550114,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+CCI,65,4275287,3569762,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+AMT,65,2831806,2649218,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+EXR,65,1349447,1206956,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+SUI,65,1448151,1118447,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+BXP,65,1381306,1312784,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+OHI,65,2005232,1948090,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+PSA,65,942971,862280,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+ESS,65,549422,515727,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+IRM,65,1559438,1406375,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+KIM,65,5808604,5311104,api.nasdaq.com historical 2026-08-19 to 2026-11-18
+SPG,65,1289978,1165251,api.nasdaq.com historical 2026-08-19 to 2026-11-18

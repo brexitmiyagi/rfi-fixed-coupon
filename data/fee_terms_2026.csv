@@ -1,0 +1,6 @@
+item,value,source
+advisory_fee_pct_of_avg_daily_net_assets,0.70,RFI N-CSRS June 30 2026 note 2 (https://www.sec.gov/Archives/edgar/data/891290/000119312526383174/d131749dncsrs.htm)
+administration_fee_to_adviser_pct,0.04,same note
+common_shares_outstanding_2026_06_30,26761638,same report statement of assets and liabilities
+repurchase_authority_pct_2026,10,same report: up to 10% of shares outstanding as of January 1 2026 through December 31 2026
+cohen_steers_inc_revenue_2025_usd,556116000,SEC XBRL companyfacts CIK 1284812 RevenueFromContractWithCustomerIncludingAssessedTax FY2025 10-K accession 0001284812-26-000011
