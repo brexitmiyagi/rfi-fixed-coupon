@@ -16,10 +16,10 @@ P = os.path.join(DATA, "cef_panel")
 # promised about twice the narrowing that actually showed up after 2016. Each window's miss is demeaned, so the
 # simulation's average discount equals that forecast and the windows only supply the spread and the link to REITs.
 PANEL = (0.4413, -0.0005, -0.2570)   # post-2016 fit in panel_out_of_sample.txt (after the SRV/TYG data fix, CHECKS.md item 17)
-FUNDS = {  # Nov 18, 2026 close (Nasdaq / CEF Connect), current regular monthly payout x 12, Welltower % of net assets (Jun 30 N-PORT)
-    "RFI": dict(price=10.45, nav=11.44, payout=0.96, well_pct=14.3),   # 13.8-14.8% today, midpoint
-    "RQI": dict(price=11.45, nav=12.79, payout=1.08, well_pct=17.94),
-    "RNP": dict(price=18.55, nav=20.89, payout=1.632, well_pct=11.18),
+FUNDS = {  # Nov 20, 2026 close (Nasdaq / CEF Connect), current regular monthly payout x 12, Welltower % of net assets (Jun 30 N-PORT)
+    "RFI": dict(price=10.21, nav=11.16, payout=0.96, well_pct=14.3),   # 13.8-14.8% today, midpoint
+    "RQI": dict(price=11.10, nav=12.34, payout=1.08, well_pct=17.94),
+    "RNP": dict(price=18.06, nav=20.40, payout=1.632, well_pct=11.18),
 }
 WELL_INDEX = 11.08   # Welltower % of FTSE Nareit All Equity REITs, Oct 30, 2026 (Nareit constituents file)
 
@@ -59,7 +59,7 @@ rel = (px.WELL.pct_change(252) - px.VNQ.pct_change(252)).dropna() * 100
 WELL_SD = rel.std()          # 12-month Welltower-minus-VNQ price return, overlapping, 2022-2026
 
 vr = pd.read_csv(os.path.join(RESULTS, "reit_valuation_return.csv"))
-base_E = 5.68     # post-1990 months within 1 pt of today's yield gap: median forward return (reit_valuation_return.txt)
+base_E = 4.84     # post-1990 months within 1 pt of today's yield gap: median forward return (reit_valuation_return.txt)
 settings = {"valuation-adjusted base": base_E,
             "regression since 1990": float(vr.loc[vr.start == "1990-01", "pred"].iloc[0]),
             "unconditional": None}
@@ -121,7 +121,7 @@ for _, r in S.iterrows():
     lines.append(f"{r.fund} | {r.setting} (REITs {r.expected_reit:+.2f}%): beta {r.beta}, {r.windows} windows from {r.first_window}; discount {r.discount_now} -> forecast {r.discount_forecast}; "
                  f"expected price ${r.exp_price:.2f} (median ${r.median_price:.2f}); total return mean {r.exp_total:+.1f}%, 5/10/25/50/75/90th {r.p5}/{r.p10}/{r.p25}/{r.p50}/{r.p75}/{r.p90}; "
                  f"loss {r.prob_loss}%; sd {r.sd}, (mean - 10y)/sd {r.excess_over_10y_per_risk}; edge over REITs {r.exp_edge:+.1f} pts (sd {r.edge_sd}), beats REITs {r.prob_beat_reits}%; corr(REIT return, discount change) {r.corr_reit_vs_disc_change}")
-for px_in in (10.45, 10.29, 9.94):
+for px_in in (10.21, 10.03, 9.94):
     tt = ((keep["price"] + FUNDS["RFI"]["payout"]) / px_in - 1) * 100
     lines.append(f"RFI bought at ${px_in:.2f}, valuation-adjusted base: mean {tt.mean():+.1f}%, median {np.median(tt):+.1f}%, 5th {np.percentile(tt,5):+.1f}%, loss {(tt<0).mean()*100:.1f}%, edge over REITs {(tt-keep['bench']).mean():+.1f} pts")
 save("joint_simulation.txt", "\n".join(lines) + "\n")

@@ -49,7 +49,7 @@ for _ in range(60):
     mid = (from_lo + from_hi) / 2
     from_lo, from_hi = (mid, from_hi) if ev_at(mid) > ev_b else (from_lo, mid)
 breakeven = mid
-entry = [(px, ev_at(px), ev_at(px) - ev_b) for px in (9.94, 10.29, 10.45, 10.82)]
+entry = [(px, ev_at(px), ev_at(px) - ev_b) for px in (9.94, 10.03, 10.21, 10.82)]
 # a stress case outside the weights: the 10th percentile benchmark year (2008-type years sit below it),
 # bear-case manager, and the 10th percentile discount
 b10 = np.percentile(full.blended_benchmark, 10)

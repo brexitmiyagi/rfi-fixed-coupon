@@ -19,7 +19,7 @@ n["t10"] = n.ym.map(t10)
 n = n.dropna().reset_index(drop=True)
 n["gap"] = n.yld - n.t10
 n["fwd12"] = (n.tri.shift(-12) / n.tri - 1) * 100
-gap_now = 3.77 - s["ust_10y"]   # Nareit All Equity dividend yield Oct 30, 2026 vs the 10-year on Nov 18
+gap_now = 3.77 - s["ust_10y"]   # Nareit All Equity dividend yield Oct 30, 2026 vs the 10-year on Nov 20
 out = []
 for start in ["1972-01", "1990-01", "2000-01"]:
     d = n[(n.ym >= pd.Period(start)) & n.fwd12.notna()]
@@ -33,7 +33,7 @@ for start in ["1972-01", "1990-01", "2000-01"]:
 O = pd.DataFrame(out)
 O.round(3).to_csv(os.path.join(RESULTS, "reit_valuation_return.csv"), index=False)
 n[["date", "yld", "t10", "gap", "fwd12"]].round(3).to_csv(os.path.join(RESULTS, "reit_yield_gap_monthly.csv"), index=False)
-lines = [f"REIT dividend yield 3.77% (Oct 30, 2026) minus the 10-year {s['ust_10y']}% (Nov 18) = {gap_now:+.2f} pts"]
+lines = [f"REIT dividend yield 3.77% (Oct 30, 2026) minus the 10-year {s['ust_10y']}% (Nov 20) = {gap_now:+.2f} pts"]
 below = (n.gap <= gap_now).mean() * 100
 lines.append(f"months since {n.date.iloc[0].date()} with a gap this low or lower: {below:.1f}%; lowest {n.gap.min():+.2f} ({n.loc[n.gap.idxmin(),'date'].date()})")
 for r in out:

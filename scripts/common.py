@@ -10,7 +10,7 @@ PAYOUT = 0.96  # $0.08 a month, every month since the 2016 switch back to monthl
 
 
 def snap():
-    s = pd.read_csv(os.path.join(DATA, "snapshot_2026_11_18.csv")).set_index("item")["value"]
+    s = pd.read_csv(os.path.join(DATA, "snapshot_2026_11_20.csv")).set_index("item")["value"]
     return s.astype(float)
 
 

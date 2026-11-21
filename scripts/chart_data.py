@@ -10,9 +10,12 @@ out = os.path.join(RESULTS, "charts")
 os.makedirs(out, exist_ok=True)
 
 d = dists()
-reg = d[d.special.isna()].groupby(d.ex_date.dt.year).amount.sum()
+# CEF Connect only flags some extras with "S". Two more are year-end gains payouts on top of December's regular
+# $0.08 (Dec 23, 2020: $0.05; Dec 27, 2022: $0.266), so I leave them out of the regular line by date.
+extra = d.ex_date.isin(pd.to_datetime(["2020-12-23", "2022-12-27"]))
+reg = d[d.special.isna() & ~extra].groupby(d.ex_date.dt.year).amount.sum()
 c1 = pd.DataFrame({"Year": a.year, "Net investment income per share": a.nii_per_share,
-                   "Regular payout per share (no specials)": a.year.map(reg).round(4)})
+                   "Regular payout per share (no year-end extras)": a.year.map(reg).round(4)})
 c1.to_csv(os.path.join(out, "c1_who_pays.csv"), index=False)
 
 c2 = pd.DataFrame({"Year": a.year, "RFI book income yield (NII + expenses, % of net assets)": (a.nii_ratio_pct + a.expense_ratio_pct).round(2),
@@ -84,7 +87,7 @@ c10 = pd.DataFrame({"Holding": c10.name.map(lambda n: short.get(n, n)), "Contrib
 c10.to_csv(os.path.join(out, "c10_contributors.csv"), index=False)
 v = pd.read_csv(os.path.join(RESULTS, "lookthrough_valuation.csv"))
 c11 = pd.DataFrame({"Holding": v.name, "Weight in RFI (Jun 30)": v.weight_jun30_pct.map(lambda x: f"{x:.2f}%"),
-                    "Price (Nov 18)": v.price_2026_11_18.map(lambda x: f"${x:.2f}"),
+                    "Price (Nov 20)": v.price_2026_11_20.map(lambda x: f"${x:.2f}"),
                     "2026 guidance": [f"${lo:.2f}-{hi:.2f} {k.replace(' per share','')}" for lo, hi, k in zip(v.metric_2026_low, v.metric_2026_high, v.metric)],
                     "Multiple": v.multiple.map(lambda x: f"{x:.1f}x"), "Cash-earnings yield": v.earnings_yield_pct.map(lambda x: f"{x:.2f}%")})
 c11.to_csv(os.path.join(out, "c11_lookthrough.csv"), index=False)
@@ -125,13 +128,13 @@ pd.DataFrame({"Source": ["Welltower overweight", "Every other REIT position"],
 js = pd.read_csv(os.path.join(RESULTS, "joint_simulation.csv"))
 b = js[js.setting == "valuation-adjusted base"].set_index("fund")
 lev = {"RFI": "almost none", "RQI": "24.9%", "RNP": "26.7%"}
-pd.DataFrame({"Fund": b.index, "Discount Nov 18": b.discount_now.map(lambda x: f"{x:.2f}%"), "Borrowing / assets": [lev[f] for f in b.index],
+pd.DataFrame({"Fund": b.index, "Discount Nov 20": b.discount_now.map(lambda x: f"{x:.2f}%"), "Borrowing / assets": [lev[f] for f in b.index],
               "REIT beta": b.beta, "Expected total return": b.exp_total.map(lambda x: f"{x:+.1f}%"), "Worst 5% from": b.p5.map(lambda x: f"{x:+.1f}%"),
               "Chance of loss": b.prob_loss.map(lambda x: f"{x:.0f}%"), "Edge over REITs": b.exp_edge.map(lambda x: f"{x:+.1f} pts"),
               "Beats REITs": b.prob_beat_reits.map(lambda x: f"{x:.0f}%"), "If valuations bite": js[js.setting == "regression since 1990"].set_index("fund").exp_total.map(lambda x: f"{x:+.1f}%")}).to_csv(
     os.path.join(out, "c18_three_funds.csv"), index=False)
 r = js[(js.fund == "RFI") & ~js.setting.str.contains("common")]
-names = {"valuation-adjusted base": "Base: REITs earn 5.7%", "regression since 1990": "Valuations bite: REITs -1.3%", "unconditional": "History repeats: REITs 11.4%"}
+names = {"valuation-adjusted base": "Base: REITs earn 4.8%", "regression since 1990": "Valuations bite: REITs -0.5%", "unconditional": "History repeats: REITs 11.4%"}
 pd.DataFrame({"Case": r.setting.map(names), "Expected price in 12 months": r.exp_price.map(lambda x: f"${x:.2f}"),
               "Expected total return": r.exp_total.map(lambda x: f"{x:+.1f}%"), "Median": r.p50.map(lambda x: f"{x:+.1f}%"),
               "5th percentile": r.p5.map(lambda x: f"{x:+.1f}%"), "90th percentile": r.p90.map(lambda x: f"{x:+.1f}%"),

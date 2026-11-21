@@ -21,6 +21,6 @@ lines = [
     f"regular payments of exactly $0.08 on record: {monthly8}",
     f"CPI Nov 1993 {c0:.1f}, latest ({cpi.index[-1].date()}) {c1:.3f}, ratio {c1/c0:.4f}",
     f"$0.96 a year in Nov 1993 dollars: ${real:.3f} ({(real/PAYOUT-1)*100:.1f}%)",
-    f"10-year Treasury, Nov 1993 average {y['1993-11'].mean():.2f}%, Dec 1995 average {y['1995-12'].mean():.2f}%, 18 Nov 2026 {s['ust_10y']:.2f}%",
+    f"10-year Treasury, Nov 1993 average {y['1993-11'].mean():.2f}%, Dec 1995 average {y['1995-12'].mean():.2f}%, 20 Nov 2026 {s['ust_10y']:.2f}%",
 ]
 save("coupon_history.txt", "\n".join(lines) + "\n")

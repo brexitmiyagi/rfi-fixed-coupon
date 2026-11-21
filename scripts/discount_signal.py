@@ -8,7 +8,7 @@ import sys, json
 A, B_D, C_DEV = 0.2822, -0.0923, -0.3200
 P = os.path.join(DATA, "cef_panel")
 U = pd.read_csv(os.path.join(P, "universe.csv"))
-cur = pd.read_csv(sys.argv[1] if len(sys.argv) > 1 else os.path.join(DATA, "cef_panel", "current_discounts_2026_11_18.csv")).set_index("ticker").discount
+cur = pd.read_csv(sys.argv[1] if len(sys.argv) > 1 else os.path.join(DATA, "cef_panel", "current_discounts_2026_11_20.csv")).set_index("ticker").discount
 rows = []
 for t in U.ticker:
     f = os.path.join(P, t + ".json")

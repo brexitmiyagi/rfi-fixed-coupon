@@ -1,11 +1,11 @@
 # What the four stocks that paid for the check trade at, on each company's own 2026 guidance.
 from common import *
 
-v = pd.read_csv(os.path.join(DATA, "lookthrough_valuation_2026_11_18.csv"))
+v = pd.read_csv(os.path.join(DATA, "lookthrough_valuation_2026_11_20.csv"))
 v["mid"] = (v.metric_2026_low + v.metric_2026_high) / 2
-v["multiple"] = v.price_2026_11_18 / v["mid"]
-v["earnings_yield_pct"] = v["mid"] / v.price_2026_11_18 * 100
-v["div_yield_pct"] = v.annual_dividend / v.price_2026_11_18 * 100
+v["multiple"] = v.price_2026_11_20 / v["mid"]
+v["earnings_yield_pct"] = v["mid"] / v.price_2026_11_20 * 100
+v["div_yield_pct"] = v.annual_dividend / v.price_2026_11_20 * 100
 h = pd.read_csv(os.path.join(RESULTS, "nport_holdings_panel.csv"))
 cus = {"WELL": "95040Q104", "DLR": "253868103", "EQIX": "29444U700", "IRM": "46284V101"}
 last = h.date.max()
@@ -15,7 +15,7 @@ s = snap()
 wy = (v.weight_jun30_pct * v.earnings_yield_pct).sum() / v.weight_jun30_pct.sum()
 # Welltower's weight today if the fund still holds the June 30 shares (the September N-PORT isn't out yet)
 w = pd.read_csv(os.path.join(RESULTS, "welltower_position.csv")).iloc[-1]
-well_px = v.set_index("ticker").loc["WELL", "price_2026_11_18"]
+well_px = v.set_index("ticker").loc["WELL", "price_2026_11_20"]
 sh = pd.read_csv(os.path.join(DATA, "ncsrs_2026_facts.csv")).set_index("item")["value"].astype(float)["shares_outstanding_2026_06_30"]
 w_now = w.units * well_px / (s["rfi_nav"] * sh) * 100
 lines = [v[["ticker", "metric", "mid", "multiple", "earnings_yield_pct", "div_yield_pct", "weight_jun30_pct"]].round(2).to_string(index=False),

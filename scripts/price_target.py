@@ -15,7 +15,7 @@ s = snap()
 f = FUNDS["RFI"]
 C = pd.read_csv(os.path.join(RESULTS, "simulation_calibration.csv"))
 reit_miss = (C.bench_actual - C.v_E).mean()
-base_E = 5.68
+base_E = 4.84   # post-1990 months within 1 pt of the Nov 20 yield gap (reit_valuation_return.txt); 5.68 on Nov 18
 
 w = weekly_fund("RFI")
 m = w.groupby(w.index.to_period("M")).last()
@@ -86,4 +86,9 @@ for _ in range(40):
     else:
         lo_c = mid
 lines.append(f"   correction at which RFI's expected return equals the 10-year: {mid:+.2f} pts (REITs {base_E+mid:+.2f}%)")
+# Where the corrected case clears the 10-year. The expected price a year out depends on NAV and the discount
+# forecast, not on what you pay, so the break-even entry price is (expected price + payout) / (1 + 10-year).
+bc_row = pd.read_csv(os.path.join(RESULTS, "price_target.csv")).iloc[1]
+be_px = (bc_row.exp_price + f["payout"]) / (1 + s["ust_10y"] / 100)
+lines.append(f"corrected case clears the {s['ust_10y']}% 10-year below ${be_px:.2f}, a discount of {(be_px/f['nav']-1)*100:.1f}% to today's NAV (the 10.1% buy line sits below that)")
 save("price_target.txt", "\n".join(lines) + "\n")

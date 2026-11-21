@@ -5,7 +5,7 @@ import numpy as np
 df = weekly()
 s = snap()
 disc_now = (s["rfi_close"] / s["rfi_nav"] - 1) * 100
-lines = [f"discount 18 Nov 2026: {disc_now:.2f}% (close {s['rfi_close']}, NAV {s['rfi_nav']})"]
+lines = [f"discount 20 Nov 2026: {disc_now:.2f}% (close {s['rfi_close']}, NAV {s['rfi_nav']})"]
 for a in ["1996", "2016-10"]:
     x = df[a:].discount_pct
     lines.append(f"weekly since {a}: median {x.median():.2f}%, share of weeks at or below today {(x<=disc_now).mean()*100:.1f}%")

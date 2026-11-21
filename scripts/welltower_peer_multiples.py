@@ -8,8 +8,8 @@ import re, subprocess, statistics as st
 
 g = pd.read_csv(os.path.join(DATA, "health_care_reit_guidance_2026.csv"))
 g["mid"] = (g.guide_low + g.guide_high) / 2
-g["p_ffo"] = g.close_2026_11_18 / g.mid
-lines = ["Company guidance, Nov 18 close:"] + [f"  {r.ticker}: ${r.close_2026_11_18:.2f} / ${r.mid:.3f} ({r.metric}) = {r.p_ffo:.1f}x" for _, r in g.iterrows()]
+g["p_ffo"] = g.close_2026_11_20 / g.mid
+lines = ["Company guidance, Nov 20 close:"] + [f"  {r.ticker}: ${r.close_2026_11_20:.2f} / ${r.mid:.3f} ({r.metric}) = {r.p_ffo:.1f}x" for _, r in g.iterrows()]
 
 txt = subprocess.run(["pdftotext", "-layout", os.path.join(DATA, "nareit", "RW2610.pdf"), "-"], capture_output=True, text=True).stdout.split("\n")
 start = next(i for i, l in enumerate(txt) if "Price/FFO" in l and "Share Price" in l)

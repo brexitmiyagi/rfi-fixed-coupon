@@ -13,7 +13,7 @@ w["rfi_minus_rqi"] = w.RFI - w.RQI
 s = snap()
 gap_now = (s["rfi_close"]/s["rfi_nav"] - s["rqi_close"]/s["rqi_nav"]) * 100
 lines = [t.round(2).to_string(),
-         f"RFI minus RQI discount, 18 Nov 2026: {gap_now:+.2f} pts"]
+         f"RFI minus RQI discount, 20 Nov 2026: {gap_now:+.2f} pts"]
 for a in ["2016", "2021"]:
     x = w[a:].rfi_minus_rqi
     lines.append(f"weekly since {a}: median {x.median():+.2f} pts, share of weeks at or below today {(x<=gap_now).mean()*100:.1f}%")

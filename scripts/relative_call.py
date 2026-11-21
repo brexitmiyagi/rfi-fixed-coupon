@@ -35,7 +35,7 @@ e = lambda t, bb: np.mean(t - bb)
 beta_part = (coef0[1] - 1) * np.mean(b3)
 lines += [f"edge over REITs {e(t_full,b):+.2f} pts = discount narrowing {e(t_full,b)-e(t_nn,b2):+.2f} + manager's NAV edge {e(t_nn,b2)-e(t_na,b3):+.2f} "
           f"+ beta below 1 {beta_part:+.2f} + carry and the rest {e(t_na,b3)-beta_part:+.2f}"]
-cases = [("model: discount narrows to %.1f%%" % pred_model, None), ("discount stays at today's %.2f%%" % d0, d0), ("post-2016 median for RFI-like cases, -8.74%", -8.74)]
+cases = [("model: discount narrows to %.1f%%" % pred_model, None), ("discount stays at today's %.2f%%" % d0, d0), ("post-2016 median for RFI-like cases, -8.88%", -8.88)]
 rows = []
 for lab, pr in cases:
     t, bb, p1, _ = run(pred=pr)

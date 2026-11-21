@@ -55,7 +55,7 @@ fc, f18 = np.array(first_cross), np.array(first_18)
 c13, hit10, hit18 = (fc <= 13).sum(), (fc <= 36).sum(), (f18 <= 36).sum()
 low13 = nav13
 lines = [
-    f"payout/NAV on Nov 18: {PAYOUT/nav0*100:.2f}% at NAV ${nav0:.2f}",
+    f"payout/NAV on Nov 20: {PAYOUT/nav0*100:.2f}% at NAV ${nav0:.2f}",
     f"March 2009 cut ($1.35 to $0.60 a year): payout/NAV ran {pre_cut.min():.1f}% to {pre_cut.max():.1f}% from June 2008 to February 2009",
     f"highest payout/NAV before June 2008, when the run-up to the cut began: {before.max():.2f}% (week of {before.idxmax().date()}); threshold used below: {no_cut_max:.2f}%",
     f"since the 2009 reset the high was {post_max:.2f}% (week of {post_week}), no cut",

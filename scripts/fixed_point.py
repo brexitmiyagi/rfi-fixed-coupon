@@ -6,7 +6,7 @@ import numpy as np
 df = weekly()
 s = snap()
 tri = nav_total_return_index(df)
-end_day = pd.Timestamp("2026-11-18")
+end_day = pd.Timestamp("2026-11-20")
 d = dists().set_index("ex_date")["amount"]
 
 def ann_tr(start):

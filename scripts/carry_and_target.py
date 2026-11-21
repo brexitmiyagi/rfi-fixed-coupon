@@ -33,7 +33,7 @@ lines.append(f"for comparison only, RFI's own-episode median (-1.37%) on a 1% lo
 lines.append(f"carry-only buy level (fee fully covered): {(fee_neutral_pn-1)*100:.2f}% discount = ${N*fee_neutral_pn:.2f} on today's NAV")
 rows = []
 for nav_chg in [-10, -5, 0, 5]:
-    for d in [-10.63, -8.65, -7.22, -3.48]:
+    for d in [-10.63, -8.51, -7.22, -3.48]:
         n1 = N * (1 + nav_chg / 100); p1 = n1 * (1 + d / 100)
         rows.append((nav_chg, d, round(p1, 2), round(((p1 + PAYOUT) / P - 1) * 100, 1)))
 sc = pd.DataFrame(rows, columns=["nav_change_pct", "discount_pct", "price", "total_return_pct"])

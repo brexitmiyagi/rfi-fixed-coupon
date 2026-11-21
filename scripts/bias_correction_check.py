@@ -1,5 +1,5 @@
 # Does the -5.9 pt correction punish the same thing twice? The real-time REIT assumption was usually high in
-# 2005-2025 (REITs looked cheap against bonds), and today's is already low (5.7%). If the miss was mostly a
+# 2005-2025 (REITs looked cheap against bonds), and today's is already low (4.8%). If the miss was mostly a
 # high-assumption problem, today's correction should be smaller. Three checks on the 250 month-ends in
 # simulation_calibration.csv (overlapping 12-month windows, so Newey-West errors with 12 lags):
 #   1. regress the miss (actual REIT return minus the assumed one) on the assumption itself
@@ -14,7 +14,7 @@ G = pd.read_csv(os.path.join(RESULTS, "reit_yield_gap_monthly.csv"), parse_dates
 G["start"] = G.date.dt.to_period("M").astype(str)
 C = C.merge(G[["start", "gap"]], on="start", how="left")
 C["miss"] = C.bench_actual - C.v_E
-E_NOW, GAP_NOW = 5.68, -1.30
+E_NOW, GAP_NOW = 4.84, -1.15   # Nov 20: reit_valuation_return.txt
 hac = dict(cov_type="HAC", cov_kwds={"maxlags": 12})
 lines = [f"{len(C)} month-ends, {C.start.min()} to {C.start.max()}; assumption ranged {C.v_E.min():.1f}% to {C.v_E.max():.1f}%, gap {C.gap.min():+.2f} to {C.gap.max():+.2f}"]
 m0 = sm.OLS(C.miss, np.ones(len(C))).fit(**hac)

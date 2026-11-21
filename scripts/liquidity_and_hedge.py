@@ -1,6 +1,6 @@
 # Can you put money into it, and what's the clean hedge?
-# Size: common shares and net assets from the June 30, 2026 semi-annual report, valued at the Nov 18 close.
-# Liquidity: daily volume from Nasdaq. Hedge: weekly price returns over the three years to Nov 18, 2026,
+# Size: common shares and net assets from the June 30, 2026 semi-annual report, valued at the Nov 20 close.
+# Liquidity: daily volume from Nasdaq. Hedge: weekly price returns over the three years to Nov 20, 2026,
 # RFI regressed on VNQ and on Welltower's return over VNQ, so the short is VNQ for sector beta plus WELL for the extra.
 from common import *
 import numpy as np
@@ -35,7 +35,7 @@ w_vnq = b[1] - b[2]
 hedged = r.RFI - (w_vnq * r.VNQ + w_well * r.WELL)
 v = pd.read_excel(os.path.join(DATA, "nareit", "MonthlyHistoricalReturns.xls"), sheet_name="Index Data", header=None)
 reit_yield = float(pd.to_numeric(v[27], errors="coerce").dropna().iloc[-1])  # All Equity REITs dividend yield, latest month
-well_yield = 0.85 * 4 / 247.25 * 100   # Welltower's $0.85 quarterly dividend at the Nov 18 close
+well_yield = 0.85 * 4 / 240.34 * 100   # Welltower's $0.85 quarterly dividend at the Nov 20 close
 rfi_yield = PAYOUT / s["rfi_close"] * 100
 carry = rfi_yield - w_vnq * reit_yield - w_well * well_yield
 lines = [
