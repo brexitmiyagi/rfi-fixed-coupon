@@ -1,8 +1,8 @@
-since 1997-01 (359 months): NAV total return, % per 1 pt rise in the 10-year -0.68 (t -0.46, 95% -3.55 to +2.19, R2 0.00)
-since 1997-01 (359 months): discount change, pts per 1 pt rise in the 10-year -0.23 (t -0.30, 95% -1.73 to +1.27, R2 0.00)
-since 2016-10 (122 months): NAV total return, % per 1 pt rise in the 10-year -6.26 (t -2.67, 95% -10.86 to -1.66, R2 0.13)
-since 2016-10 (122 months): discount change, pts per 1 pt rise in the 10-year +0.12 (t 0.18, 95% -1.20 to +1.44, R2 0.00)
-10-year to 6.00% (+0.93 pts), betas since 1997-01: NAV $11.37 (-0.6%), discount -8.87%, price $10.36
-10-year to 6.00% (+0.93 pts), betas since 2016-10: NAV $10.77 (-5.8%), discount -8.54%, price $9.85
-10-year to 4.00% (-1.07 pts), betas since 1997-01: NAV $11.52 (+0.7%), discount -8.41%, price $10.55
-10-year to 4.00% (-1.07 pts), betas since 2016-10: NAV $12.21 (+6.7%), discount -8.78%, price $11.13
+since 1997-01 (359 months): NAV total return, % per 1 pt rise in the 10-year -0.69 (t -0.47, 95% -3.56 to +2.18, R2 0.00)
+since 1997-01 (359 months): discount change, pts per 1 pt rise in the 10-year -0.23 (t -0.29, 95% -1.73 to +1.28, R2 0.00)
+since 2016-10 (122 months): NAV total return, % per 1 pt rise in the 10-year -6.29 (t -2.69, 95% -10.88 to -1.70, R2 0.13)
+since 2016-10 (122 months): discount change, pts per 1 pt rise in the 10-year +0.13 (t 0.20, 95% -1.19 to +1.45, R2 0.00)
+10-year to 6.00% (+1.08 pts), betas since 1997-01: NAV $11.08 (-0.7%), discount -8.76%, price $10.11
+10-year to 6.00% (+1.08 pts), betas since 2016-10: NAV $10.40 (-6.8%), discount -8.37%, price $9.53
+10-year to 4.00% (-0.92 pts), betas since 1997-01: NAV $11.23 (+0.6%), discount -8.30%, price $10.30
+10-year to 4.00% (-0.92 pts), betas since 2016-10: NAV $11.81 (+5.8%), discount -8.63%, price $10.79

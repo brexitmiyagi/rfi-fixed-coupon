@@ -5,7 +5,7 @@ ep
 2   2011-09-30  2011-11-30       2        8.56    11.21       17.04      15.76
 3   2018-12-31  2018-12-31       1        8.11    11.84       20.19      20.19
 4   2020-03-31  2020-06-30       3        8.81    10.90        9.79       8.25
-5   2022-09-30  2026-11-30      43        9.57    10.03        9.30       6.34
-completed months at >=8%: 52, mean next-3y NAV TR 17.5%, lowest 6.3%
+5   2022-09-30  2026-11-30      43        9.57    10.03        9.20       6.34
+completed months at >=8%: 52, mean next-3y NAV TR 17.4%, lowest 6.3%
 months below 8%: mean next-3y NAV TR 7.8%
-regression next-3y NAV TR on payout/NAV, 1996-2023 starts: slope 4.03, HAC t 6.46, R2 0.49, n 325 (overlapping windows, few independent episodes)
+regression next-3y NAV TR on payout/NAV, 1996-2023 starts: slope 4.03, HAC t 6.45, R2 0.48, n 325 (overlapping windows, few independent episodes)

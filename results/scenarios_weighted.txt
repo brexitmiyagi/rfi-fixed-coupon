@@ -2,10 +2,10 @@ benchmark years 2005-2025, 25th/50th/75th percentile: -0.37% / 6.84% / 25.36%
 manager net excess: 2005-2025 average +0.72 pts, 2017-2025 average +1.65 pts
 Welltower: RFI ~14.3% of NAV vs 8.86% in the benchmark (80% x 11.08% of All Equity REITs on Oct 30, 2026); 20% relative fall costs -1.09 pts
 case  prob  reit_market  manager_vs_benchmark  nav_total_return  nav_in_12m  discount  price_in_12m  total_return  vs_benchmark
-bear  0.25        -0.37                 -2.03             -2.40       10.21    -10.63          9.12          -3.5          -3.2
-base  0.50         6.84                  0.72              7.56       11.34     -7.22         10.53           9.9           3.1
-bull  0.25        25.36                  1.65             27.01       13.57     -3.48         13.10          34.5           9.2
-probability-weighted price in 12 months: $10.82; total return 12.7% vs 9.7% for the benchmark in the same cases; edge +3.1 pts
-entry price -> weighted 12-month total return, and edge over the benchmark: $9.94: 18.5% (+8.8 pts); $10.29: 14.5% (+4.8 pts); $10.45: 12.7% (+3.1 pts); $10.82: 8.9% (-0.8 pts)
-entry price where the weighted return equals the benchmark's: $10.74
-stress (not weighted): benchmark -14.99% (10th percentile year), manager -2.03, discount -13.01% -> NAV $8.53, price $7.42, total -19.8%
+bear  0.25        -0.37                 -2.03             -2.40        9.93    -10.63          8.88          -3.7          -3.3
+base  0.50         6.84                  0.72              7.56       11.04     -7.22         10.25           9.8           2.9
+bull  0.25        25.36                  1.65             27.01       13.21     -3.48         12.75          34.3           9.0
+probability-weighted price in 12 months: $10.53; total return 12.6% vs 9.7% for the benchmark in the same cases; edge +2.9 pts
+entry price -> weighted 12-month total return, and edge over the benchmark: $9.94: 15.6% (+6.0 pts); $10.03: 14.6% (+4.9 pts); $10.21: 12.6% (+2.9 pts); $10.82: 6.2% (-3.5 pts)
+entry price where the weighted return equals the benchmark's: $10.48
+stress (not weighted): benchmark -14.99% (10th percentile year), manager -2.03, discount -13.01% -> NAV $8.30, price $7.22, total -19.9%

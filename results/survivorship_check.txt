@@ -1,11 +1,11 @@
 live funds: 36 funds, 1220 half-year pairs; dead funds: 27 funds with usable points, 141 pairs while listed, 20 priced endings (5 at NAV, 15 into another CEF)
-RFI on this half-year basis: discount -8.65%, -8.21 pts from its average of the last 3 years' June/December points
-live only (what the article used), all years: 1220 pairs, 36 funds; fit 0.142 -0.0623 d -0.2453 dev; RFI in a year -5.96%; RFI-like cases 56: median a year later -6.86%, narrower 57%
-live only (what the article used), start 2016+: 626 pairs, 36 funds; fit 0.400 +0.0056 d -0.2338 dev; RFI in a year -6.38%; RFI-like cases 23: median a year later -7.91%, narrower 52%
-live + dead while listed, all years: 1361 pairs, 62 funds; fit -0.053 -0.0629 d -0.2593 dev; RFI in a year -6.03%; RFI-like cases 62: median a year later -6.94%, narrower 56%
-live + dead while listed, start 2016+: 685 pairs, 49 funds; fit 0.196 +0.0053 d -0.2389 dev; RFI in a year -6.54%; RFI-like cases 23: median a year later -7.91%, narrower 52%
-live + dead incl. their endings, all years: 1380 pairs, 62 funds; fit -0.030 -0.0656 d -0.2622 dev; RFI in a year -5.96%; RFI-like cases 62: median a year later -6.94%, narrower 56%
-live + dead incl. their endings, start 2016+: 696 pairs, 49 funds; fit 0.245 +0.0025 d -0.2481 dev; RFI in a year -6.39%; RFI-like cases 23: median a year later -7.91%, narrower 52%
+RFI on this half-year basis: discount -8.51%, -8.07 pts from its average of the last 3 years' June/December points
+live only (what the article used), all years: 1220 pairs, 36 funds; fit 0.142 -0.0623 d -0.2453 dev; RFI in a year -5.86%; RFI-like cases 52: median a year later -6.46%, narrower 58%
+live only (what the article used), start 2016+: 626 pairs, 36 funds; fit 0.400 +0.0056 d -0.2338 dev; RFI in a year -6.27%; RFI-like cases 20: median a year later -8.01%, narrower 50%
+live + dead while listed, all years: 1361 pairs, 62 funds; fit -0.053 -0.0629 d -0.2593 dev; RFI in a year -5.94%; RFI-like cases 59: median a year later -6.75%, narrower 56%
+live + dead while listed, start 2016+: 685 pairs, 49 funds; fit 0.196 +0.0053 d -0.2389 dev; RFI in a year -6.43%; RFI-like cases 21: median a year later -8.01%, narrower 48%
+live + dead incl. their endings, all years: 1380 pairs, 62 funds; fit -0.030 -0.0656 d -0.2622 dev; RFI in a year -5.87%; RFI-like cases 59: median a year later -6.75%, narrower 56%
+live + dead incl. their endings, start 2016+: 696 pairs, 49 funds; fit 0.245 +0.0025 d -0.2481 dev; RFI in a year -6.29%; RFI-like cases 21: median a year later -8.01%, narrower 48%
 endings (start point -> value at the end):
   NRI 2007-04-30 -6.9% -> -5.9% (merger into NRO, delisted 2008-03-17)
   RPF 2008-12-31 -27.0% -> -18.7% (merger into RQI, delisted 2009-12-21)

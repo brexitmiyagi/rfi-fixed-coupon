@@ -1,12 +1,12 @@
-corrected case, REITs -0.24%; discount today -8.65%, model a year out -5.87%; NAV intercept +0.71, beta 0.90
-edge over REITs +4.64 pts = discount narrowing +2.81 + manager's NAV edge +0.71 + beta below 1 +0.03 + carry and the rest +1.09
-model: discount narrows to -5.9%: target $9.94, total return +4.3%, edge +4.6 pts, beats REITs 73%
-discount stays at today's -8.65%: target $9.65, total return +1.5%, edge +1.8 pts, beats REITs 61%
-post-2016 median for RFI-like cases, -8.74%: target $9.64, total return +1.4%, edge +1.8 pts, beats REITs 60%
-Welltower -30%: REITs -3.6%, RFI NAV $10.06, price $9.50, total return +0.1%, edge +3.7 pts, beats REITs 70%
-Welltower +0%: REITs -0.3%, RFI NAV $10.53, price $9.94, total return +4.3%, edge +4.6 pts, beats REITs 74%
-Welltower +20%: REITs +1.9%, RFI NAV $10.85, price $10.24, total return +7.2%, edge +5.3 pts, beats REITs 76%
+corrected case, REITs -1.08%; discount today -8.51%, model a year out -5.78%; NAV intercept +0.71, beta 0.90
+edge over REITs +4.65 pts = discount narrowing +2.72 + manager's NAV edge +0.71 + beta below 1 +0.12 + carry and the rest +1.10
+model: discount narrows to -5.8%: target $9.61, total return +3.5%, edge +4.7 pts, beats REITs 74%
+discount stays at today's -8.51%: target $9.33, total return +0.8%, edge +1.9 pts, beats REITs 61%
+post-2016 median for RFI-like cases, -8.88%: target $9.29, total return +0.4%, edge +1.6 pts, beats REITs 59%
+Welltower -30%: REITs -4.4%, RFI NAV $9.72, price $9.18, total return -0.6%, edge +3.7 pts, beats REITs 70%
+Welltower +0%: REITs -1.0%, RFI NAV $10.18, price $9.62, total return +3.6%, edge +4.7 pts, beats REITs 75%
+Welltower +20%: REITs +1.2%, RFI NAV $10.49, price $9.91, total return +6.5%, edge +5.3 pts, beats REITs 76%
 2016-2025, a year: RFI share price 7.18% (2015-12-18 to 2025-12-26, discount -9.0% -> -1.1%), RFI NAV 6.10% (fee 0.94%, about 20% preferreds), FTSE Nareit 5.28%
   CSRSX: 6.32% vs Linked benchmark (FTSE Nareit Equity REITs to Mar 2019 then FTSE Nareit All Equity REITs) 5.28% (after-fee edge +1.04); net fee 0.88%
   VNQ: 5.13% vs Real Estate Spliced Index 5.25% (after-fee edge -0.12); net fee 0.13%
-forward edge over REITs, a year: RFI +4.6 (discount narrows) / +1.8 (stays wide); Cohen & Steers Realty Shares about +1.0 if it repeats its ten-year record (5-year: +0.9); VNQ plus Welltower to RFI's weight about -0.1 (the fee; the simulation gives Welltower no expected edge)
+forward edge over REITs, a year: RFI +4.7 (discount narrows) / +1.6 (stays wide); Cohen & Steers Realty Shares about +1.0 if it repeats its ten-year record (5-year: +0.9); VNQ plus Welltower to RFI's weight about -0.1 (the fee; the simulation gives Welltower no expected edge)

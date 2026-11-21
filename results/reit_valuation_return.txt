@@ -1,5 +1,5 @@
-REIT dividend yield 3.77% (Oct 30, 2026) minus the 10-year 5.07% (Nov 18) = -1.30 pts
-months since 1972-01-31 with a gap this low or lower: 12.3%; lowest -7.16 (1981-08-31)
-since 1972-01: 646 months, fwd 12m return = a + 0.14 x gap (t 0.14, R2 0.00); unconditional mean 12.57%, median 13.51%; at today's gap 12.34% (95% 7.41 to 17.26); months within 1 pt of today's gap: 99, median fwd 12.52%; lowest gap in sample -7.16
-since 1990-01: 430 months, fwd 12m return = a + 5.54 x gap (t 3.16, R2 0.11); unconditional mean 11.88%, median 12.54%; at today's gap -1.30% (95% -10.83 to 8.22); months within 1 pt of today's gap: 39, median fwd 5.68%; lowest gap in sample -1.43
-since 2000-01: 310 months, fwd 12m return = a + 6.45 x gap (t 3.35, R2 0.15); unconditional mean 11.60%, median 11.92%; at today's gap -4.61% (95% -16.40 to 7.18); months within 1 pt of today's gap: 29, median fwd 2.27%; lowest gap in sample -1.43
+REIT dividend yield 3.77% (Oct 30, 2026) minus the 10-year 4.92% (Nov 20) = -1.15 pts
+months since 1972-01-31 with a gap this low or lower: 13.1%; lowest -7.16 (1981-08-31)
+since 1972-01: 646 months, fwd 12m return = a + 0.14 x gap (t 0.14, R2 0.00); unconditional mean 12.57%, median 13.51%; at today's gap 12.36% (95% 7.60 to 17.12); months within 1 pt of today's gap: 131, median fwd 10.70%; lowest gap in sample -7.16
+since 1990-01: 430 months, fwd 12m return = a + 5.54 x gap (t 3.16, R2 0.11); unconditional mean 11.88%, median 12.54%; at today's gap -0.47% (95% -9.56 to 8.61); months within 1 pt of today's gap: 64, median fwd 4.84%; lowest gap in sample -1.43
+since 2000-01: 310 months, fwd 12m return = a + 6.45 x gap (t 3.35, R2 0.15); unconditional mean 11.60%, median 11.92%; at today's gap -3.64% (95% -14.94 to 7.65); months within 1 pt of today's gap: 43, median fwd 3.09%; lowest gap in sample -1.43
