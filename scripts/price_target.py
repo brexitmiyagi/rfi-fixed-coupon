@@ -92,3 +92,15 @@ bc_row = pd.read_csv(os.path.join(RESULTS, "price_target.csv")).iloc[1]
 be_px = (bc_row.exp_price + f["payout"]) / (1 + s["ust_10y"] / 100)
 lines.append(f"corrected case clears the {s['ust_10y']}% 10-year below ${be_px:.2f}, a discount of {(be_px/f['nav']-1)*100:.1f}% to today's NAV (the 10.1% buy line sits below that)")
 save("price_target.txt", "\n".join(lines) + "\n")
+
+# Chart data: the spread of 12-month total returns in the corrected case, in 5-point buckets, plus the
+# share of runs that beat REITs and the 10-year (the chart in the trade section).
+p1, nav1, bench = sim(base_E + bc.average_miss)
+tot = (p1 + f["payout"]) / f["price"] * 100 - 100
+edges = np.arange(-60, 85, 5)
+h, _ = np.histogram(np.clip(tot, edges[0], edges[-1] - 0.01), bins=edges)
+pd.DataFrame({"bucket": [f"{a:+d} to {b:+d}%" for a, b in zip(edges[:-1], edges[1:])], "from": edges[:-1],
+              "share_of_runs_pct": (h / h.sum() * 100).round(2)}).to_csv(os.path.join(RESULTS, "charts", "c22_corrected_distribution.csv"), index=False)
+save("price_target_distribution.txt", f"corrected case: mean {tot.mean():+.1f}%, median {np.median(tot):+.1f}%, "
+     f"5th {np.percentile(tot,5):+.1f}%, 95th {np.percentile(tot,95):+.1f}%, below zero {(tot<0).mean()*100:.0f}%, "
+     f"above the {s['ust_10y']}% 10-year {(tot>s['ust_10y']).mean()*100:.0f}%, above REITs {(tot>bench).mean()*100:.0f}%\n")
