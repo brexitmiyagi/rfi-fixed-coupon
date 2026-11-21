@@ -1,4 +1,4 @@
-Year,Net investment income per share,Regular payout per share (no specials)
+Year,Net investment income per share,Regular payout per share (no year-end extras)
 1994,0.83,0.88
 1995,0.88,0.96
 1996,1.02,0.96
@@ -25,9 +25,9 @@ Year,Net investment income per share,Regular payout per share (no specials)
 2017,0.3,0.96
 2018,0.3,0.96
 2019,0.29,0.96
-2020,0.26,1.01
+2020,0.26,0.96
 2021,0.18,0.96
-2022,0.3,1.226
+2022,0.3,0.96
 2023,0.34,0.96
 2024,0.31,0.96
 2025,0.3,0.96
